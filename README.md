@@ -90,6 +90,25 @@ The options for this main project are as follows:
 
 In all cases the project needs to be largely an individual effort in its core HF related areas. If a project is conducted with the assistance of others, the individuals’ contributions need to be clearly stated and identified.
 
+Due Wednesday May 10, 2023 (Finals Week)
+
+## Evaluation Project
+
+Evaluation against a standard. As part of this course you will have to learn about design guidelines and standards in different sub-fields of HF. The project will involve the evaluation the Human Factors of a complex system of your choosing. The goal of the project is to familiarize you with the current human factors design standards and to perform a task analysis.
+
+Proposed system and guideline due Wednesday February 1, 2023
+
+Due Wednesday March 8, 2023 (Mid-term Week, week before spring break)
+
+## Course Grades
+
+<table>
+<tr><td>Participation in class</td><td>30%</td></tr>
+<tr><td>Presentations and discussion lead</td><td>30%</td></tr>
+<tr><td>Main project</td><td>20%</td></tr>
+<tr><td>Evaluation project</td><td>20%</td></tr>
+</table>
+
 # General Expectations and Information
 
 ## Attendance and Preparedness for Class
