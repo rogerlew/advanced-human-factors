@@ -1,4 +1,4 @@
-# VTD 404 ST:Human Machine Interfaces
+# Psyc 562: Advanced Human Factors
 
 University of Idaho<br>
 3 Credits<br>
