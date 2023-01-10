@@ -176,7 +176,6 @@ One of the biggest potential problems that you as a student face in your writing
 
 Plagiarism is a serious issue and you cannot claim ignorance of the rules to protect yourself. If we encounter plagiarized work in your assignment (or exams) we are forced to fail you for that particular assignment (or part of the exam), or fail you for the entire course. That is obviously not in anyone’s interest – so please make sure that you fully understand the rules regarding plagiarism and if you have any questions please ask me before you submit your work.
 
-
 # Administrivia
     
 (UI 2022 Calendary)[https://www.uidaho.edu/-/media/UIdaho-Responsive/Files/registrar/Registrar/2021-22academiccalendar.pdf?la=en&hash=13733C63006BE4B84584962F414A906680E8649A]
