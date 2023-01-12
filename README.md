@@ -174,11 +174,19 @@ The readings will be determined in cooperation by the student and the instructor
 
 ## Background
 
-### Importance of perception to aerospace human factors (related discussion to other domains)
+### 1/18/2023 Importance of perception to human factors with discussion on various domains
+
+Provide at least some materials by Friday (1/13) and all materials by Monday (1/16) for review.
+
+- (Dan) Perception and Human Factors
+- (Benga) Peception Nuclear Control Room Operations
+- (Zeth) Immersion in VR
+
 
 ### HF Evaluation (Standards) and Usability Principles 
 
 ### Artificial Intelligence / Generative Adversarial Networks
+
 
 ## Domains
 
