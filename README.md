@@ -60,6 +60,77 @@ On multiple occasions throughout the semester you will present on a specific top
 
 The readings will be determined in cooperation by the student and the instructor. For some topics central articles are going to be provided (see below). Students are, however, encouraged to seek additional material. Your objective as a discussion leader is to provide a framework that summarizes and critically reviews important concepts. In line with this objective, please provide the class with additional handout materials such as lecture notes and references in addition to the presentation. 
 
+# Topics
+
+## Human Performance
+
+   ### Human Reliability/Error
+   
+   ### Workload (Cognitive and Physical Workload)
+
+   ### Cognitive Decision Making
+   
+   ### Risk Communication / Uncertainty Communication
+   
+## Domains
+
+   ### Forensics
+   
+   ### Medical
+   
+   ### Space/Aerospace
+
+## Automation
+
+   ### Robotics
+   
+   ### Autonomous Vehicles
+
+   ### Control Systems
+   
+## Special Populations
+
+   ### Gerontology (older adults)
+   
+## Emergent Features of Technology in Society
+
+   ### e.g. Social Media
+
+
+# Conceptual Schedule For Course
+
+## Background
+
+### Importance of perception to aerospace human factors (related discussion to other domains)
+
+### HF Evaluation (Standards) and Usability Principles 
+
+### Artificial Intelligence / Generative Adversarial Networks
+
+## Domains
+
+### Autonomous Vehicles / Forensics
+
+### Robotics / Medical
+
+## Human Error / Workload / Cognitive Decision Making
+
+   ### Risk Communication / Uncertainty Communication
+
+   ### Human Reliability/Error
+   
+   ### Workload (Cognitive and Physical Workload)
+
+   ### Cognitive Decision Making
+   
+## Domains Round 2
+
+### Control Systems / Space
+
+### Gerontology
+
+
+
 ## Class Requirements and Grading
 
 ### Preparation and Participation
