@@ -280,5 +280,5 @@ Plagiarism is a serious issue and you cannot claim ignorance of the rules to pro
 
 # Administrivia
     
-(UI 2022 Calendary)[https://www.uidaho.edu/-/media/UIdaho-Responsive/Files/registrar/Registrar/2021-22academiccalendar.pdf?la=en&hash=13733C63006BE4B84584962F414A906680E8649A]
+(UI 2023 Calendar)[https://www.uidaho.edu/registrar/classes/finals/spring](https://www.uidaho.edu/registrar/classes/finals/spring)]
     
