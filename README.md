@@ -1,9 +1,11 @@
 # Psyc 562: Advanced Human Factors
 
 
-### Annoucement
-<b> 1/12/2023 10:39 AM    The first classroom recording is available on Canvas under "Classroom Recordings"</b>
+### Annoucements
 
+```diff
+!  1/12/2023 10:39 AM    The first classroom recording is available on Canvas under "Classroom Recordings"
+```
 
 University of Idaho<br>
 3 Credits<br>
