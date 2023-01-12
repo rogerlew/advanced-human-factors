@@ -72,14 +72,45 @@ The readings will be determined in cooperation by the student and the instructor
    
    ### Risk Communication / Uncertainty Communication
    
-## Domains
+## HF Speciality Domains
 
-   ### Forensics
+   ### Forensics 
+   
+   - Incident Investigation 
+   - Intelligence and Computer Based Systems
+   - Firearms
+   - Hazard Preventation
+   - Automation and Error Communication
+   - Human Machine Teaming 
+     - Automated assistive tools
    
    ### Medical
    
+   - Medical devices
+   - Hazard perception
+   - Limits of human ability
+     - motor skill limitations
+   - special requirements interface displays
+     - real-time (situational awareness)
+     - knowledge/information management
+   - expertise effects
+   - AI/ human machine teaming
+   - Regulation (Nuclear Power/ aerospace)
+   - Prosthetics / robotics
+   
    ### Space/Aerospace
-
+   
+   - physiological effects of low gravity
+   - fatigue for long duration flights
+   - physiological effects of high-gravity
+     - g-lock
+   - perceptual issues
+   - distraction / multi-tasking
+   - human-in-the-loop (interaction with automation)
+   - procedure following
+   - adaptive adaptation (defense)
+     - physiological measures
+   
 ## Automation
 
    ### Robotics
