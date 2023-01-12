@@ -19,6 +19,9 @@ Zoom: ```https://uidaho.zoom.us//j/84258643730```
 
 Passcode: ```704495```
 
+### Annoucement
+<b> 1/12/2023 10:39 AM    The first classroom recording is available on Canvas under "Classroom Recordings"</b>
+
 ## Instructor
 
 Roger Lew<br>
@@ -26,7 +29,7 @@ rogerlew@uidaho.edu<br>
 208-660-4525 (Business hours only please)<br>
 Office Hours: by appointment
 
-## Readings
+## Readings and Materials
 
 There is no textbook for this class. Instead, we will rely on journal articles, book chapters, published standards, and HFES conference proceedings as the main sources for this course. 
 
