@@ -115,17 +115,59 @@ The readings will be determined in cooperation by the student and the instructor
 
    ### Robotics
    
+   - robotics primer (sensors, actuators, microelectronics) (Zeth)
+   - manufacturing / assembly line
+   - remote operation
+     - drones (aerial/groundbased)
+     - food delivery vehicles (partial autonomous)
+     - Boston robotics (human machine teaming)
+   - humanoid robots 
+   
    ### Autonomous Vehicles
+   
+   - semiautonmous driving
+   - different levels of autonomous driving
+   - interfaces / controls / feedback
+   - distraction and fatigue / workload / potential of autonomous vehicles and robotaxis
+   - situational awareness with partial and full automation
+   - transitioning from automation to human
+   - trust and reliability
+   - AI / Automation stack
+   - Different types vehicles / challenges (w/out rabbit hole)
 
    ### Control Systems
+   
+   - human machine interfaces
+     - design
+     - evaluation
+   - control room concepts (concept of operations)
+   - simulation, transferability, and training
+   - Regulation nuclear power and related domains
    
 ## Special Populations
 
    ### Gerontology (older adults)
    
-## Emergent Features of Technology in Society
+   - Cognitive changes in older adulthood
+   - Physical changes in older adulthood
+   - Advantages and challenges for older adults
+     - Physical 
+     - Technological
+     - Societal
+   - Interventions / assistive technologies
+   - Research challenges and limitations
+   
+## Technology in Society
 
-   ### e.g. Social Media
+   ### Social Media
+   
+   ### Virtual Reality
+   
+   ### Crypto
+   
+   ### Ubiqutous Computing
+   
+   ### Gaming
 
 
 # Conceptual Schedule For Course
