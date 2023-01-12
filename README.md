@@ -179,7 +179,7 @@ The readings will be determined in cooperation by the student and the instructor
 Provide at least some materials by Friday (1/13) and all materials by Monday (1/16) for review.
 
 - (Dan) Perception and Human Factors
-- (Benga) Peception Nuclear Control Room Operations
+- (Benga) Perception Nuclear Control Room Operations
 - (Zeth) Immersion in VR
 
 
