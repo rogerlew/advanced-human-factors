@@ -174,7 +174,7 @@ The readings will be determined in cooperation by the student and the instructor
    
    ### Ubiqutous Computing
    
-   ### Gaming
+   ### Gaming / Entertainment (MJ) / Music (MJ)
 
 
 # Conceptual Schedule For Course
