@@ -175,6 +175,8 @@ The readings will be determined in cooperation by the student and the instructor
    
    ### Virtual Reality
    
+   - Affordance perception in VR (AT)
+   
    ### Crypto
    
    ### Ubiqutous Computing
