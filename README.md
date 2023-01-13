@@ -82,7 +82,7 @@ The readings will be determined in cooperation by the student and the instructor
    
    ### Risk Communication / Uncertainty Communication
    
-   - perception/role of warnings, signage, etc.
+   - perception/role of warnings, signage, etc. (AT)
    
 ## HF Speciality Domains
 
