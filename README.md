@@ -33,6 +33,7 @@ rogerlew@uidaho.edu<br>
 208-660-4525 (Business hours only please)<br>
 Office Hours: by appointment
 
+
 ## Readings and Materials
 
 There is no textbook for this class. Instead, we will rely on journal articles, book chapters, published standards, and HFES conference proceedings as the main sources for this course. 
@@ -71,6 +72,8 @@ The readings will be determined in cooperation by the student and the instructor
 
 ## Human Performance
 
+   ### Attention
+   
    ### Human Reliability/Error
    
    ### Workload (Cognitive and Physical Workload)
