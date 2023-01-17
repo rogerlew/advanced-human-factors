@@ -68,6 +68,8 @@ On multiple occasions throughout the semester you will present on a specific top
 
 The readings will be determined in cooperation by the student and the instructor. For some topics central articles are going to be provided (see below). Students are, however, encouraged to seek additional material. Your objective as a discussion leader is to provide a framework that summarizes and critically reviews important concepts. In line with this objective, please provide the class with additional handout materials such as lecture notes and references in addition to the presentation. 
 
+
+
 # Topics
 
 ## Human Performance
@@ -193,8 +195,12 @@ The readings will be determined in cooperation by the student and the instructor
 Provide at least some materials by Friday (1/13) and all materials by Monday (1/16) for review.
 
 - (Dan) Perception and Human Factors
+
+  https://drive.google.com/drive/folders/1cv2fnHMSm6ol9tzZPyDWWj9umY1oJ5sB?usp=share_link
+
 - (Benga) Perception Nuclear Control Room Operations
-- (Zeth) Immersion in VR
+- 
+- (Zeth) (Immersion in VR)[dubois_immersion_in_vr.pdf]
 
 
 ### HF Evaluation (Standards) and Usability Principles 
