@@ -194,13 +194,15 @@ The readings will be determined in cooperation by the student and the instructor
 
 Provide at least some materials by Friday (1/13) and all materials by Monday (1/16) for review.
 
-- (Dan) Perception and Human Factors
+#### (Dan) Perception and Human Factors
 
-  https://drive.google.com/drive/folders/1cv2fnHMSm6ol9tzZPyDWWj9umY1oJ5sB?usp=share_link
+https://drive.google.com/drive/folders/1cv2fnHMSm6ol9tzZPyDWWj9umY1oJ5sB?usp=share_link
 
-- (Benga) Perception Nuclear Control Room Operations
-- 
-- (Zeth) (Immersion in VR)[https://github.com/rogerlew/advanced-human-factors/blob/main/readings/dubois_immersion_in_vr.pdf]
+#### (Benga) Perception Nuclear Control Room Operations
+
+Stuck in London
+ 
+#### (Zeth) [Immersion in VR](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/dubois_immersion_in_vr.pdf)
 
 
 ### HF Evaluation (Standards) and Usability Principles 
