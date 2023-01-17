@@ -194,9 +194,7 @@ The readings will be determined in cooperation by the student and the instructor
 
 Provide at least some materials by Friday (1/13) and all materials by Monday (1/16) for review.
 
-#### (Dan) Perception and Human Factors
-
-https://drive.google.com/drive/folders/1cv2fnHMSm6ol9tzZPyDWWj9umY1oJ5sB?usp=share_link
+#### (Dan) [Perception and Human Factors](https://drive.google.com/drive/folders/1cv2fnHMSm6ol9tzZPyDWWj9umY1oJ5sB?usp=share_link)
 
 #### (Benga) Perception Nuclear Control Room Operations
 
