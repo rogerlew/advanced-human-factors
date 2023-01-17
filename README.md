@@ -200,7 +200,7 @@ Provide at least some materials by Friday (1/13) and all materials by Monday (1/
 
 - (Benga) Perception Nuclear Control Room Operations
 - 
-- (Zeth) (Immersion in VR)[dubois_immersion_in_vr.pdf]
+- (Zeth) (Immersion in VR)[https://github.com/rogerlew/advanced-human-factors/blob/main/readings/dubois_immersion_in_vr.pdf]
 
 
 ### HF Evaluation (Standards) and Usability Principles 
