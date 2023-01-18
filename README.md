@@ -1,5 +1,6 @@
 # Psyc 562: Advanced Human Factors
 
+This ia a clone of the class repo /rogerlew/advanced-human-factors
 
 ### Annoucements
 
