@@ -40,13 +40,16 @@ Virtual Reality is one conceptual mediated reality class often seen as a end-pol
 
 *Cross reality (XR)* is yet another mix, one in which the virtual agents and/or the real agents encountered adopt a level of interactive automony--perhaps even conscious behavior. 
 
-![[MR_cont.png]]
-
-![[env_continuum.png]]
 
 
 
-![[XR_diag.png]]
+<img src="img/MR_cont.png" width=40% height=40%>
+<img src="img/env_continuum.png" width=40% height=40%>
+
+<img src="img/XR_diag.png" width=60% height=60%>
+
+
+
 
 Figures from the author's reasarch and thesis (Dubois, 2020)
 
@@ -57,9 +60,10 @@ Figures from the author's reasarch and thesis (Dubois, 2020)
 * Proprioception
 
 #### Vision
-![[FOV.png]]
+<img src="img/FOV.png" width=40% height=40%>
+<img src="img/focus_FOV.png" width=40% height=40%>
 
-![[focus_FOV.png]]
+
 
 #### Auditory
  The human range is commonly given as 20 to 20,000 Hz, although there is considerable variation between individuals, especially at high frequencies, and a gradual loss of sensitivity to higher frequencies with age is considered normal.
