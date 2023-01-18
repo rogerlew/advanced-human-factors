@@ -85,6 +85,8 @@ https://vimeo.com/chocobaby
 
 Bowman, D. A., & McMahan, R. P. (2007). Virtual Reality: How Much Immersion Is Enough? _Computer_, _40_(7), 36–43. [https://doi.org/10.1109/MC.2007.257](https://doi.org/10.1109/MC.2007.257)
 
+Dubois, Z. (2020, May). Ecstatic [X]Reality: Mediating Altered States of Consciousness [Text]. Theses and Dissertations Collection, University of Idaho Library. https://www.lib.uidaho.edu/digital/etd/items/dubois_idaho_0089n_11785.html
+
 Hoffman, D. (n.d.). _Donald Hoffman: Do we see reality as it is? | TED Talk_. Retrieved January 13, 2023, from [https://www.ted.com/talks/donald_hoffman_do_we_see_reality_as_it_is](https://www.ted.com/talks/donald_hoffman_do_we_see_reality_as_it_is)
 
 Hoffman, D. (2019). _The case against reality: Why evolution hid the truth from our eyes_. WW Norton & Company.
