@@ -195,16 +195,52 @@ Provide at least some materials by Friday (1/13) and all materials by Monday (1/
 
 #### (Dan) [Perception and Human Factors](https://drive.google.com/drive/folders/1cv2fnHMSm6ol9tzZPyDWWj9umY1oJ5sB?usp=share_link)
 
-#### (Benga) Perception Nuclear Control Room Operations
-
 Stuck in London
  
 #### (Zeth) [Immersion in VR](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/dubois_immersion_in_vr.pdf)
 
 
-### HF Evaluation (Standards) and Usability Principles 
+### 1/25/2023 Importance of perception to human factors with discussion on various domains
 
-### Artificial Intelligence / Generative Adversarial Networks
+
+#### (Gbenga) Perception for Nuclear Control Room Operations
+
+#### (Kyle) Workload (Cognitive and Physical Workload) 
+
+  - Human Factors Practioners in the Workplace
+  - Domain Example from Aerospace
+
+### 2/1/2023
+
+#### (Hailee) Human Reliability/Error and introduction to automation
+
+#### Autonomous Vehicles
+
+  - Risk Mitigation
+  - Older population driving
+  - Distracted Driving
+
+### 2/8/2023
+
+#### (Roger) HF Evaluation (Standards)
+
+  - Short-cuts cutting corners
+  - Other simplified metrics or evaluation criteria
+
+#### HF and Project Management
+
+  - (Roger) Nuclear Power
+  - (???) Medical
+
+#### Usability Principles 
+
+#### Review existing evalutions
+
+### 2/15/2023
+
+#### Generative Adversarial Networks
+
+#### Artificial Intelligence
 
 
 ## Domains
