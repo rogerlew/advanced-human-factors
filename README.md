@@ -2,10 +2,6 @@
 
 ### Annoucements
 
-```diff
-!  1/12/2023 10:39 AM    The first classroom recording is available on Canvas under "Classroom Recordings"
-```
-
 University of Idaho<br>
 3 Credits<br>
 Spring 2023<br>
@@ -207,8 +203,13 @@ Stuck in London
 
 #### (Kyle) Workload (Cognitive and Physical Workload) 
 
+
   - Human Factors Practioners in the Workplace
   - Domain Example from Aerospace
+
+DiDomenico, A. & Nussbaum, M. A. (2011). Effects of different physical workload parameters on mental workload and performance. International Journal of Industrial Ergonomics, 4, 255-260. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/workload/Effects_of_physical_workload_parameter_%20on_mental_workload_and_performance.pdf)
+
+[Mental Workload Textbook Chapter](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/workload/Mental_workload.pdf)
 
 ### 2/1/2023
 
