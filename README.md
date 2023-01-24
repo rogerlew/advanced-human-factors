@@ -201,6 +201,11 @@ Stuck in London
 
 #### (Gbenga) Perception for Nuclear Control Room Operations
 
+Ivergard, T, and Hunt, B. (2009). Handbook of Control Room Design and Ergonomics: A perspective for the future. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/process_control/handbook_control_room_design_and_ergo.pdf)
+
+We will be focusing on Chapter 10: The Operator Abilities & Limitations (pg 263 – 289).
+
+
 #### (Kyle) Workload (Cognitive and Physical Workload) 
 
 
