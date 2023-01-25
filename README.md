@@ -220,7 +220,7 @@ DiDomenico, A. & Nussbaum, M. A. (2011). Effects of different physical workload 
 
 #### (Hailee) Human Reliability/Error and introduction to automation
 
-#### Autonomous Vehicles
+#### (Thi) Autonomous Vehicles
 
   - Risk Mitigation
   - Older population driving
@@ -236,7 +236,7 @@ DiDomenico, A. & Nussbaum, M. A. (2011). Effects of different physical workload 
 #### HF and Project Management
 
   - (Roger) Nuclear Power
-  - (???) Medical
+  - (Nicole?) Medical
 
 #### Usability Principles 
 
@@ -244,6 +244,69 @@ DiDomenico, A. & Nussbaum, M. A. (2011). Effects of different physical workload 
 
 ### 2/15/2023
 
+  - (Kyle?)
+  - (Margaret?)
+  - (Steven?)
+
+### 2/22/2023
+
+  - (Hailee?)
+  - (Madison?)
+  - (Nicole?)
+
+### 3/1/2023
+
+  - (Zeth?)
+  - (Kristen?)
+  - (Soyeon?)
+
+### 3/8/2023
+
+  - (Gbenga?)
+  - (Dahiell?)
+  - (Angela?)
+
+### 3/15/2023
+
+   (Spring Break)
+
+### 3/22/2023
+
+  - (Dan?)
+  - (Angela?)
+
+### 3/29/2023
+
+  - (Kyle?)
+  - (Dashiell?)
+  
+### 4/5/2023
+
+  - (Gbenga?)
+  - (Margaret?)
+  
+### 4/12/2023
+
+  - (Zeth?)
+  - (Madison?)
+  
+### 4/17/2023
+
+  - (Hailee?)
+  - (Kristen?)
+  - (Soyeon?)
+  
+### 4/26/2023
+
+  - (Kyle?)
+  - (Dan?)
+  - (Nicole?)
+  
+### 5/3/2023
+
+  - (Thi?)
+  - (Steven?)
+  
 #### Generative Adversarial Networks
 
 #### Artificial Intelligence
