@@ -218,6 +218,18 @@ DiDomenico, A. & Nussbaum, M. A. (2011). Effects of different physical workload 
 
 ### 2/1/2023
 
+#### (Roger) HF Evaluation (Standards)
+
+  - Short-cuts cutting corners
+  - Other simplified metrics or evaluation criteria
+  - Standards
+    - (Roger) Nuclear Power
+    - (Nicole?) Medical
+
+#### Ethical Considerations and Design (Dashiell)
+
+### 2/8/2023
+
 #### (Hailee) Human Reliability/Error and introduction to automation
 
 #### (Thi) Autonomous Vehicles
@@ -225,38 +237,22 @@ DiDomenico, A. & Nussbaum, M. A. (2011). Effects of different physical workload 
   - Risk Mitigation
   - Older population driving
   - Distracted Driving
-
-### 2/8/2023
-
-#### (Roger) HF Evaluation (Standards)
-
-  - Short-cuts cutting corners
-  - Other simplified metrics or evaluation criteria
-
-#### HF and Project Management
-
-  - (Roger) Nuclear Power
-  - (Nicole?) Medical
-
-#### Usability Principles 
-
-#### Review existing evalutions
-
+  
 ### 2/15/2023
 
-  - (Kyle?)
-  - (Margaret?)
-  - (Steven?)
+  - (Dan) Forensics, Incidence Investigation, Intelligence and Computer-Based Systems
+  - (Margaret?) Music Perception and Human Factors
+  - (Steven?) Kitchen Human Factors
 
 ### 2/22/2023
 
-  - (Hailee?)
+  - (Hailee?) distraction / multi-tasking
   - (Madison?) human error, risk prevention, patient safety 
-  - (Nicole?)
+  - (Nicole?) Medical Round 2 or other
 
 ### 3/1/2023
 
-  - (Zeth?)
+  - (Kyle?)
   - (Kristen?)
   - (Soyeon?)
 
@@ -272,7 +268,7 @@ DiDomenico, A. & Nussbaum, M. A. (2011). Effects of different physical workload 
 
 ### 3/22/2023
 
-  - (Dan?)
+  - (Zeth?)
   - (Angela?)
 
 ### 3/29/2023
