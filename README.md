@@ -296,7 +296,6 @@ DiDomenico, A. & Nussbaum, M. A. (2011). Effects of different physical workload 
 
   - (Kyle?)
   - (Dan?)
-  - (Nicole?)
   
 ### 5/3/2023
 
