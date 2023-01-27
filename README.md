@@ -224,7 +224,30 @@ DiDomenico, A. & Nussbaum, M. A. (2011). Effects of different physical workload 
   - Other simplified metrics or evaluation criteria
   - Standards
     - (Roger) Nuclear Power
-    - (Nicole?) Medical
+    - (Nicole) Medical
+    
+**Materials**
+
+Maguire, M. (2013). Using human factors standards to support user experience and agile design. in C. Stephanidis and M. Antona (Eds.) UAHCI/HCII 2013, 185-194. [PDF](https://github.com/rogerlew/advanced-human-factors/raw/main/readings/standards/standards_for_ux_and_agile_design.pdf)
+
+Kovesdi, C. and Joe, J (2017). A review of human system interface design issues observed during analog-to-digital and digital-to-analog migrations in the U.S. nuclear power plants. NPIC & HMIT 2017 (preprint).
+[PDF](https://github.com/rogerlew/advanced-human-factors/raw/main/readings/standards/KovesdiC%2CJoeJ(2017)_A_review_of_hsi_design_issues.pdf)
+
+Peruse one or more of the following standards:
+
+[MIL-STD-1472G](https://github.com/rogerlew/advanced-human-factors/raw/main/readings/standards/MIL-STD-1472G.pdf) (not the latest revision)
+
+[NUREG-0700 Revision 3](https://github.com/rogerlew/advanced-human-factors/raw/main/readings/standards/Nureg0700_rev3_ML20162A214.pdf)
+
+[FAA 2016-12](https://github.com/rogerlew/advanced-human-factors/raw/main/readings/standards/faa_2016-12_full_text.pdf)
+
+##### Other Standards
+
+[SAE Safety and Human Factors Standards](https://standardsworks.sae.org/standards-committees/safety-human-factors-standards-steering-committee)
+
+[ISO 9241-210:2019 Ergonomics of human-system interaction](https://www.iso.org/standard/77520.html)
+
+
 
 #### Ethical Considerations and Design (Dashiell)
 
