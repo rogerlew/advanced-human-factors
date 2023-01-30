@@ -233,6 +233,20 @@ Maguire, M. (2013). Using human factors standards to support user experience and
 Kovesdi, C. and Joe, J (2017). A review of human system interface design issues observed during analog-to-digital and digital-to-analog migrations in the U.S. nuclear power plants. NPIC & HMIT 2017 (preprint).
 [PDF](https://github.com/rogerlew/advanced-human-factors/raw/main/readings/standards/KovesdiC%2CJoeJ(2017)_A_review_of_hsi_design_issues.pdf)
 
+###### Medical Human Factors Standards
+
+The first three links have a paywall for full access, provided for reference. The full FDA Guidance and Draft Guidance are both freely accessible.
+
+[IEC 62366-1:2015/Amd 1:2020](https://www.iso.org/standard/73007.html)
+
+[IEC 62366-2:2016](https://www.iso.org/standard/69126.html)
+ 
+[ANSI/AAMI HE75](https://webstore.ansi.org/standards/aami/ansiaamihe752009r2018)
+ 
+[FDA Guidance - Applying Human Factors and Usability Engineering to Medical Devices](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/applying-human-factors-and-usability-engineering-medical-devices)
+
+[Draft FDA Guidance - Content of Human Factors Information in Medical Device Marketing Submissions](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/content-human-factors-information-medical-device-marketing-submissions)
+
 Peruse one or more of the following standards:
 
 [MIL-STD-1472G](https://github.com/rogerlew/advanced-human-factors/raw/main/readings/standards/MIL-STD-1472G.pdf) (not the latest revision)
@@ -261,6 +275,8 @@ Peruse one or more of the following standards:
   - Older population driving
   - Distracted Driving
   
+### (Soyeon) Surface transportation and attention
+  
 ### 2/15/2023
 
   - (Dan) Forensics, Incidence Investigation, Intelligence and Computer-Based Systems
@@ -277,7 +293,7 @@ Peruse one or more of the following standards:
 
   - (Kyle?)
   - (Kristen?)
-  - (Soyeon?)
+  - (Jessica?)
 
 ### 3/8/2023
 
@@ -308,12 +324,13 @@ Peruse one or more of the following standards:
 
   - (Zeth?)
   - (Madison?)
+  - (Jessica?)
   
 ### 4/17/2023
 
   - (Hailee?)
   - (Kristen?)
-  - (Soyeon?)
+  - (Soyeon) Transportation for older adults
   
 ### 4/26/2023
 
