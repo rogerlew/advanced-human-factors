@@ -255,12 +255,14 @@ Peruse one or more of the following standards:
 
 [FAA 2016-12](https://github.com/rogerlew/advanced-human-factors/raw/main/readings/standards/faa_2016-12_full_text.pdf)
 
+
 ##### Other Standards
 
 [SAE Safety and Human Factors Standards](https://standardsworks.sae.org/standards-committees/safety-human-factors-standards-steering-committee)
 
 [ISO 9241-210:2019 Ergonomics of human-system interaction](https://www.iso.org/standard/77520.html)
 
+[HFES Technical Standards](https://www.hfes.org/publications/technical-standards)
 
 
 #### Ethical Considerations and Design (Dashiell)
