@@ -267,9 +267,20 @@ Peruse one or more of the following standards:
 
 #### Ethical Considerations and Design (Dashiell)
 
-### 2/8/2023
+### 2/8/2023 INL Researchers guest lecturers
+
+#### (Optional) Ron, Tom, and Jisuk Presentation
+Clearwater room in the ISUB on Wednesday, Feb. 8 from 12:30 to 1:30 pm
+
+#### HRA
+- (Ron) General intro to HRA
+- (Jisuk) General intro to PRA
+- (Tom) General intro to HRA-Data collection
 
 #### (Hailee) Human Reliability/Error and introduction to automation
+
+  
+### 2/15/2023 Advanced HF Lighting Round Grab Bag
 
 #### (Thi) Autonomous Vehicles
 
@@ -278,12 +289,12 @@ Peruse one or more of the following standards:
   - Distracted Driving
   
 ### (Soyeon) Surface transportation and attention
-  
-### 2/15/2023
 
-  - (Dan) Forensics, Incidence Investigation, Intelligence and Computer-Based Systems
-  - (Margaret?) Music Perception and Human Factors
-  - (Steven?) Kitchen Human Factors
+### (Dan) Forensics, Incidence Investigation, Intelligence and Computer-Based Systems
+
+### (Margaret?) Music Perception and Human Factors
+
+### (Steven?) Kitchen Human Factors
 
 ### 2/22/2023
 
