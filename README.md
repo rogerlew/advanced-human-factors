@@ -417,7 +417,7 @@ Due Wednesday May 10, 2023 (Finals Week)
 
 ## Evaluation Project
 
-Evaluation against a standard. As part of this course you will have to learn about design guidelines and standards in different sub-fields of HF. The project will involve the evaluation the Human Factors of a complex system of your choosing. The goal of the project is to familiarize you with the current human factors design standards and to perform a task analysis.
+Evaluation against a standard. As part of this course you will have to learn about design guidelines and standards in different sub-fields of HF. The project will involve the evaluation the Human Factors of a complex system of your choosing. The goal of the project is to familiarize you with the current human factors design standards and to perform an evaluation against a standard.
 
 Proposed system and guideline due Wednesday February <strike>1</strike> 8, 2023
 
