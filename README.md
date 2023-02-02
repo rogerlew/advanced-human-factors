@@ -419,7 +419,7 @@ Due Wednesday May 10, 2023 (Finals Week)
 
 Evaluation against a standard. As part of this course you will have to learn about design guidelines and standards in different sub-fields of HF. The project will involve the evaluation the Human Factors of a complex system of your choosing. The goal of the project is to familiarize you with the current human factors design standards and to perform a task analysis.
 
-Proposed system and guideline due Wednesday February 1, 2023
+Proposed system and guideline due Wednesday February <strike>1</strike> 8, 2023
 
 Due Wednesday March 8, 2023 (Mid-term Week, week before spring break)
 
