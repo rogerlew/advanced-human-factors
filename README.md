@@ -277,10 +277,9 @@ Clearwater room in the ISUB on Wednesday, Feb. 8 from 12:30 to 1:30 pm
 - (Jisuk) General intro to PRA
 - (Tom) General intro to HRA-Data collection
 
-#### (Hailee) Human Reliability/Error and introduction to automation
-
-  
 ### 2/15/2023 Advanced HF Lighting Round Grab Bag
+#### (Hailee) Distration and Multi-tasking
+
 
 #### (Thi) Autonomous Vehicles
 
@@ -297,8 +296,8 @@ Clearwater room in the ISUB on Wednesday, Feb. 8 from 12:30 to 1:30 pm
 ### (Steven?) Kitchen Human Factors
 
 ### 2/22/2023
-
-  - (Hailee?) distraction / multi-tasking
+  - (Dash) ethical consdierations in design
+  - (Margaret) automation
   - (Madison?) human error, risk prevention, patient safety 
   - (Nicole?) Medical Round 2 or other
 
