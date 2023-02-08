@@ -256,9 +256,16 @@ Peruse one or more of the following standards:
 [FAA 2016-12](https://github.com/rogerlew/advanced-human-factors/raw/main/readings/standards/faa_2016-12_full_text.pdf)
 
 
-##### Other Standards
+##### Automotive
 
 [SAE Safety and Human Factors Standards](https://standardsworks.sae.org/standards-committees/safety-human-factors-standards-steering-committee)
+
+
+[US-DOT FHA Preliminary Human Factors Design Guidelines for Driver Information Systems](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/1098/88512.0001.001.pdf)
+
+[NHSTA Human Factors Design Guidance For Driver-Vehicle Interfaces](https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/812360_humanfactorsdesignguidance.pdf)
+
+##### Other
 
 [ISO 9241-210:2019 Ergonomics of human-system interaction](https://www.iso.org/standard/77520.html)
 
