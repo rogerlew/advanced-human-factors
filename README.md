@@ -298,9 +298,9 @@ Clearwater room in the ISUB on Wednesday, Feb. 8 from 12:30 to 1:30 pm
 
 ### (Dan) Forensics, Incidence Investigation, Intelligence and Computer-Based Systems
 
-### (Margaret?) Music Perception and Human Factors
+### (Margaret) Music Perception and Human Factors
 
-### (Steven?) Kitchen Human Factors
+### (Steven) Kitchen Human Factors
 
 ### 2/22/2023
   - (Dash) ethical consdierations in design
