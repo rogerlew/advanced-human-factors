@@ -300,6 +300,8 @@ Arvin, R, Khattak, A. J. (2020). Driving impairments and duration of distraction
 
 Engstrom, J, Markkula, G orcid.org/0000-0003-0244-1582, Victor, T et al. (1 more author) (2017) Effects of cognitive load on driving performance: The cognitive control hypothesis. Human Factors, 59 (5), 734-764. ISSN 0018-7208. [PDF](https://raw.githubusercontent.com/rogerlew/advanced-human-factors/main/readings/surface_transportation/HF%20Paper%20_reviewied_final.pdf)
 
+Horrey, W. J., Wickens, C. D. (2006). Examining the Impact of Cell Phone Conversations on Driving Using Meta-Analytic Techniques. Human Factors, 48 (1), 196-205. [PDF](https://raw.githubusercontent.com/rogerlew/advanced-human-factors/main/readings/surface_transportation/dot_17719_DS1.pdf)
+
 #### (Dan) Forensics, Incidence Investigation, Intelligence and Computer-Based Systems
 
 #### (Margaret) Music Perception and Human Factors
