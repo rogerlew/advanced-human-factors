@@ -320,7 +320,7 @@ Horrey, W. J., Wickens, C. D. (2006). Examining the Impact of Cell Phone Convers
 ### 3/1/2023
 
   - (Kyle?)
-  - (Kristen?)
+  - (Kristen) Autonomous Vehicles
   - (Jessica?)
 
 ### 3/8/2023
@@ -358,7 +358,7 @@ Horrey, W. J., Wickens, C. D. (2006). Examining the Impact of Cell Phone Convers
 ### 4/17/2023
 
   - (Hailee?)
-  - (Kristen?)
+  - (Kristen) Trust and trust calibration in automation with an emphasis on automated vehicles (designing for behavior modification)
   
 ### 4/26/2023
 
