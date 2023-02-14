@@ -294,6 +294,10 @@ Clearwater room in the ISUB on Wednesday, Feb. 8 from 12:30 to 1:30 pm
   - Older population driving
   - Distracted Driving
   
+Chen, J, Mishler, S, Long, S, Yahoodlk, S, Garcia, K, Yamani, Y. (2023). Human-Automation Interaction for Semi-Autonomous Driving: Risk Communication and Trust. in Human-Automation Interaction. [PDF](https://raw.githubusercontent.com/rogerlew/advanced-human-factors/main/readings/surface_transportation/Chen%20et%20al%202013_Chapter_Author.pdf)
+  
+Choi, H., Feng, J. (2017). Older Driver's Self-Awareness of Functional Declines Influences Adoption of Compensatory Driving Behaviors. TRR Paper number: 18-00360. [PDF](https://raw.githubusercontent.com/rogerlew/advanced-human-factors/main/readings/surface_transportation/choi_feng_2018_trb-2.pdf)
+
 #### (Soyeon) Surface transportation and attention
 
 Arvin, R, Khattak, A. J. (2020). Driving impairments and duration of distractions: Assessing crash risk by harnessing microsopic naturalisitic driving data. Accident Analysis and Prevention, 146. [PDF](https://raw.githubusercontent.com/rogerlew/advanced-human-factors/main/readings/surface_transportation/1-s2.0-S0001457519316197-main.pdf)
