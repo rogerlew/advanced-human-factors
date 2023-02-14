@@ -294,19 +294,22 @@ Clearwater room in the ISUB on Wednesday, Feb. 8 from 12:30 to 1:30 pm
   - Older population driving
   - Distracted Driving
   
-### (Soyeon) Surface transportation and attention
+#### (Soyeon) Surface transportation and attention
 
-### (Dan) Forensics, Incidence Investigation, Intelligence and Computer-Based Systems
+Arvin, R, Khattak, A. J. (2020). Driving impairments and duration of distractions: Assessing crash risk by harnessing microsopic naturalisitic driving data. Accident Analysis and Prevention, 146. [PDF](https://raw.githubusercontent.com/rogerlew/advanced-human-factors/main/readings/surface_transportation/1-s2.0-S0001457519316197-main.pdf)
 
-### (Margaret) Music Perception and Human Factors
+Engstrom, J, Markkula, G orcid.org/0000-0003-0244-1582, Victor, T et al. (1 more author) (2017) Effects of cognitive load on driving performance: The cognitive control hypothesis. Human Factors, 59 (5), 734-764. ISSN 0018-7208. [PDF](https://raw.githubusercontent.com/rogerlew/advanced-human-factors/main/readings/surface_transportation/HF%20Paper%20_reviewied_final.pdf)
 
-### (Steven) Kitchen Human Factors
+#### (Dan) Forensics, Incidence Investigation, Intelligence and Computer-Based Systems
+
+#### (Margaret) Music Perception and Human Factors
 
 ### 2/22/2023
   - (Dash) ethical consdierations in design
   - (Margaret) automation
   - (Madison?) human error, risk prevention, patient safety 
   - (Nicole?) Medical Round 2 or other
+  - (Steven) Kitchen Human Factors
 
 ### 3/1/2023
 
