@@ -328,6 +328,7 @@ Clearwater room in the ISUB on Wednesday, Feb. 8 from 12:30 to 1:30 pm
 
   - (Zeth?)
   - (Angela?)
+  - (Soyeon) Transportation for older adults
 
 ### 3/29/2023
 
@@ -349,7 +350,6 @@ Clearwater room in the ISUB on Wednesday, Feb. 8 from 12:30 to 1:30 pm
 
   - (Hailee?)
   - (Kristen?)
-  - (Soyeon) Transportation for older adults
   
 ### 4/26/2023
 
