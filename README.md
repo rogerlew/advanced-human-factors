@@ -281,10 +281,12 @@ Clearwater room in the ISUB on Wednesday, Feb. 8 from 12:30 to 1:30 pm
 
 #### HRA
 - (Ron) General intro to HRA
-- (Jisuk) General intro to PRA
+- (Jisuk) General intro to PRA [PPT](https://raw.githubusercontent.com/rogerlew/advanced-human-factors/main/readings/HRA/(Jisuk%20Kim)%20Introduction%20to%20PRA.pdf)
+
 - (Tom) General intro to HRA-Data collection
 
 ### 2/15/2023 Advanced HF Lighting Round Grab Bag
+
 #### (Hailee) Distration and Multi-tasking
 
 
