@@ -271,6 +271,7 @@ Peruse one or more of the following standards:
 
 [HFES Technical Standards](https://www.hfes.org/publications/technical-standards)
 
+[IEEE 7007-2021 Ontological Standard for Ethically Driven Robotics and Automation Systems](https://raw.githubusercontent.com/rogerlew/advanced-human-factors/main/readings/standards/ieee7007-2021.pdf)
 
 #### Ethical Considerations and Design (Dashiell)
 
