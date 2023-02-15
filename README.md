@@ -288,7 +288,7 @@ Clearwater room in the ISUB on Wednesday, Feb. 8 from 12:30 to 1:30 pm
 
 ### 2/15/2023 Advanced HF Lighting Round Grab Bag
 
-#### (Hailee) Distration and Multi-tasking
+#### (Hailee) Distraction and Multi-tasking
 
 
 #### (Thi) Autonomous Vehicles
