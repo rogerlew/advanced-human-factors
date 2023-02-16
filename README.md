@@ -311,11 +311,10 @@ Horrey, W. J., Wickens, C. D. (2006). Examining the Impact of Cell Phone Convers
 
 #### (Dan) Forensics, Incidence Investigation, Intelligence and Computer-Based Systems
 
-#### (Margaret) Music Perception and Human Factors
 
 ### 2/22/2023
   - (Dash) ethical consdierations in design
-  - (Margaret) automation
+  - (Margaret) Music Perception and Human Factors
   - (Madison?) human error, risk prevention, patient safety 
   - (Nicole?) Medical Round 2 or other
   - (Steven) Kitchen Human Factors
