@@ -313,7 +313,14 @@ Horrey, W. J., Wickens, C. D. (2006). Examining the Impact of Cell Phone Convers
 
 
 ### 2/22/2023
-  - (Dash) ethical consdierations in design
+
+#### (Dashiell) Ethical consdierations in design
+  
+Munteanu, C., et al. (2015). Situational Ethics: Re-thinkning Approaches to Formal Ethics Requirements for Human-Computer Interaction. CHI 2015.
+[PDF](https://raw.githubusercontent.com/rogerlew/advanced-human-factors/main/readings/ethics/Munteanu%20et%20al_Situational%20Ethics.pdf)
+
+Norman, D. A. (2005). Human-Centered Design Considered Harmful. Interactions. [PDF](https://raw.githubusercontent.com/rogerlew/advanced-human-factors/main/readings/ethics/Norman_HCD%20Considered%20Harmful.pdf)
+
   - (Margaret) Music Perception and Human Factors
   - (Madison?) human error, risk prevention, patient safety 
   - (Nicole?) Medical Round 2 or other
