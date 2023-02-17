@@ -323,7 +323,7 @@ Horrey, W. J., Wickens, C. D. (2006). Examining the Impact of Cell Phone Convers
 
   - (Kyle?)
   - (Kristen) Autonomous Vehicles
-  - (Jessica?)
+  - (Jessica) Thinking Fast and Slow - Kahneman
 
 ### 3/8/2023
 
