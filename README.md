@@ -311,7 +311,6 @@ Horrey, W. J., Wickens, C. D. (2006). Examining the Impact of Cell Phone Convers
 
 #### (Dan) Forensics, Incidence Investigation, Intelligence and Computer-Based Systems
 
-
 ### 2/22/2023
 
 #### (Dashiell) Ethical consdierations in design
@@ -319,12 +318,19 @@ Horrey, W. J., Wickens, C. D. (2006). Examining the Impact of Cell Phone Convers
 Munteanu, C., et al. (2015). Situational Ethics: Re-thinkning Approaches to Formal Ethics Requirements for Human-Computer Interaction. CHI 2015.
 [PDF](https://raw.githubusercontent.com/rogerlew/advanced-human-factors/main/readings/ethics/Munteanu%20et%20al_Situational%20Ethics.pdf)
 
-Norman, D. A. (2005). Human-Centered Design Considered Harmful. Interactions. [PDF](https://raw.githubusercontent.com/rogerlew/advanced-human-factors/main/readings/ethics/Norman_HCD%20Considered%20Harmful.pdf)
+Norman, D. A. (2005). Human-Centered Design Considered Harmful. Interactions. 
+[PDF](https://raw.githubusercontent.com/rogerlew/advanced-human-factors/main/readings/ethics/Norman_HCD%20Considered%20Harmful.pdf)
 
-  - (Margaret) Music Perception and Human Factors
-  - (Madison?) human error, risk prevention, patient safety 
-  - (Nicole?) Medical Round 2 or other
-  - (Steven) Kitchen Human Factors
+#### (Margaret) Music Perception and Human Factors
+  
+#### (Madison?) human error, risk prevention, patient safety 
+
+Gosbee, J. (2002). Human Factors Engineering and Patient Safety.  BMJ Quality and Safety. http://dx.doi.org/10.1136/qhc.11.4.352
+[PDF](https://raw.githubusercontent.com/rogerlew/advanced-human-factors/main/readings/healthcare/GosbeeJ_HFE_patient_safety.pdf)
+
+#### (Nicole) Medical Round 2 or other
+
+#### (Steven) Kitchen Human Factors
 
 ### 3/1/2023
 
