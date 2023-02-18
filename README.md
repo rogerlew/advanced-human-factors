@@ -323,7 +323,7 @@ Norman, D. A. (2005). Human-Centered Design Considered Harmful. Interactions.
 
 #### (Margaret) Music Perception and Human Factors
   
-#### (Madison?) human error, risk prevention, patient safety 
+#### (Madison) human error, risk prevention, patient safety 
 
 <i>Please read the example in Box 2.</i>
 
