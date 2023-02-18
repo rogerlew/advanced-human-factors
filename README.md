@@ -325,6 +325,8 @@ Norman, D. A. (2005). Human-Centered Design Considered Harmful. Interactions.
   
 #### (Madison?) human error, risk prevention, patient safety 
 
+<i>Please read the example in Box 2.</i>
+
 Gosbee, J. (2002). Human Factors Engineering and Patient Safety.  BMJ Quality and Safety. http://dx.doi.org/10.1136/qhc.11.4.352
 [PDF](https://raw.githubusercontent.com/rogerlew/advanced-human-factors/main/readings/healthcare/GosbeeJ_HFE_patient_safety.pdf)
 
