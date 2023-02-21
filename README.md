@@ -358,7 +358,7 @@ Gosbee, J. (2002). Human Factors Engineering and Patient Safety.  BMJ Quality an
 
   - (Gbenga?)
   - (Dahiell?)
-  - (Angela?)
+  - (Angela) Affordance Perception in VR
 
 ### 3/15/2023
 
@@ -367,7 +367,7 @@ Gosbee, J. (2002). Human Factors Engineering and Patient Safety.  BMJ Quality an
 ### 3/22/2023
 
   - (Zeth?)
-  - (Angela?)
+  - (Angela) Perception/role of warnings, signage, etc.
   - (Soyeon) Transportation for older adults
 
 ### 3/29/2023
