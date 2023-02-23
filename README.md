@@ -337,12 +337,6 @@ Raggio, E. (2022).  A ‘Robot’ Rapper Got a Major Label Deal and the Dallas R
 
 Unknown. TikTok Video Blog. [MOV](https://github.com/rogerlew/advanced-human-factors/raw/main/readings/music_perception/v12044gd0000cfcnvo3c77ufkbc4f040.mov)
 
-#### (Madison) human error, risk prevention, patient safety 
-
-<i>Please read the example in Box 2.</i>
-
-Gosbee, J. (2002). Human Factors Engineering and Patient Safety.  BMJ Quality and Safety. http://dx.doi.org/10.1136/qhc.11.4.352
-[PDF](https://raw.githubusercontent.com/rogerlew/advanced-human-factors/main/readings/healthcare/GosbeeJ_HFE_patient_safety.pdf)
 
 #### (Nicole) Medical Round 2 or other
 
@@ -350,13 +344,21 @@ Gosbee, J. (2002). Human Factors Engineering and Patient Safety.  BMJ Quality an
 
 ### 3/1/2023
 
-  - (Kyle?)
+#### (Madison) human error, risk prevention, patient safety 
+
+<i>Please read the example in Box 2.</i>
+
+Gosbee, J. (2002). Human Factors Engineering and Patient Safety.  BMJ Quality and Safety. http://dx.doi.org/10.1136/qhc.11.4.352
+[PDF](https://raw.githubusercontent.com/rogerlew/advanced-human-factors/main/readings/healthcare/GosbeeJ_HFE_patient_safety.pdf)
+
   - (Kristen) Autonomous Vehicles
   - (Jessica) Thinking Fast and Slow - Kahneman
+
 
 ### 3/8/2023
 
   - (Gbenga?)
+  - (Kyle?)
   - (Dahiell?)
   - (Angela) Affordance Perception in VR
 
