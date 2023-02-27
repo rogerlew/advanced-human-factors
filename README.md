@@ -351,8 +351,14 @@ Unknown. TikTok Video Blog. [MOV](https://github.com/rogerlew/advanced-human-fac
 Gosbee, J. (2002). Human Factors Engineering and Patient Safety.  BMJ Quality and Safety. http://dx.doi.org/10.1136/qhc.11.4.352
 [PDF](https://raw.githubusercontent.com/rogerlew/advanced-human-factors/main/readings/healthcare/GosbeeJ_HFE_patient_safety.pdf)
 
-  - (Kristen) Autonomous Vehicles
-  - (Jessica) Thinking Fast and Slow - Kahneman
+#### (Kristen) Autonomous Vehicles
+
+Engineering Explained (2022). Are Autonomous Cars Closer Than You Think? [YouTube](https://www.youtube.com/watch?v=RALg1pu9oxI)
+
+
+
+
+#### (Jessica) Thinking Fast and Slow - Kahneman
 
 
 ### 3/8/2023
