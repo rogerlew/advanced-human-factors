@@ -367,9 +367,9 @@ Kahneman, D. (2013) Thinking Fast and Slow. Chapter 22. Expert Intuition: When c
 
 ### 3/8/2023
 
-  - (Gbenga?)
-  - (Kyle?)
-  - (Dahiell?)
+  - (Zeth) Public Ledgers (technologies and applications)
+  - (Gbenga) Simulator Feature Framework for research and educational resource
+  - (Dashiell?)
   - (Angela) Affordance Perception in VR
 
 ### 3/15/2023
@@ -378,7 +378,7 @@ Kahneman, D. (2013) Thinking Fast and Slow. Chapter 22. Expert Intuition: When c
 
 ### 3/22/2023
 
-  - (Zeth?)
+  - (Kyle?)
   - (Angela) Perception/role of warnings, signage, etc.
   - (Soyeon) Transportation for older adults
 
