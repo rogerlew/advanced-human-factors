@@ -367,11 +367,17 @@ Kahneman, D. (2013) Thinking Fast and Slow. Chapter 22. Expert Intuition: When c
 
 ### 3/8/2023
 
-  - (Zeth) Public Ledgers (technologies and applications)
-  - (Gbenga) Simulator Feature Framework for research and educational resource
-  - (Dashiell?)
+#### (Zeth) Public Ledgers (technologies and applications)
+
+
+#### (Gbenga) Simulator Feature Framework for research and educational resource
+
+Gideon, O, Ulrich T. A. (Manuscript). Simulator Feature Framework: Requirements to support training, research, and education. [PDF](https://raw.githubusercontent.com/rogerlew/advanced-human-factors/main/readings/process_control/SimulatorFeatureFramework.pdf)
+
   - (Angela) Affordance Perception in VR
 
+  - (Dashiell?)
+  - 
 ### 3/15/2023
 
    (Spring Break)
