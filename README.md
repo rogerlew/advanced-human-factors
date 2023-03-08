@@ -376,7 +376,12 @@ Gideon, O, Ulrich T. A. (Manuscript). Simulator Feature Framework: Requirements 
 
 #### (Angela) Affordance Perception in VR
 
-#### (Dashiell?)
+
+#### (Roger) Autonomous driving
+
+
+
+#### (Dashiell? Reschedule)
 
 ### 3/15/2023
 
