@@ -380,16 +380,14 @@ Gideon, O, Ulrich T. A. (Manuscript). Simulator Feature Framework: Requirements 
 #### (Roger) Autonomous driving
 
 
-
-#### (Dashiell? Reschedule)
-
 ### 3/15/2023
 
    (Spring Break)
 
 ### 3/22/2023
 
-  - (Kyle?)
+  - (Dashiell) Research Methods Design
+  - (Kyle?) Prototyping exercise
   - (Angela) Perception/role of warnings, signage, etc.
   - (Soyeon) Transportation for older adults
 
