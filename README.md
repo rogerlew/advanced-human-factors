@@ -398,6 +398,8 @@ Gideon, O, Ulrich T. A. (Manuscript). Simulator Feature Framework: Requirements 
   - (Roger) GPT-4 discussion
 
 YouTube - AI Explained ['Sparks of AGI' - Bombshell GPT-4 Paper: Fully Read w/ 15 Revelations] (https://www.youtube.com/watch?v=Mqg3aTGNxZ0) 
+
+[Sparks of AGI Paper](https://arxiv.org/pdf/2303.12712.pdf)
   
 ### 4/5/2023
 
