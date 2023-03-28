@@ -393,8 +393,11 @@ Gideon, O, Ulrich T. A. (Manuscript). Simulator Feature Framework: Requirements 
 
 ### 3/29/2023
 
-  - (Kyle?)
-  - (Dashiell?)
+  - (Zeth) Crypto Round 2
+  - (Roger) Autonomous Vehicle Technology
+  - (Roger) GPT-4 discussion
+
+YouTube - AI Explained ['Sparks of AGI' - Bombshell GPT-4 Paper: Fully Read w/ 15 Revelations] (https://www.youtube.com/watch?v=Mqg3aTGNxZ0) 
   
 ### 4/5/2023
 
