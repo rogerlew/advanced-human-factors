@@ -403,29 +403,31 @@ YouTube - AI Explained ['Sparks of AGI' - Bombshell GPT-4 Paper: Fully Read w/ 1
   
 ### 4/5/2023
 
-  - (Gbenga?)
-  - (Margaret?)
+  - (Gbenga) Measures of situational awareness in main control rooms
+  - (Margaret) TBD
+  - (Steven) TBD
+  
   
 ### 4/12/2023
 
-  - (Zeth?)
-  - (Madison?)
-  - (Jessica?)
+  - (Zeth) Artificial Intelligence
+  - (Madison)
+  - (Jessica)
   
-### 4/17/2023
+### 4/19/2023
 
-  - (Hailee?)
+  - (Hailee) TBD
   - (Kristen) Trust and trust calibration in automation with an emphasis on automated vehicles (designing for behavior modification)
   
 ### 4/26/2023
 
-  - (Kyle?)
-  - (Dan?)
+  - (Kyle) TBD
+  - (Dan) TBD
   
 ### 5/3/2023
 
-  - (Thi?)
-  - (Steven?)
+  - (Thi) TBD
+  - (Steven) Kitchen evalution round 2
   
 #### Generative Adversarial Networks
 
