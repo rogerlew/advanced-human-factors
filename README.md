@@ -412,7 +412,7 @@ YouTube - AI Explained ['Sparks of AGI' - Bombshell GPT-4 Paper: Fully Read w/ 1
 
   - (Zeth) Artificial Intelligence
   - (Madison)
-  - (Jessica)
+  - (Jessica) Social Media. Watch The Social Dilemma documentary on Netflix
   
 ### 4/19/2023
 
