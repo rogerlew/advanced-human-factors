@@ -419,15 +419,14 @@ YouTube - AI Explained ['Sparks of AGI' - Bombshell GPT-4 Paper: Fully Read w/ 1
   - (Hailee) TBD
   - (Kristen) Trust and trust calibration in automation with an emphasis on automated vehicles (designing for behavior modification)
   
-### 4/26/2023
+### 4/26/2023 Research Methods
 
-  - (Kyle) TBD
-  - (Dan) TBD
-  
-### 5/3/2023
 
-  - (Thi) TBD
-  - (Steven) Kitchen evalution round 2
+### 5/3/2023 Signal Detection Theory
+
+SDT Visualizer
+https://code.google.com/archive/p/sdt-metrics/downloads
+
   
 #### Generative Adversarial Networks
 
