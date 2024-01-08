@@ -8,6 +8,7 @@ Spring 2023<br>
 CRN 68894 (classroom)<br>
 CRN 68895 (online) <br>
 Jan 10, 2024  - May 10, 2024 	3:30 pm - 6:00 pm Pacific	Wednesdays<br>
+No class March 13, 2024 (Spring Recess)
 
 ## Locations
 
@@ -91,29 +92,42 @@ Online students who are not participating during the class meetings are required
 
 Online students are encouraged to join the course during the weekly zoom meetings. Recordings will be made available for students able to join the classroom meetings. The zoom-meeting ID that will be used throughout the course is listed above. Please make sure that you have a working webcam and can join zoom meetings with video turned on.
 
+## Evaluation / Product Review Project
+
+### Learning objectives
+ - Develop familiarity with available standards
+ - Hands-on application of standards
+ - Dissemination and interpretation of findings
+ - Practioner oriented thinking to address problems
+ - Researcher oriented thinking to further examine product and potential solutions
+
+Evaluation against a standard. As part of this course you will have to learn about design guidelines and standards in different sub-fields of HF. The project will involve the evaluation the Human Factors of a complex system of your choosing. The goal of the project is to familiarize you with the current human factors design standards and to perform an evaluation against a standard. Write a cohesive document for an intended audience. Recommended 8-12 pages in APA. Please disclose assistance from artifical and human intelligence agents.
+
+Proposed system and guideline due Wednesday February <strike>1</strike> 7, 2023
+
+Due Wednesday March 6, 2023 (Mid-term Week, week before spring break)
+
 ## Main Project
 
-At the end of the semester, each student will have to submit a class-related piece of work that shows the ability to work successfully on a larger HF project. This could be a grant proposal to a typical granting agency within the field of psychology or HF – like DoD, DoE, FAA, NASA, NSF, NIH; or include other projects that might better fit the needs of individual students and that fulfill the broad criteria of portfolio elements for the non-thesis option. Those students pursuing a PhD are strongly encouraged to work on the grant option. 
+In the latter half the semester students will conduct a main project
 
-The options for this main project are as follows:
+### Learning Objectives
 
-- A grant proposal in response to an actual published Request for Proposals (RFP) or Broad Agency Announcement (BAA) from a federal agency. This usually includes a literature review, the development of a research program, and a budget. Different agencies require different levels of detail. It is expected that the proposal will contain a similar level of detail as the literature review described below.
-- A significant literature review on one of the topics discussed in this course. Approximately 4,000-6,000 words, 20+ references. 
-- Documentation and evaluation of a significant design activity (e.g., for a professional HF design competition, a website demonstrating important HF principles of design).
-- Documentation of the development and evaluation of an application (e.g., an app for a phone) that illustrates an interesting solution to a problem of user experience and is based on HF principles.
-- Development of publishable teaching materials for a specific HF topic of interest (e.g., for HFES outreach activities)
+- Develop topical expertise in a domain that relates to human factors
+- Research topic and summarize topic
+- Analyze and interpret trends
+- Identify and describe human factors related issues
+- Explore potential opportunities or problem areas (e.g. pedestrian fatalities at all time high) (human-, market-driven, or both)
+- Based on topical expertise
+  - Identify research gaps and develop a research curriculum
+  - Envision and conceptualize potential innovation(s) in the topical domain
+  - Forecast future trends and paradigm shifts
 
-In all cases the project needs to be largely an individual effort in its core HF related areas. If a project is conducted with the assistance of others, the individuals’ contributions need to be clearly stated and identified.
+Intent is to allow students to students select a domain that furthers their career interests. Those students pursuing a PhD are strongly encouraged to develop a research driven project (e.g. essential something that could be adapted to a proposal or academic research project). 
 
-Due Wednesday May 10, 2023 (Finals Week)
+In all cases the project needs to be largely an individual effort in its core HF related areas. If a project is conducted with the assistance of others, the individuals’ contributions need to be clearly stated and identified. Please disclose assistance from artifical and human intelligence agents.
 
-## Evaluation Project
-
-Evaluation against a standard. As part of this course you will have to learn about design guidelines and standards in different sub-fields of HF. The project will involve the evaluation the Human Factors of a complex system of your choosing. The goal of the project is to familiarize you with the current human factors design standards and to perform an evaluation against a standard.
-
-Proposed system and guideline due Wednesday February <strike>1</strike> 8, 2023
-
-Due Wednesday March 8, 2023 (Mid-term Week, week before spring break)
+Due Wednesday May 9, 2023 (Finals Week)
 
 ## Course Grades
 
