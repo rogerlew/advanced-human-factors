@@ -170,6 +170,9 @@ Please try to be somewhat professional in your coorespondances. You can address 
 
 Unless otherwise instructed, please submit your assignments through Canvas. I will post each assignment in Canvas and you can upload your file(s) into the assignment or copy and paste the text into the appropriate box. If you notice that there is no assignment in Canvas that matches what you have to submit, please let me know asap so I can make it visible to the class. This will allow me to track your assignments much better than if you sent them through email, and it also allows me to post comments together with your grade. If you are in doubt whether bblearn has accepted your assignment, you can always email an additional copy.
 
+## Late Policy
+
+Willing to grant extensions on a case-by-case basis. Late work is subject to a penalty of upto 10%/day late.
 
 ## Learning Outcomes
 
