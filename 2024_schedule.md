@@ -4,8 +4,8 @@
 
 #### Science of napping as fatigue countermeasure (Kevin)
 
-Driskell, J. E., and Mullen B. (2005). The efficacy of naps as fatigue countermeasure: A meta-analytic integration. Human Factors, 47 (2), 360-377. 
-https://github.com/rogerlew/advanced-human-factors/blob/main/readings/fatigue/Efficacy%20of%20naps.pdf
+Driskell, J. E., and Mullen B. (2005). The efficacy of naps as fatigue countermeasure: A meta-analytic integration. Human Factors, 47 (2), 360-377. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/fatigue/Efficacy%20of%20naps.pdf)
+
 
 #### Navigation, maps, and wayfinding (Abby)
 
