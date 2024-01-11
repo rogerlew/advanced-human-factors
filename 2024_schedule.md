@@ -13,7 +13,8 @@ will put materials in teams
 
 #### Heuristics for medical devices (Joy)
 
-Has article 
+Zhang, J., Johnson, T. R., Patel, V. L., Paige, D. L., & Kubose, T. (2003). Using usability heuristics to evaluate patient safety of medical devices. Journal of Biomedical Informatics, 36(1-2), 23-30. 
+[PDF](https://teams.microsoft.com/l/message/19:ybNWv8LVW2wdzxmOcvEgRsEeOr4xoWrbg8rZBRGEhzo1@thread.tacv2/1704937262408?tenantId=7ebc6b63-5792-4a19-b20b-04b826048853&groupId=4af0e9af-fb82-4185-954b-09ad6039be3d&parentMessageId=1704937245787&teamName=SP24%20PSYC562-01%3A%20Advanced%20Human%20Factors&channelName=General&createdTime=1704937262408)
 
 #### Performance and cognitive workload and fatigue (Alejandro)
 
