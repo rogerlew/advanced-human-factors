@@ -30,6 +30,12 @@ rogerlew@uidaho.edu<br>
 Office Hours: by appointment
 
 
+
+## Schedule of Presenters and Topics
+
+https://github.com/rogerlew/advanced-human-factors/blob/main/2024_schedule.md
+
+
 ## Readings and Materials
 
 There is no textbook for this class. Instead, we will rely on journal articles, book chapters, published standards, and HFES conference proceedings as the main sources for this course. 
