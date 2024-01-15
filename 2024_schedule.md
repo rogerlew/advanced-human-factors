@@ -9,7 +9,9 @@ Driskell, J. E., and Mullen B. (2005). The efficacy of naps as fatigue counterme
 
 #### 2. Navigation, maps, and wayfinding (Abby)
 
-will put materials in teams
+Porathe, T., & Prison, J. (2008). Works in Design of Human-Map System Interaction. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI 2008) (pp. 2859-2864). ACM. doi:978-1-60558-012-8/08/04 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/Design%20of%20Human-Map%20System%20Interactions.pdf)
+
+Porathe, T. (2007). User-Centered Map Design. In Proceedings of the UPA 2007 Conference, June 11-15. Austin, Texas, USA. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/User-Centered%20Map%20Design.pdf)
 
 #### 3. Heuristics for medical devices (Joy)
 
