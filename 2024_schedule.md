@@ -62,6 +62,8 @@ https://uxofai.com/
 
 Nielsen, J. (1993). Usability Now, Chapter 1. Usability engineering. Academic Press. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/HCI/NielsenJ%2CUsablityNow%2CChapter01-Executive%20Summary.pdf)
 
+What Is Design Thinking and Why Is It Important? Rim Razzouk, Valerie Shute [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/RazzoukR%2CShuteV_WhatIsDesignThinking.pdf)
+
 # Topics
 
 ## Steven
