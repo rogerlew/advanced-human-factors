@@ -39,6 +39,9 @@ Zhang, J., Johnson, T. R., Patel, V. L., Paige, D. L., & Kubose, T. (2003). Usin
 
 #### Mental Workload and Situational Awareness for Pilots (Brent)
 
+#### The UX of AI (Nina)
+
+https://uxofai.com/
 
 ### 2/7
 
@@ -50,6 +53,14 @@ Zhang, J., Johnson, T. R., Patel, V. L., Paige, D. L., & Kubose, T. (2003). Usin
 
 #### Threat of cognitive decline through AI and automation (Rhonda)
 
+
+### 2/14
+
+### 2/21
+
+#### Usability Now and Design Thinking
+
+Nielsen, J. (1993). Usability Now, Chapter 1. Usability engineering. Academic Press. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/HCI/NielsenJ%2CUsablityNow%2CChapter01-Executive%20Summary.pdf)
 
 # Topics
 
@@ -159,6 +170,26 @@ Designing for assistive technology (ADA) compliance accessibility guidelines
 <strike>Threat of cognitive decline through AI and automation</strike>
 
 
+## Nina
 
+
+Nielsen J, Usability Now, Chapter01-Executive Summary.pdf (on github)
+
+What Is Design Thinking and Why Is It Important? Rim Razzouk, Valerie Shute
+What_Is_Design_Thinking_and_Why_Is_It_Im 1.pdf
+​
+Design thinking as an effective method for problem-setting and need-finding for entrepreneurial teams addressing wicked problems, Rahmin Bender-Salazar
+s13731-023-00291-2.pdf
+
+<strike>The UX of AI (I'M VERY INTERESTED ON THIS ONE, and it coincides with leading with principles)</strike>
+https://uxofai.com/
+
+Design thinking as an effective method for problem-setting and need-finding for entrepreneurial teams addressing wicked problems
+Other non-paper related topics:
+
+- I would like to discuss the importance of leading with principles (design, product, how we work) in product development. I'd love to use my current profession as a case study. 
+- Generative AI for Customer Experience (Chat-based Interactions)
+- Evolution of User Experience to Product Design: What's Next?  
+- Discussion about critiques on Design Thinking
 
 
