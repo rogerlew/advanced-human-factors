@@ -19,7 +19,6 @@ Zhang, J., Johnson, T. R., Patel, V. L., Paige, D. L., & Kubose, T. (2003). Usin
 #### Performance and cognitive workload and fatigue (Alejandro)
 
 
-
 ### 1/24
 
 #### System usability scale (SUS) (Rhonda)
@@ -43,9 +42,14 @@ Zhang, J., Johnson, T. R., Patel, V. L., Paige, D. L., & Kubose, T. (2003). Usin
 
 https://uxofai.com/
 
+- Generative AI for Customer Experience (Chat-based Interactions)
+
 ### 2/7
 
-#### Space navigation in virtual reality (Rohan)
+#### Perception in virtual reality (Rohan)
+
+- Space navigation
+- Spatial audio as a VR interface
 
 #### Space exploration human factors Spaceship design long duration flights (Kevin)
 
@@ -56,13 +60,58 @@ https://uxofai.com/
 
 ### 2/14
 
+#### Standards Introduction / Assignment 1 (Roger)
+
+#### Medical device standards (Joy)
+
+#### Hand Tool Design for Surgeons (Jenna)
+
+González, A. G., Barrios-Muriel, J., Romero-Sánchez, F., Salgado, D. R., & Alonso, F. J. (2020). Ergonomic assessment of a new hand tool design for laparoscopic surgery based on surgeons’ muscular activity. Applied Ergonomics, 88, 103161. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/Ergo%20assessment%20of%20hand%20tool%20design%20in%20laparoscopic%20surgery.pdf)
+
 ### 2/21
 
-#### Usability Now and Design Thinking
+#### Usability Now and Design Thinking (Nina)
 
 Nielsen, J. (1993). Usability Now, Chapter 1. Usability engineering. Academic Press. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/HCI/NielsenJ%2CUsablityNow%2CChapter01-Executive%20Summary.pdf)
 
-What Is Design Thinking and Why Is It Important? Rim Razzouk, Valerie Shute [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/RazzoukR%2CShuteV_WhatIsDesignThinking.pdf)
+Razzouk, R., & Shute, V. (2012). What Is Design Thinking and Why Is It Important? Review of Educational Research, 82(3), 330-348. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/RazzoukR%2CShuteV_WhatIsDesignThinking.pdf)
+
+
+### 2/28
+
+### 3/13 Spring Recess
+
+### 3/20
+
+#### Design Thinking (Nina)
+
+Bender-Salazar, R. (2023). Design thinking as an effective method for problem-setting and needfinding for entrepreneurial teams addressing wicked problems. Journal of Innovation and Entrepreneurship, 12(1). https://doi.org/10.1186/s13731-023-00291-2 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/Bender-SalazarR_DesignThinking.pdf)
+
+- Use cases for Design Thinking
+- Discussion about critiques on Design Thinking
+
+
+### 3/27
+
+### 4/3
+
+### 4/10
+
+
+#### Cutting edge of product design and development (Nina)
+
+- I would like to discuss the importance of leading with principles (design, product, how we work) in product development. I'd love to use my current profession as a case study. 
+- Evolution of User Experience to Product Design: What's Next?  
+
+### 4/17
+
+### 4/24
+
+### 5/1
+
+#### Signal detection theory in radiographic images (Jenna)
+
+Boutis, K., Pecaric, M., Seeto, B., & Pusic, M. (2010). Using signal detection theory to model changes in serial learning of radiological image interpretation. Advances in Health Sciences Education, 15, 647-658. https://doi.org/10.1007/s10459-010-9225-8 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/SDT%20in%20radiographic%20images.pdf)
 
 # Topics
 
@@ -114,7 +163,7 @@ Text input methods in XR interfaces
 
 Knowledge transfer from VR simulations to real-life
 
-Spatial audio as a VR interface
+<strike>Spatial audio as a VR interface</strike>
 
 
 
@@ -134,7 +183,7 @@ Mental Workload and situational awareness of pilots
 
 ## Joy
 
-Medical device standards
+<strike>Medical device standards</strike>
 
 <strike>Heuristics for medical devices</strike>
 
@@ -175,23 +224,27 @@ Designing for assistive technology (ADA) compliance accessibility guidelines
 ## Nina
 
 
-Nielsen J, Usability Now, Chapter01-Executive Summary.pdf (on github)
+<strike>Nielsen J, Usability Now, Chapter01-Executive Summary.pdf (on github)</strike>
 
-What Is Design Thinking and Why Is It Important? Rim Razzouk, Valerie Shute
-What_Is_Design_Thinking_and_Why_Is_It_Im 1.pdf
+<strike>What Is Design Thinking and Why Is It Important? Rim Razzouk, Valerie Shute
+What_Is_Design_Thinking_and_Why_Is_It_Im 1.pdf</strike>
 ​
-Design thinking as an effective method for problem-setting and need-finding for entrepreneurial teams addressing wicked problems, Rahmin Bender-Salazar
-s13731-023-00291-2.pdf
+<strike>Design thinking as an effective method for problem-setting and need-finding for entrepreneurial teams addressing wicked problems, Rahmin Bender-Salazar
+s13731-023-00291-2.pdf</strike>
 
 <strike>The UX of AI (I'M VERY INTERESTED ON THIS ONE, and it coincides with leading with principles)</strike>
 https://uxofai.com/
 
-Design thinking as an effective method for problem-setting and need-finding for entrepreneurial teams addressing wicked problems
 Other non-paper related topics:
 
-- I would like to discuss the importance of leading with principles (design, product, how we work) in product development. I'd love to use my current profession as a case study. 
-- Generative AI for Customer Experience (Chat-based Interactions)
-- Evolution of User Experience to Product Design: What's Next?  
-- Discussion about critiques on Design Thinking
+- <strike>I would like to discuss the importance of leading with principles (design, product, how we work) in product development. I'd love to use my current profession as a case study. </strike>
+- <strike>Evolution of User Experience to Product Design: What's Next?  </strike>
+- <strike>Generative AI for Customer Experience (Chat-based Interactions)</strike>
+- <strike>Discussion about critiques on Design Thinking</strike>
+
+## Jenna
 
 
+<strike>Signal detection theory in radiographic images</strike>
+Affordances and affordance-based design to address usability 
+Hand tool design for surgeons
