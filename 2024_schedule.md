@@ -2,49 +2,49 @@
 
 ### 1/17 
 
-#### Science of napping as fatigue countermeasure (Kevin)
+#### 1. Science of napping as fatigue countermeasure (Kevin)
 
 Driskell, J. E., and Mullen B. (2005). The efficacy of naps as fatigue countermeasure: A meta-analytic integration. Human Factors, 47 (2), 360-377. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/fatigue/Efficacy%20of%20naps.pdf)
 
 
-#### Navigation, maps, and wayfinding (Abby)
+#### 2. Navigation, maps, and wayfinding (Abby)
 
 will put materials in teams
 
-#### Heuristics for medical devices (Joy)
+#### 3. Heuristics for medical devices (Joy)
 
 Zhang, J., Johnson, T. R., Patel, V. L., Paige, D. L., & Kubose, T. (2003). Using usability heuristics to evaluate patient safety of medical devices. Journal of Biomedical Informatics, 36(1-2), 23-30. 
 [PDF](https://teams.microsoft.com/l/message/19:ybNWv8LVW2wdzxmOcvEgRsEeOr4xoWrbg8rZBRGEhzo1@thread.tacv2/1704937262408?tenantId=7ebc6b63-5792-4a19-b20b-04b826048853&groupId=4af0e9af-fb82-4185-954b-09ad6039be3d&parentMessageId=1704937245787&teamName=SP24%20PSYC562-01%3A%20Advanced%20Human%20Factors&channelName=General&createdTime=1704937262408)
 
-#### Performance and cognitive workload and fatigue (Alejandro)
+#### 4. Performance and cognitive workload and fatigue (Alejandro)
 
 
 ### 1/24
 
-#### System usability scale (SUS) (Rhonda)
+#### 1. System usability scale (SUS) (Rhonda)
 
-#### Trends in the usability of mobile devices vs. web-based interfaces (Derek)
+#### 2. Trends in the usability of mobile devices vs. web-based interfaces (Derek)
 
-#### Negative transfer in aviation safety (simulation training) (Kristen)
+#### 3. Negative transfer in aviation safety (simulation training) (Kristen)
 
-#### Usability/background of AI tools (Rohan)
+#### 4. Usability/background of AI tools (Rohan)
 
 
 ### 1/31
 
-#### Design and use of augmentative and alternative communication devices (Sydney)
+#### 1. Design and use of augmentative and alternative communication devices (Sydney)
 
-#### GOMS (Ankita)
+#### 2. GOMS (Ankita)
 
-#### Mental Workload and Situational Awareness for Pilots (Brent)
+#### 3. Mental Workload and Situational Awareness for Pilots (Brent)
 
-#### The UX of AI (Nina)
+#### 4. The UX of AI (Nina)
 
 https://uxofai.com/
 
 - Generative AI for Customer Experience (Chat-based Interactions)
 
-#### AI for UX: Getting Started (Olga)
+#### 5. AI for UX: Getting Started (Olga)
 
 https://www.nngroup.com/articles/ai-ux-getting-started/
 
@@ -53,43 +53,43 @@ How Will Developments in AI Impact UXR? Researchers Weigh In. https://dscout.com
 
 ### 2/7
 
-#### Perception in virtual reality (Rohan)
+#### 1. Perception in virtual reality (Rohan)
 
 - Space navigation
 - Spatial audio as a VR interface
 
-#### Space exploration human factors Spaceship design long duration flights (Kevin)
+#### 2. Space exploration human factors Spaceship design long duration flights (Kevin)
 
-#### Implications of using LLM (AI) for higher educational settings (Steven)
+#### 3. Implications of using LLM (AI) for higher educational settings (Steven)
 
-#### Threat of cognitive decline through AI and automation (Rhonda)
+#### 4. Threat of cognitive decline through AI and automation (Rhonda)
 
 
 ### 2/14
 
-#### Standards Introduction / Assignment 1 (Roger)
+#### 1. Standards Introduction / Assignment 1 (Roger)
 
-#### Medical device standards (Joy)
+#### 2. Medical device standards (Joy)
 
-#### Hand Tool Design for Surgeons (Jenna)
+#### 3. Hand Tool Design for Surgeons (Jenna)
 
 González, A. G., Barrios-Muriel, J., Romero-Sánchez, F., Salgado, D. R., & Alonso, F. J. (2020). Ergonomic assessment of a new hand tool design for laparoscopic surgery based on surgeons’ muscular activity. Applied Ergonomics, 88, 103161. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/Ergo%20assessment%20of%20hand%20tool%20design%20in%20laparoscopic%20surgery.pdf)
 
 ### 2/21
 
-#### Usability Now and Design Thinking (Nina)
+#### 1. Usability Now and Design Thinking (Nina)
 
 Nielsen, J. (1993). Usability Now, Chapter 1. Usability engineering. Academic Press. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/HCI/NielsenJ%2CUsablityNow%2CChapter01-Executive%20Summary.pdf)
 
 Razzouk, R., & Shute, V. (2012). What Is Design Thinking and Why Is It Important? Review of Educational Research, 82(3), 330-348. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/RazzoukR%2CShuteV_WhatIsDesignThinking.pdf)
 
-#### Voting machine technology: butter fly ballot (Abby)
+#### 2. Voting machine technology: butter fly ballot (Abby)
 
 
 ### 2/28
 
 
-#### ChatGPT (Olga)
+#### 1. ChatGPT (Olga)
 
 Wulandari, A. A., Nurhaipah, T., & Ohorella, N. R. (2023). Perceived ease of use, social influencers, facilitating conditions, user experience on the influence of human-machine interaction on interaction efficiency, emotional impact of using Chat GPT. Jurnal Digital Media Communication, 2(2). Majalengka University; Gunadarma University, Indonesia. https://ejournal.gunadarma.ac.id/index.php/dimedcom/article/view/9898/3093
 
@@ -104,20 +104,21 @@ https://doi.org/10.1145/3571884.3597144 https://dl.acm.org/doi/pdf/10.1145/35718
 
 ### 3/20
 
-#### Design Thinking (Nina)
+#### 1. Design Thinking (Nina)
 
 Bender-Salazar, R. (2023). Design thinking as an effective method for problem-setting and needfinding for entrepreneurial teams addressing wicked problems. Journal of Innovation and Entrepreneurship, 12(1). https://doi.org/10.1186/s13731-023-00291-2 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/Bender-SalazarR_DesignThinking.pdf)
 
 - Use cases for Design Thinking
 - Discussion about critiques on Design Thinking
 
-#### Emotional assessment of UX (Derek)
+#### 2. Emotional assessment of UX (Derek)
 
+#### 3. Smart collars (e-collars) for dogs (Sydney) 
 
 
 ### 3/27
 
-#### (Olga)
+#### 1. Expert Intuition (Olga)
 
 Kahneman, D. (2011). Expert Intuition: When can we trust it? In Thinking, Fast and Slow (pp. 234-244). Farrar, Straus and Giroux. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/cognition/Kahneman%20Ch22.pdf)
 
@@ -126,11 +127,11 @@ Kahneman, D. (2011). Expert Intuition: When can we trust it? In Thinking, Fast a
 ### 4/10
 
 
-#### Affordances and affordance-based design to address usability (Jenna)
+#### 1. Affordances and affordance-based design to address usability (Jenna)
 
 Masoudi, N., Fadel, G. M., Pagano, C. C., & Elena, M. V. (2019). A review of affordances and affordance-based design to address usability. In Proceedings of the International Conference on Engineering Design, ICED19 (pp. 1). August 5-8, Delft, The Netherlands. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/a-review-of-affordances-and-affordance-based-design-to-address-usability.pdf)
 
-#### Cutting edge of product design and development (Nina)
+#### 2. Cutting edge of product design and development (Nina)
 
 - Importance of leading with principles (design, product, how we work) in product development
 - Professional case study 
@@ -138,20 +139,20 @@ Masoudi, N., Fadel, G. M., Pagano, C. C., & Elena, M. V. (2019). A review of aff
 
 ### 4/17
 
-#### Ways for patients to utilize devices such as infusion pumps without drawing too much attention to themselves (Arturo)
+#### 1. Ways for patients to utilize devices such as infusion pumps without drawing too much attention to themselves (Arturo)
 
-#### Medication errors prevention (Joy)
+#### 2. Medication errors prevention (Joy)
 
 ### 4/24
 
 
 ### 5/1
 
-#### Signal detection theory in radiographic images (Jenna)
+#### 1. Signal detection theory in radiographic images (Jenna)
 
 Boutis, K., Pecaric, M., Seeto, B., & Pusic, M. (2010). Using signal detection theory to model changes in serial learning of radiological image interpretation. Advances in Health Sciences Education, 15, 647-658. https://doi.org/10.1007/s10459-010-9225-8 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/SDT%20in%20radiographic%20images.pdf)
 
-#### Physicians' ability to adapt to new technologies (Arturo)
+#### 2. Physicians' ability to adapt to new technologies (Arturo)
 
 
 # Topics
@@ -165,7 +166,7 @@ Importance and relevance of Human Factors for patients in cancer recovery
 
 ## Syndey
 
-Design and use of augmentative and alternative communication devices
+<strike>Design and use of augmentative and alternative communication devices</strike>
 
 Smart collars (e-collars) for dogs (canine human factors)
 
