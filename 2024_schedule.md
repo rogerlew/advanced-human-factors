@@ -83,6 +83,8 @@ Nielsen, J. (1993). Usability Now, Chapter 1. Usability engineering. Academic Pr
 
 Razzouk, R., & Shute, V. (2012). What Is Design Thinking and Why Is It Important? Review of Educational Research, 82(3), 330-348. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/RazzoukR%2CShuteV_WhatIsDesignThinking.pdf)
 
+#### Voting machine technology: butter fly ballot (Abby)
+
 
 ### 2/28
 
@@ -109,6 +111,9 @@ Bender-Salazar, R. (2023). Design thinking as an effective method for problem-se
 - Use cases for Design Thinking
 - Discussion about critiques on Design Thinking
 
+#### Emotional assessment of UX (Derek)
+
+
 
 ### 3/27
 
@@ -133,6 +138,10 @@ Masoudi, N., Fadel, G. M., Pagano, C. C., & Elena, M. V. (2019). A review of aff
 
 ### 4/17
 
+#### Ways for patients to utilize devices such as infusion pumps without drawing too much attention to themselves (Arturo)
+
+#### Medication errors prevention (Joy)
+
 ### 4/24
 
 
@@ -141,6 +150,9 @@ Masoudi, N., Fadel, G. M., Pagano, C. C., & Elena, M. V. (2019). A review of aff
 #### Signal detection theory in radiographic images (Jenna)
 
 Boutis, K., Pecaric, M., Seeto, B., & Pusic, M. (2010). Using signal detection theory to model changes in serial learning of radiological image interpretation. Advances in Health Sciences Education, 15, 647-658. https://doi.org/10.1007/s10459-010-9225-8 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/SDT%20in%20radiographic%20images.pdf)
+
+#### Physicians' ability to adapt to new technologies (Arturo)
+
 
 # Topics
 
@@ -162,7 +174,7 @@ Safety and panic buttons for public safety (digital whistle, public safety infra
 
 ## Abby
 
-Voting machine technology (butter fly ballot), trust
+<strike>Voting machine technology (butter fly ballot), trust</strike>
 
 Court-room design
 
@@ -216,7 +228,7 @@ Mental Workload and situational awareness of pilots
 
 <strike>Heuristics for medical devices</strike>
 
-Medication errors prevention
+<strike>Medication errors prevention</strike>
 
 
 ## Ankita
@@ -229,7 +241,7 @@ Ergonomics in automotive design process
 
 Children using apps in the classroom
 
-Emotional assessment of UX
+<strike>Emotional assessment of UX</strike>
 
 <strike>Trends in the usability of mobile devices vs. web-based interfaces</strike>
 
@@ -303,3 +315,13 @@ https://dl.acm.org/doi/pdf/10.1145/3571884.3597144
 
 5. <strike>Different topic: Cognition/ Kahneman Ch22.pdf of Thinking Fast and Slow (Great book, by the way !!!) in the literature list</strike>
 
+## Arturo
+
+    Applying human factors to medical device design
+    
+    Trust in software as a medical device (SaMD)
+    
+   <strike>  Physicians' ability to adapt to new technologies </strike>
+    
+   <strike> Ways for patients to utilize devices such as infusion pumps without drawing too much attention to themselves </strike>
+    
