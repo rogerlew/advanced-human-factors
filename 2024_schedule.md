@@ -98,14 +98,20 @@ Bender-Salazar, R. (2023). Design thinking as an effective method for problem-se
 ### 4/10
 
 
+#### Affordances and affordance-based design to address usability (Jenna)
+
+Masoudi, N., Fadel, G. M., Pagano, C. C., & Elena, M. V. (2019). A review of affordances and affordance-based design to address usability. In Proceedings of the International Conference on Engineering Design, ICED19 (pp. 1). August 5-8, Delft, The Netherlands. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/a-review-of-affordances-and-affordance-based-design-to-address-usability.pdf)
+
 #### Cutting edge of product design and development (Nina)
 
-- I would like to discuss the importance of leading with principles (design, product, how we work) in product development. I'd love to use my current profession as a case study. 
+- Importance of leading with principles (design, product, how we work) in product development
+- Professional case study 
 - Evolution of User Experience to Product Design: What's Next?  
 
 ### 4/17
 
 ### 4/24
+
 
 ### 5/1
 
@@ -246,5 +252,7 @@ Other non-paper related topics:
 
 
 <strike>Signal detection theory in radiographic images</strike>
+
 Affordances and affordance-based design to address usability 
-Hand tool design for surgeons
+
+<strike>Hand tool design for surgeons</strike>
