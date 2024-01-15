@@ -44,6 +44,13 @@ https://uxofai.com/
 
 - Generative AI for Customer Experience (Chat-based Interactions)
 
+#### AI for UX: Getting Started (Olga)
+
+https://www.nngroup.com/articles/ai-ux-getting-started/
+
+How Will Developments in AI Impact UXR? Researchers Weigh In. https://dscout.com/people-nerds/developments-ai-impact-uxr
+
+
 ### 2/7
 
 #### Perception in virtual reality (Rohan)
@@ -79,6 +86,18 @@ Razzouk, R., & Shute, V. (2012). What Is Design Thinking and Why Is It Important
 
 ### 2/28
 
+
+#### ChatGPT (Olga)
+
+Wulandari, A. A., Nurhaipah, T., & Ohorella, N. R. (2023). Perceived ease of use, social influencers, facilitating conditions, user experience on the influence of human-machine interaction on interaction efficiency, emotional impact of using Chat GPT. Jurnal Digital Media Communication, 2(2). Majalengka University; Gunadarma University, Indonesia. https://ejournal.gunadarma.ac.id/index.php/dimedcom/article/view/9898/3093
+
+Marita Skjuve, Asbjørn Følstad, and Petter Bae Brandtzaeg. 2023. The User
+Experience of ChatGPT: Findings from a Questionnaire Study of Early
+Users. In ACM conference on Conversational User Interfaces (CUI ’23), July
+19–21, 2023, Eindhoven, Netherlands. ACM, New York, NY, USA, 10 pages.
+https://doi.org/10.1145/3571884.3597144 https://dl.acm.org/doi/pdf/10.1145/3571884.3597144 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/Chatgptuserexperience.pdf)
+
+
 ### 3/13 Spring Recess
 
 ### 3/20
@@ -92,6 +111,10 @@ Bender-Salazar, R. (2023). Design thinking as an effective method for problem-se
 
 
 ### 3/27
+
+#### (Olga)
+
+Kahneman, D. (2011). Expert Intuition: When can we trust it? In Thinking, Fast and Slow (pp. 234-244). Farrar, Straus and Giroux. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/cognition/Kahneman%20Ch22.pdf)
 
 ### 4/3
 
@@ -256,3 +279,27 @@ Other non-paper related topics:
 Affordances and affordance-based design to address usability 
 
 <strike>Hand tool design for surgeons</strike>
+
+
+## Olga
+
+<strike>1. How Will Developments in AI Impact UXR? Researchers Weigh In</strike>
+   
+https://dscout.com/people-nerds/developments-ai-impact-uxr
+
+<strike>2. AI for UX: Getting Started</strike>
+   
+https://www.nngroup.com/articles/ai-ux-getting-started/
+
+<strike>3. PERCEIVED EASE OF USE, SOCIAL INFLUENCERS, FACILITATING CONDITIONS, USER EXPERIENCE
+ON THE INFLUENCE OF HUMAN-MACHINE INTERACTION ON INTERACTION EFFICIENCY,
+EMOTIONAL IMPACT OF USING CHAT GPT</strike>
+
+https://ejournal.gunadarma.ac.id/index.php/dimedcom/article/view/9898/3093
+
+<strike>4. The User Experience of ChatGPT: Findings from a Questionnaire Study of Early Users</strike>
+   
+https://dl.acm.org/doi/pdf/10.1145/3571884.3597144
+
+5. <strike>Different topic: Cognition/ Kahneman Ch22.pdf of Thinking Fast and Slow (Great book, by the way !!!) in the literature list</strike>
+
