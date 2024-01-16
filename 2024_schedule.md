@@ -77,7 +77,9 @@ How Will Developments in AI Impact UXR? Researchers Weigh In. https://dscout.com
 
 #### 2. Medical device standards (Joy)
 
-#### 3. Hand Tool Design for Surgeons (Jenna)
+#### 3. FDA standards that guide and shape our usability process at Stryker (like specifically the document: FDA Guidance - Applying Human Factors and Usability Engineering to Medical Devices) (Emi)
+
+#### 4. Hand Tool Design for Surgeons (Jenna)
 
 González, A. G., Barrios-Muriel, J., Romero-Sánchez, F., Salgado, D. R., & Alonso, F. J. (2020). Ergonomic assessment of a new hand tool design for laparoscopic surgery based on surgeons’ muscular activity. Applied Ergonomics, 88, 103161. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/Ergo%20assessment%20of%20hand%20tool%20design%20in%20laparoscopic%20surgery.pdf)
 
@@ -93,6 +95,7 @@ Razzouk, R., & Shute, V. (2012). What Is Design Thinking and Why Is It Important
 
 #### 2. Voting machine technology: butter fly ballot (Abby)
 
+
 <hr/>
 
 ### 2/28
@@ -107,6 +110,8 @@ Experience of ChatGPT: Findings from a Questionnaire Study of Early
 Users. In ACM conference on Conversational User Interfaces (CUI ’23), July
 19–21, 2023, Eindhoven, Netherlands. ACM, New York, NY, USA, 10 pages.
 https://doi.org/10.1145/3571884.3597144 https://dl.acm.org/doi/pdf/10.1145/3571884.3597144 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/Chatgptuserexperience.pdf)
+
+#### 2. Anthropometry and ergonomics in aviation (Brent)
 
 <hr/>
 
@@ -127,7 +132,9 @@ Bender-Salazar, R. (2023). Design thinking as an effective method for problem-se
 
 #### 3. Smart collars (e-collars) for dogs (Sydney) 
 
-#### 4. Designing for assistive technology (ADA) compliance accessibility guidelines (Rhonda)
+#### 4. Assistive technology and soccer (Alejandro)
+
+#### 5. Designing for assistive technology (ADA) compliance accessibility guidelines (Rhonda)
 
 <hr/>
 
@@ -141,16 +148,19 @@ Kahneman, D. (2011). Expert Intuition: When can we trust it? In Thinking, Fast a
 
 Nielsen, J., & Molich, R. (1990). Heuristic evaluation of user interfaces. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '90) (pp. 249-256). ACM. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/NielsenJ%2CMolichR%2C1990.pdf)
 
+### 3. Overview of Stryker Mako robotics human factors engineer experience (Emi)
+
 <hr/>
 
 ### 4/3
 
-#### 1. Glass cockpits in aviation (Kevin)
+#### 1. Glass cockpits in aviation (Kevin/Kristen)
 
 #### 2. Mental Workload and situational awareness of pilots (Brent)
 
 #### 3. Ergonomics in automotive design process (Ankita)
 
+#### 4. Human factors considerations of robotic assisted surgery in general (Emi)
 <hr/>
 
 ### 4/10
@@ -170,6 +180,8 @@ Masoudi, N., Fadel, G. M., Pagano, C. C., & Elena, M. V. (2019). A review of aff
 
 Vredenburg, K., Mao, J.-Y., Smith, P. W., & Carey, T. (2002). A Survey of User-Centered Design Practice. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '02), Vol. 4, No. 1 (pp. 471-478). ACM. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/VredenburgK%2CMaoJ%2CSmithPW%2CCareyT%2C2002.pdf)
 
+#### 4. Trust in automation (Alejandro)
+
 <hr/>
 
 ### 4/17
@@ -182,11 +194,18 @@ Vredenburg, K., Mao, J.-Y., Smith, P. W., & Carey, T. (2002). A Survey of User-C
 
 #### 4. Trust in software as a medical device (SaMD) (Arturo)
 
+
 <hr/>
 
 ### 4/24
 
 #### 1. Safety and panic buttons for public safety (digital whistle, public safety infrastructure) (Sydney)
+
+#### 2. Courtroom Design (Abby)
+
+#### 3. Operation Risk Management /Crew Resource Management (ORM/CRM) (Kristen)
+
+#### 4. GOMS (Ankita)
 
 <hr/>
 
@@ -223,7 +242,7 @@ Boutis, K., Pecaric, M., Seeto, B., & Pusic, M. (2010). Using signal detection t
 
 <strike>Voting machine technology (butter fly ballot), trust</strike>
 
-Court-room design
+<strike>Court-room design</strike>
 
 <strike>navigation, maps, and wayfinding</strike>
 
@@ -238,7 +257,7 @@ Accessible design
 
 Color blindness in gaming / entertainment
 
-Assistive technology and soccer
+<strike>Assistive technology and soccer</strike>
 
 
 ## Rohan
@@ -249,7 +268,7 @@ Assistive technology and soccer
 
 Text input methods in XR interfaces
 
-Knowledge transfer from VR simulations to real-life
+Knowledge transfer from VR simulations to real-life (Rohan)
 
 <strike>Spatial audio as a VR interface</strike>
 
@@ -257,7 +276,7 @@ Knowledge transfer from VR simulations to real-life
 
 ## Brent
 
-Anthropometry and ergonomics in aviation
+<strike>Anthropometry and ergonomics in aviation</strike
 
 <strike>Mental Workload and situational awareness of pilots</strike>
 
@@ -283,7 +302,7 @@ Anthropometry and ergonomics in aviation
 
 ## Ankita
 
-GOMS 
+GOMS (Ankita)
 
 <strike>Ergonomics in automotive design process</strike>
 
@@ -299,9 +318,8 @@ Children using apps in the classroom
 
 <strike>negative transfer in aviation safety (simulation training)</strike>
 
-Operation Risk Management /Crew Resource Management (ORM/CRM)
-
-Glass cockpits in aviation
+Operation Risk Management /Crew Resource Management (ORM/CRM) (Kristen)
+Glass cockpits in aviation (Kristen)
 
 ## Rhonda
 
@@ -380,3 +398,9 @@ https://dl.acm.org/doi/pdf/10.1145/3571884.3597144
 <strike>Nielsen, J., & Molich, R. (1990). Heuristic evaluation of user interfaces. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '90) (pp. 249-256). ACM. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/NielsenJ%2CMolichR%2C1990.pdf)</strike>
 
 <strike>Vredenburg, K., Mao, J.-Y., Smith, P. W., & Carey, T. (2002). A Survey of User-Centered Design Practice. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '02), Vol. 4, No. 1 (pp. 471-478). ACM. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/VredenburgK%2CMaoJ%2CSmithPW%2CCareyT%2C2002.pdf)</strike>
+
+## Emi
+Overview of Stryker Mako robotics human factors engineer experience
+
+Human factors considerations of robotic assisted surgery in general
+
