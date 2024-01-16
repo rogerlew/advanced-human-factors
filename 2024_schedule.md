@@ -20,6 +20,7 @@ Zhang, J., Johnson, T. R., Patel, V. L., Paige, D. L., & Kubose, T. (2003). Usin
 
 #### 4. Performance and cognitive workload and fatigue (Alejandro)
 
+<hr/>
 
 ### 1/24
 
@@ -31,6 +32,7 @@ Zhang, J., Johnson, T. R., Patel, V. L., Paige, D. L., & Kubose, T. (2003). Usin
 
 #### 4. Usability/background of AI tools (Rohan)
 
+<hr/>
 
 ### 1/31
 
@@ -52,6 +54,7 @@ https://www.nngroup.com/articles/ai-ux-getting-started/
 
 How Will Developments in AI Impact UXR? Researchers Weigh In. https://dscout.com/people-nerds/developments-ai-impact-uxr
 
+<hr/>
 
 ### 2/7
 
@@ -66,6 +69,7 @@ How Will Developments in AI Impact UXR? Researchers Weigh In. https://dscout.com
 
 #### 4. Threat of cognitive decline through AI and automation (Rhonda)
 
+<hr/>
 
 ### 2/14
 
@@ -77,6 +81,8 @@ How Will Developments in AI Impact UXR? Researchers Weigh In. https://dscout.com
 
 González, A. G., Barrios-Muriel, J., Romero-Sánchez, F., Salgado, D. R., & Alonso, F. J. (2020). Ergonomic assessment of a new hand tool design for laparoscopic surgery based on surgeons’ muscular activity. Applied Ergonomics, 88, 103161. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/Ergo%20assessment%20of%20hand%20tool%20design%20in%20laparoscopic%20surgery.pdf)
 
+<hr/>
+
 ### 2/21
 
 #### 1. Usability Now and Design Thinking (Nina)
@@ -87,6 +93,7 @@ Razzouk, R., & Shute, V. (2012). What Is Design Thinking and Why Is It Important
 
 #### 2. Voting machine technology: butter fly ballot (Abby)
 
+<hr/>
 
 ### 2/28
 
@@ -101,8 +108,11 @@ Users. In ACM conference on Conversational User Interfaces (CUI ’23), July
 19–21, 2023, Eindhoven, Netherlands. ACM, New York, NY, USA, 10 pages.
 https://doi.org/10.1145/3571884.3597144 https://dl.acm.org/doi/pdf/10.1145/3571884.3597144 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/Chatgptuserexperience.pdf)
 
+<hr/>
 
 ### 3/13 Spring Recess
+
+<hr/>
 
 ### 3/20
 
@@ -117,6 +127,9 @@ Bender-Salazar, R. (2023). Design thinking as an effective method for problem-se
 
 #### 3. Smart collars (e-collars) for dogs (Sydney) 
 
+#### 4. Designing for assistive technology (ADA) compliance accessibility guidelines (Rhonda)
+
+<hr/>
 
 ### 3/27
 
@@ -124,7 +137,21 @@ Bender-Salazar, R. (2023). Design thinking as an effective method for problem-se
 
 Kahneman, D. (2011). Expert Intuition: When can we trust it? In Thinking, Fast and Slow (pp. 234-244). Farrar, Straus and Giroux. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/cognition/Kahneman%20Ch22.pdf)
 
+### 2. Heuristic Evalulation of User Interfaces (Kristine)
+
+Nielsen, J., & Molich, R. (1990). Heuristic evaluation of user interfaces. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '90) (pp. 249-256). ACM. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/NielsenJ%2CMolichR%2C1990.pdf)
+
+<hr/>
+
 ### 4/3
+
+#### 1. Glass cockpits in aviation (Kevin)
+
+#### 2. Mental Workload and situational awareness of pilots (Brent)
+
+#### 3. Ergonomics in automotive design process (Ankita)
+
+<hr/>
 
 ### 4/10
 
@@ -137,16 +164,31 @@ Masoudi, N., Fadel, G. M., Pagano, C. C., & Elena, M. V. (2019). A review of aff
 
 - Importance of leading with principles (design, product, how we work) in product development
 - Professional case study 
-- Evolution of User Experience to Product Design: What's Next?  
+- Evolution of User Experience to Product Design: What's Next?
+
+#### 3. User-Centered Design Practice (Kristine)
+
+Vredenburg, K., Mao, J.-Y., Smith, P. W., & Carey, T. (2002). A Survey of User-Centered Design Practice. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '02), Vol. 4, No. 1 (pp. 471-478). ACM. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/VredenburgK%2CMaoJ%2CSmithPW%2CCareyT%2C2002.pdf)
+
+<hr/>
 
 ### 4/17
 
 #### 1. Ways for patients to utilize devices such as infusion pumps without drawing too much attention to themselves (Arturo)
 
-#### 2. Medication errors prevention (Joy)
+#### 2. Applying human factors to medical device design (Arturo)
+
+#### 3. Medication errors prevention (Joy)
+
+#### 4. Trust in software as a medical device (SaMD) (Arturo)
+
+<hr/>
 
 ### 4/24
 
+#### 1. Safety and panic buttons for public safety (digital whistle, public safety infrastructure) (Sydney)
+
+<hr/>
 
 ### 5/1
 
@@ -156,12 +198,14 @@ Boutis, K., Pecaric, M., Seeto, B., & Pusic, M. (2010). Using signal detection t
 
 #### 2. Physicians' ability to adapt to new technologies (Arturo)
 
+#### 3. Importance and relevance of Human Factors for patients in cancer recovery (Steven)
+
 
 # Topics
 
 ## Steven
 
-Importance and relevance of Human Factors for patients in cancer recovery 
+<strike>Importance and relevance of Human Factors for patients in cancer recovery </strike>
 
 <strike>Implications of using LLM (AI) for higher educational settings</strike>
 
@@ -170,9 +214,9 @@ Importance and relevance of Human Factors for patients in cancer recovery
 
 <strike>Design and use of augmentative and alternative communication devices</strike>
 
-Smart collars (e-collars) for dogs (canine human factors)
+<strike>Smart collars (e-collars) for dogs (canine human factors)</strike>
 
-Safety and panic buttons for public safety (digital whistle, public safety infrastructure)
+<strike>Safety and panic buttons for public safety (digital whistle, public safety infrastructure)</strike>
 
 
 ## Abby
@@ -215,9 +259,12 @@ Knowledge transfer from VR simulations to real-life
 
 Anthropometry and ergonomics in aviation
 
-Mental Workload and situational awareness of pilots
+<strike>Mental Workload and situational awareness of pilots</strike>
+
 
 ## Kevin
+
+<strike> Glass cockpits in aviation </strike>
 
 <strike>Science of napping as fatigue countermeasure</strike>
 
@@ -238,7 +285,7 @@ Mental Workload and situational awareness of pilots
 
 GOMS 
 
-Ergonomics in automotive design process
+<strike>Ergonomics in automotive design process</strike>
 
 ## Derek
 
@@ -258,7 +305,7 @@ Glass cockpits in aviation
 
 ## Rhonda
 
-Designing for assistive technology (ADA) compliance accessibility guidelines
+<strike>Designing for assistive technology (ADA) compliance accessibility guidelines</strike>
 
 <strike>System usability scale (SUS)</strike>
 
@@ -291,7 +338,7 @@ Other non-paper related topics:
 
 <strike>Signal detection theory in radiographic images</strike>
 
-Affordances and affordance-based design to address usability 
+<strike>Affordances and affordance-based design to address usability </strike>
 
 <strike>Hand tool design for surgeons</strike>
 
@@ -320,11 +367,16 @@ https://dl.acm.org/doi/pdf/10.1145/3571884.3597144
 
 ## Arturo
 
-    Applying human factors to medical device design
+ <strike>     Applying human factors to medical device design</strike>
     
-    Trust in software as a medical device (SaMD)
+   <strike>   Trust in software as a medical device (SaMD)</strike>
     
    <strike>  Physicians' ability to adapt to new technologies </strike>
     
    <strike> Ways for patients to utilize devices such as infusion pumps without drawing too much attention to themselves </strike>
     
+## Kristine
+
+<strike>Nielsen, J., & Molich, R. (1990). Heuristic evaluation of user interfaces. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '90) (pp. 249-256). ACM. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/NielsenJ%2CMolichR%2C1990.pdf)</strike>
+
+<strike>Vredenburg, K., Mao, J.-Y., Smith, P. W., & Carey, T. (2002). A Survey of User-Centered Design Practice. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '02), Vol. 4, No. 1 (pp. 471-478). ACM. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/VredenburgK%2CMaoJ%2CSmithPW%2CCareyT%2C2002.pdf)</strike>
