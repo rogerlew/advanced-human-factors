@@ -113,6 +113,9 @@ https://doi.org/10.1145/3571884.3597144 https://dl.acm.org/doi/pdf/10.1145/35718
 
 #### 2. Anthropometry and ergonomics in aviation (Brent)
 
+
+#### 3. Emotional assessment of UX (Derek)
+
 <hr/>
 
 ### 3/13 Spring Recess
@@ -128,13 +131,11 @@ Bender-Salazar, R. (2023). Design thinking as an effective method for problem-se
 - Use cases for Design Thinking
 - Discussion about critiques on Design Thinking
 
-#### 2. Emotional assessment of UX (Derek)
+#### 2. Smart collars (e-collars) for dogs (Sydney) 
 
-#### 3. Smart collars (e-collars) for dogs (Sydney) 
+#### 3. Assistive technology and soccer (Alejandro)
 
-#### 4. Assistive technology and soccer (Alejandro)
-
-#### 5. Designing for assistive technology (ADA) compliance accessibility guidelines (Rhonda)
+#### 4. Designing for assistive technology (ADA) compliance accessibility guidelines (Rhonda)
 
 <hr/>
 
@@ -144,11 +145,11 @@ Bender-Salazar, R. (2023). Design thinking as an effective method for problem-se
 
 Kahneman, D. (2011). Expert Intuition: When can we trust it? In Thinking, Fast and Slow (pp. 234-244). Farrar, Straus and Giroux. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/cognition/Kahneman%20Ch22.pdf)
 
-### 2. Heuristic Evalulation of User Interfaces (Kristine)
+#### 2. Heuristic Evalulation of User Interfaces (Kristine)
 
 Nielsen, J., & Molich, R. (1990). Heuristic evaluation of user interfaces. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '90) (pp. 249-256). ACM. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/NielsenJ%2CMolichR%2C1990.pdf)
 
-### 3. Overview of Stryker Mako robotics human factors engineer experience (Emi)
+#### 3. Overview of Stryker Mako robotics human factors engineer experience (Emi)
 
 <hr/>
 
