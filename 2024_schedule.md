@@ -199,13 +199,14 @@ Vredenburg, K., Mao, J.-Y., Smith, P. W., & Carey, T. (2002). A Survey of User-C
 
 ### 4/24
 
-#### 1. Safety and panic buttons for public safety (digital whistle, public safety infrastructure) (Sydney)
+#### 1. Accessible design (Alejandro)
 
-#### 2. Courtroom Design (Abby)
+#### 2. Safety and panic buttons for public safety (digital whistle, public safety infrastructure) (Sydney)
 
-#### 3. Operation Risk Management /Crew Resource Management (ORM/CRM) (Kristen)
+#### 3. Courtroom Design (Abby)
 
-#### 4. GOMS (Ankita)
+#### 4. Operation Risk Management /Crew Resource Management (ORM/CRM) (Kristen)
+
 
 <hr/>
 
@@ -217,7 +218,9 @@ Boutis, K., Pecaric, M., Seeto, B., & Pusic, M. (2010). Using signal detection t
 
 #### 2. Physicians' ability to adapt to new technologies (Arturo)
 
-#### 3. Importance and relevance of Human Factors for patients in cancer recovery (Steven)
+#### 3. GOMS (Ankita)
+
+#### 4. Importance and relevance of Human Factors for patients in cancer recovery (Steven)
 
 
 # Topics
@@ -251,9 +254,9 @@ Boutis, K., Pecaric, M., Seeto, B., & Pusic, M. (2010). Using signal detection t
 
 <strike>Performance and cognitive workload and fatigue</strike>
 
-Trust in automation
+<strike>Trust in automation</strike>
 
-Accessible design 
+<strike>Accessible design</strike>
 
 Color blindness in gaming / entertainment
 
@@ -302,7 +305,7 @@ Knowledge transfer from VR simulations to real-life (Rohan)
 
 ## Ankita
 
-GOMS (Ankita)
+<strike>GOMS (Ankita)</strike>
 
 <strike>Ergonomics in automotive design process</strike>
 
@@ -318,8 +321,9 @@ Children using apps in the classroom
 
 <strike>negative transfer in aviation safety (simulation training)</strike>
 
-Operation Risk Management /Crew Resource Management (ORM/CRM) (Kristen)
-Glass cockpits in aviation (Kristen)
+<strike>Operation Risk Management /Crew Resource Management (ORM/CRM) (Kristen)</strike>
+
+<strike>Glass cockpits in aviation (Kristen)</strike>
 
 ## Rhonda
 
@@ -385,14 +389,14 @@ https://dl.acm.org/doi/pdf/10.1145/3571884.3597144
 
 ## Arturo
 
- <strike>     Applying human factors to medical device design</strike>
-    
-   <strike>   Trust in software as a medical device (SaMD)</strike>
-    
-   <strike>  Physicians' ability to adapt to new technologies </strike>
-    
-   <strike> Ways for patients to utilize devices such as infusion pumps without drawing too much attention to themselves </strike>
-    
+<strike>     Applying human factors to medical device design</strike>
+
+<strike>   Trust in software as a medical device (SaMD)</strike>
+
+<strike>  Physicians' ability to adapt to new technologies </strike>
+
+<strike> Ways for patients to utilize devices such as infusion pumps without drawing too much attention to themselves </strike>
+
 ## Kristine
 
 <strike>Nielsen, J., & Molich, R. (1990). Heuristic evaluation of user interfaces. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '90) (pp. 249-256). ACM. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/NielsenJ%2CMolichR%2C1990.pdf)</strike>
