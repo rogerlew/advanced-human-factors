@@ -228,6 +228,26 @@ Boutis, K., Pecaric, M., Seeto, B., & Pusic, M. (2010). Using signal detection t
 
 # Speaker Counts from speaker_counts.py
 
+Kevin           3
+Abby            3
+Joy             3
+Alejandro       4
+Rhonda          3
+Derek           3
+Kristen         3
+Rohan           3
+Sydney          3
+Ankita          3
+Brent           3
+Nina            4
+Olga            3
+Steven          2
+Roger           1
+Emi             3
+Jenna           3
+Kristine        2
+Arturo          4
+
 
 # Unscheduled Topics
 
