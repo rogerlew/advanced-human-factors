@@ -95,6 +95,9 @@ Razzouk, R., & Shute, V. (2012). What Is Design Thinking and Why Is It Important
 
 #### 2. Voting machine technology: butter fly ballot (Abby)
 
+#### 3. Children using apps in the classroom (Derek)
+
+#### 4. Knowledge transfer from VR simulations to real-life (Rohan)
 
 <hr/>
 
@@ -272,9 +275,9 @@ Color blindness in gaming / entertainment
 
 Text input methods in XR interfaces
 
-Knowledge transfer from VR simulations to real-life (Rohan)
+<strike>Knowledge transfer from VR simulations to real-life (Rohan)</strike>
 
-<strike>Spatial audio as a VR interface</strike>
+Spatial audio as a VR interface
 
 
 
