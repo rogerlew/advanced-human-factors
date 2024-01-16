@@ -7,7 +7,7 @@
 Driskell, J. E., and Mullen B. (2005). The efficacy of naps as fatigue countermeasure: A meta-analytic integration. Human Factors, 47 (2), 360-377. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/fatigue/Efficacy%20of%20naps.pdf)
 
 
-#### 2. Navigation, maps, and wayfinding (Abby)
+#### 2. Navigation, maps, and wayfinding (Abbey)
 
 Porathe, T., & Prison, J. (2008). Works in Design of Human-Map System Interaction. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI 2008) (pp. 2859-2864). ACM. doi:978-1-60558-012-8/08/04 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/Design%20of%20Human-Map%20System%20Interactions.pdf)
 
@@ -93,7 +93,7 @@ Nielsen, J. (1993). Usability Now, Chapter 1. Usability engineering. Academic Pr
 
 Razzouk, R., & Shute, V. (2012). What Is Design Thinking and Why Is It Important? Review of Educational Research, 82(3), 330-348. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/RazzoukR%2CShuteV_WhatIsDesignThinking.pdf)
 
-#### 2. Voting machine technology: butter fly ballot (Abby)
+#### 2. Voting machine technology: butter fly ballot (Abbey)
 
 #### 3. Children using apps in the classroom (Derek)
 
@@ -207,7 +207,7 @@ Vredenburg, K., Mao, J.-Y., Smith, P. W., & Carey, T. (2002). A Survey of User-C
 
 #### 2. Safety and panic buttons for public safety (digital whistle, public safety infrastructure) (Sydney)
 
-#### 3. Courtroom Design (Abby)
+#### 3. Courtroom Design (Abbey)
 
 #### 4. Operation Risk Management /Crew Resource Management (ORM/CRM) (Kristen)
 
@@ -226,189 +226,23 @@ Boutis, K., Pecaric, M., Seeto, B., & Pusic, M. (2010). Using signal detection t
 
 #### 4. Importance and relevance of Human Factors for patients in cancer recovery (Steven)
 
-
-# Topics
-
-## Steven
-
-<strike>Importance and relevance of Human Factors for patients in cancer recovery </strike>
-
-<strike>Implications of using LLM (AI) for higher educational settings</strike>
+# Speaker Counts from speaker_counts.py
 
 
-## Syndey
-
-<strike>Design and use of augmentative and alternative communication devices</strike>
-
-<strike>Smart collars (e-collars) for dogs (canine human factors)</strike>
-
-<strike>Safety and panic buttons for public safety (digital whistle, public safety infrastructure)</strike>
-
-
-## Abby
-
-<strike>Voting machine technology (butter fly ballot), trust</strike>
-
-<strike>Court-room design</strike>
-
-<strike>navigation, maps, and wayfinding</strike>
-
+# Unscheduled Topics
 
 ## Alejandro
 
-<strike>Performance and cognitive workload and fatigue</strike>
-
-<strike>Trust in automation</strike>
-
-<strike>Accessible design</strike>
-
 Color blindness in gaming / entertainment
 
-<strike>Assistive technology and soccer</strike>
 
 
 ## Rohan
 
-<strike>Usability/background of AI tools</strike>
-
-<strike>Space navigation in virtual reality</strike>
-
 Text input methods in XR interfaces
-
-<strike>Knowledge transfer from VR simulations to real-life (Rohan)</strike>
 
 Spatial audio as a VR interface
 
-
-
-## Brent
-
-<strike>Anthropometry and ergonomics in aviation</strike
-
-<strike>Mental Workload and situational awareness of pilots</strike>
-
-
-## Kevin
-
-<strike> Glass cockpits in aviation </strike>
-
-<strike>Science of napping as fatigue countermeasure</strike>
-
-<strike>Space exploration human factors Spaceship design long duration flights</strike>
-
-
-
-## Joy
-
-<strike>Medical device standards</strike>
-
-<strike>Heuristics for medical devices</strike>
-
-<strike>Medication errors prevention</strike>
-
-
-## Ankita
-
-<strike>GOMS (Ankita)</strike>
-
-<strike>Ergonomics in automotive design process</strike>
-
-## Derek
-
-Children using apps in the classroom
-
-<strike>Emotional assessment of UX</strike>
-
-<strike>Trends in the usability of mobile devices vs. web-based interfaces</strike>
-
-## Kristen
-
-<strike>negative transfer in aviation safety (simulation training)</strike>
-
-<strike>Operation Risk Management /Crew Resource Management (ORM/CRM) (Kristen)</strike>
-
-<strike>Glass cockpits in aviation (Kristen)</strike>
-
-## Rhonda
-
-<strike>Designing for assistive technology (ADA) compliance accessibility guidelines</strike>
-
-<strike>System usability scale (SUS)</strike>
-
-<strike>Threat of cognitive decline through AI and automation</strike>
-
-
-## Nina
-
-
-<strike>Nielsen J, Usability Now, Chapter01-Executive Summary.pdf (on github)</strike>
-
-<strike>What Is Design Thinking and Why Is It Important? Rim Razzouk, Valerie Shute
-What_Is_Design_Thinking_and_Why_Is_It_Im 1.pdf</strike>
-​
-<strike>Design thinking as an effective method for problem-setting and need-finding for entrepreneurial teams addressing wicked problems, Rahmin Bender-Salazar
-s13731-023-00291-2.pdf</strike>
-
-<strike>The UX of AI (I'M VERY INTERESTED ON THIS ONE, and it coincides with leading with principles)</strike>
-https://uxofai.com/
-
-Other non-paper related topics:
-
-- <strike>I would like to discuss the importance of leading with principles (design, product, how we work) in product development. I'd love to use my current profession as a case study. </strike>
-- <strike>Evolution of User Experience to Product Design: What's Next?  </strike>
-- <strike>Generative AI for Customer Experience (Chat-based Interactions)</strike>
-- <strike>Discussion about critiques on Design Thinking</strike>
-
-## Jenna
-
-
-<strike>Signal detection theory in radiographic images</strike>
-
-<strike>Affordances and affordance-based design to address usability </strike>
-
-<strike>Hand tool design for surgeons</strike>
-
-
-## Olga
-
-<strike>1. How Will Developments in AI Impact UXR? Researchers Weigh In</strike>
-   
-https://dscout.com/people-nerds/developments-ai-impact-uxr
-
-<strike>2. AI for UX: Getting Started</strike>
-   
-https://www.nngroup.com/articles/ai-ux-getting-started/
-
-<strike>3. PERCEIVED EASE OF USE, SOCIAL INFLUENCERS, FACILITATING CONDITIONS, USER EXPERIENCE
-ON THE INFLUENCE OF HUMAN-MACHINE INTERACTION ON INTERACTION EFFICIENCY,
-EMOTIONAL IMPACT OF USING CHAT GPT</strike>
-
-https://ejournal.gunadarma.ac.id/index.php/dimedcom/article/view/9898/3093
-
-<strike>4. The User Experience of ChatGPT: Findings from a Questionnaire Study of Early Users</strike>
-   
-https://dl.acm.org/doi/pdf/10.1145/3571884.3597144
-
-5. <strike>Different topic: Cognition/ Kahneman Ch22.pdf of Thinking Fast and Slow (Great book, by the way !!!) in the literature list</strike>
-
-## Arturo
-
-<strike>     Applying human factors to medical device design</strike>
-
-<strike>   Trust in software as a medical device (SaMD)</strike>
-
-<strike>  Physicians' ability to adapt to new technologies </strike>
-
-<strike> Ways for patients to utilize devices such as infusion pumps without drawing too much attention to themselves </strike>
-
-## Kristine
-
-<strike>Nielsen, J., & Molich, R. (1990). Heuristic evaluation of user interfaces. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '90) (pp. 249-256). ACM. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/NielsenJ%2CMolichR%2C1990.pdf)</strike>
-
-<strike>Vredenburg, K., Mao, J.-Y., Smith, P. W., & Carey, T. (2002). A Survey of User-Centered Design Practice. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '02), Vol. 4, No. 1 (pp. 471-478). ACM. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/VredenburgK%2CMaoJ%2CSmithPW%2CCareyT%2C2002.pdf)</strike>
-
-## Emi
-Overview of Stryker Mako robotics human factors engineer experience
 
 Human factors considerations of robotic assisted surgery in general
 
