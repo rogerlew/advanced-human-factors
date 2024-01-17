@@ -1,11 +1,14 @@
 # Schedule
 
-### 1/17 
+### 1/17 Naps, Maps, Heuristics, and Fatigue
 
 #### 1. Science of napping as fatigue countermeasure (Kevin)
 
 Driskell, J. E., and Mullen B. (2005). The efficacy of naps as fatigue countermeasure: A meta-analytic integration. Human Factors, 47 (2), 360-377. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/fatigue/Efficacy%20of%20naps.pdf)
 
+[Table from Driskell](https://github.com/rogerlew/advanced-human-factors/blob/main/slides/2024_01_17/Compiled_Fatigue_results.pdf)
+
+Flight Safety Foundation. (2018). Controlled rest on the flight deck: A resource for operators. 71st annual International Air Safety Summit (IASS) [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/slides/2024_01_17/Controlled-Rest.pdf)
 
 #### 2. Navigation, maps, and wayfinding (Abbey)
 
