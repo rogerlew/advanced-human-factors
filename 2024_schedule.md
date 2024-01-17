@@ -20,7 +20,7 @@ Zhang, J., Johnson, T. R., Patel, V. L., Paige, D. L., & Kubose, T. (2003). Usin
 
 #### 4. Performance and cognitive workload and fatigue (Alejandro)
 
-Estes, S. (2015). The Workload Curve: Subjective Mental Workload. Human Factors, 57(7), 1174-1187. [https://doi-org.uidaho.idm.oclc.org/10.1177/0018720815592752](https://doi-org.uidaho.idm.oclc.org/10.1177/0018720815592752)
+Estes, S. (2015). The Workload Curve: Subjective Mental Workload. Human Factors, 57(7), 1174-1187. [https://doi-org.uidaho.idm.oclc.org/10.1177/0018720815592752](https://doi-org.uidaho.idm.oclc.org/10.1177/0018720815592752) [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/workload/estes-2015-the-workload-curve-subjective-mental-workload.pdf)
 
 <hr/>
 
