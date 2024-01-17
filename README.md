@@ -38,7 +38,8 @@ https://github.com/rogerlew/advanced-human-factors/blob/main/2024_schedule.md
 
 [Canvas Class Recordings](https://canvas.uidaho.edu/courses/25076/modules/172131)
 
-[Onedrive Class Recordings]([https://canvas.uidaho.edu/courses/25076/modules/172131](https://vandalsuidaho-my.sharepoint.com/:f:/r/personal/rogerlew_uidaho_edu/Documents/ZoomRecordings?csf=1&web=1&e=cDPmBj))
+[Onedrive Class Recordings](https://vandalsuidaho-my.sharepoint.com/:f:/r/personal/rogerlew_uidaho_edu/Documents/ZoomRecordings?csf=1&web=1&e=cDPmBj)
+
 
 ## Readings and Materials
 
