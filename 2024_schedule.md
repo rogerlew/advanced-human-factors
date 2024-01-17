@@ -20,6 +20,8 @@ Zhang, J., Johnson, T. R., Patel, V. L., Paige, D. L., & Kubose, T. (2003). Usin
 
 #### 4. Performance and cognitive workload and fatigue (Alejandro)
 
+[Mental Workload](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/workload/Mental_workload.pdf)
+
 <hr/>
 
 ### 1/24
