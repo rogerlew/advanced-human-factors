@@ -124,6 +124,8 @@ https://doi.org/10.1145/3571884.3597144 https://dl.acm.org/doi/pdf/10.1145/35718
 
 #### 3. Emotional assessment of UX (Derek)
 
+#### 4. Wearable computers (Kristine)
+
 <hr/>
 
 ### 3/13 Spring Recess
@@ -153,9 +155,8 @@ Bender-Salazar, R. (2023). Design thinking as an effective method for problem-se
 
 Kahneman, D. (2011). Expert Intuition: When can we trust it? In Thinking, Fast and Slow (pp. 234-244). Farrar, Straus and Giroux. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/cognition/Kahneman%20Ch22.pdf)
 
-#### 2. Heuristic Evalulation of User Interfaces (Kristine)
+#### 2.  Participatory design (Kristine)
 
-Nielsen, J., & Molich, R. (1990). Heuristic evaluation of user interfaces. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '90) (pp. 249-256). ACM. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/NielsenJ%2CMolichR%2C1990.pdf)
 
 #### 3. Overview of Stryker Mako robotics human factors engineer experience (Emi)
 
@@ -185,9 +186,7 @@ Masoudi, N., Fadel, G. M., Pagano, C. C., & Elena, M. V. (2019). A review of aff
 - Professional case study 
 - Evolution of User Experience to Product Design: What's Next?
 
-#### 3. User-Centered Design Practice (Kristine)
-
-Vredenburg, K., Mao, J.-Y., Smith, P. W., & Carey, T. (2002). A Survey of User-Centered Design Practice. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '02), Vol. 4, No. 1 (pp. 471-478). ACM. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/VredenburgK%2CMaoJ%2CSmithPW%2CCareyT%2C2002.pdf)
+#### 3. Contextual design (Kristine)
 
 #### 4. Trust in automation (Alejandro)
 
