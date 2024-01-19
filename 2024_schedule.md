@@ -33,7 +33,7 @@ Estes, S. (2015). The Workload Curve: Subjective Mental Workload. Human Factors,
 
 #### 2. Trends in the usability of mobile devices vs. web-based interfaces (Derek)
 
-#### 3. Negative transfer in aviation safety (simulation training) (Kristen)
+#### 3. Implications of using LLM (AI) for higher educational settings (Steven)
 
 #### 4. Usability/background of AI tools (Rohan)
 
@@ -70,7 +70,7 @@ How Will Developments in AI Impact UXR? Researchers Weigh In. https://dscout.com
 
 #### 2. Space exploration human factors Spaceship design long duration flights (Kevin)
 
-#### 3. Implications of using LLM (AI) for higher educational settings (Steven)
+#### 3. Negative transfer in aviation safety (simulation training) (Kristen)
 
 #### 4. Threat of cognitive decline through AI and automation (Rhonda)
 
