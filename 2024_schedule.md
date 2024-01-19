@@ -249,7 +249,7 @@ Steven          2
 Roger           1
 Emi             3
 Jenna           3
-Kristine        2
+Kristine        3
 Arturo          4
 
 
