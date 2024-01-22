@@ -121,10 +121,15 @@ https://doi.org/10.1145/3571884.3597144 https://dl.acm.org/doi/pdf/10.1145/35718
 
 #### 2. Anthropometry and ergonomics in aviation (Brent)
 
-
 #### 3. Emotional assessment of UX (Derek)
 
 #### 4. Wearable computers (Kristine)
+
+#### 5. Handbook of Control Room Design and Ergonomics (Jason)
+
+Ivergård, T., & Hunt, B. (Eds.). (2009). Handbook of Control Room Design and Ergonomics: A Perspective for the Future (2nd ed.). CRC Press, Taylor & Francis Group. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/process_control/handbook_control_room_design_and_ergo.pdf)
+
+
 
 <hr/>
 
@@ -159,6 +164,10 @@ Kahneman, D. (2011). Expert Intuition: When can we trust it? In Thinking, Fast a
 
 
 #### 3. Overview of Stryker Mako robotics human factors engineer experience (Emi)
+
+#### 4. High Performance HMI Handbook (Jason)
+
+Hollifield, B., Habibi, E., Oliver, D., & Nimmo, I. (2013). The High Performance HMI Handbook: A Comprehensive Guide to Designing, Implementing and Maintaining Effective HMIs for Industrial Plant Operations. Plant Automation Services, Inc.[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/process_control/high_perf_hmi.pdf)
 
 <hr/>
 
@@ -205,7 +214,12 @@ Yarbrough, A. K., & Smith, T. B. (2007). Technology Acceptance among Physicians:
 Huang, S., Yang, J., Yan, L., Zhao, Q. (2021). Current Medical Imaging and Artificial Intelligence and its Future. Chapter 5 in Current and Future Application of Artificial intelligence, 59-81. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/healthcare/Current_and_Future_Application_of_Artificial_Intel..._----_(Current_Medical_Imaging_and_Artificial_Intelligence_and_its_Future_)%201.pdf)
 
 
+#### 3. Simulator Feature Framework: Requirements to Support Training, Research and education (Jason)
 
+
+Here's how you would cite the article in APA format:
+
+Gideon, O., & Ulrich, T.(2023). Simulator Feature Framework: Requirements to support training, research, and education. In Human Factors Proceedings 2023 (pp. xx-xx). Washington, DC. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/process_control/SimulatorFeatureFramework.pdf)
 
 
 
