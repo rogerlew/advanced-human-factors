@@ -196,15 +196,13 @@ Masoudi, N., Fadel, G. M., Pagano, C. C., & Elena, M. V. (2019). A review of aff
 
 #### 1. Medication errors prevention (Joy)
 
-#### 2. Medical Imaging and AI (Arturo)
-
-Huang, S., Yang, J., Yan, L., Zhao, Q. (2021). Current Medical Imaging and Artificial Intelligence and its Future. Chapter 5 in Current and Future Application of Artificial intelligence, 59-81. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/healthcare/Current_and_Future_Application_of_Artificial_Intel..._----_(Current_Medical_Imaging_and_Artificial_Intelligence_and_its_Future_)%201.pdf)
-
-#### 3. Physician Attitudes toward AI and Technology (Arturo)
+#### 2. Physician Attitudes toward AI and Technology (Arturo)
 
 Al-Medfa, M. K., Al-Ansari, A. M. S., Darwish, A. H., Qreeballa, T. A., & Jahrami, H. (2023). Physicians’ attitudes and knowledge toward artificial intelligence in medicine: Benefits and drawbacks. Heliyon, 9, e14744.[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/healthcare/Physicians%E2%80%99%20attitudes...AI....pdf)
 
 Yarbrough, A. K., & Smith, T. B. (2007). Technology Acceptance among Physicians: A New Take on TAM. Medical Care Research and Review, 64(6), 650-672. https://doi.org/10.1177/1077558707305942 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/healthcare/Technology%20Acceptance%20among%20Physicians.pdf)
+
+Huang, S., Yang, J., Yan, L., Zhao, Q. (2021). Current Medical Imaging and Artificial Intelligence and its Future. Chapter 5 in Current and Future Application of Artificial intelligence, 59-81. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/healthcare/Current_and_Future_Application_of_Artificial_Intel..._----_(Current_Medical_Imaging_and_Artificial_Intelligence_and_its_Future_)%201.pdf)
 
 
 
