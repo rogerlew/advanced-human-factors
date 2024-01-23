@@ -35,6 +35,16 @@ Estes, S. (2015). The Workload Curve: Subjective Mental Workload. Human Factors,
 
 #### 3. Implications of using LLM (AI) for higher educational settings (Steven)
 
+Chatterjee, S. Bhattacharjee, K. K. Adoption of artificial intelligence in higher education: a quantitative analysis using structural equation modelling. Education and Information Technologies, 25 (5).
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/Spinger_AI_Highe_Education_SQM.pdf)
+
+Slimi, Z., & Villarejo Carballido, B. (2023). Navigating the Ethical Challenges of Artificial Intelligence in Higher Education: An Analysis of Seven Global AI Ethics Policies. TEM Journal, 12(2), 590-602. https://doi.org/10.18421/TEM122-02
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/TEMJournalMay2023_590_602%20(1).pdf)
+
+
+Yang, Shanshan, (Researcher in computer science) and Evans, Chris (2019) Opportunities and challenges in using AI Chatbots in Higher Education. In: The 3rd International Conference on Education and E-Learning (ICEEL 2019), Barcelona, Spain, 5-7 Nov 2019. Published in: Proceedings of the 2019 3rd International Conference on Education and E-Learning pp. 79-83. ISBN 9781450372251. doi:10.1145/3371647.3371659
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/WRAP-opportunities-challenges-AI-Chatbots-higher-education-Yang-2020.pdf)
+
 #### 4. Usability/background of AI tools (Rohan)
 
 <hr/>
