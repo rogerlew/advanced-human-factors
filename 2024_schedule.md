@@ -31,6 +31,8 @@ Estes, S. (2015). The Workload Curve: Subjective Mental Workload. Human Factors,
 
 #### 1. System usability scale (SUS) (Rhonda)
 
+Brooke, J. (1995). SUS: A quick and dirty usability scale [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/SUSCHAPT.pdf)
+
 #### 2. Trends in the usability of mobile devices vs. web-based interfaces (Derek)
 
 Weichbroth, P. (2020). Usability of Mobile Applications: A Systematic Literature Study. IEEE Access, 8, 55563 - 55577. https://doi.org/10.1109/ACCESS.2020.2981892
@@ -48,6 +50,11 @@ Yang, Shanshan, (Researcher in computer science) and Evans, Chris (2019) Opportu
 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/WRAP-opportunities-challenges-AI-Chatbots-higher-education-Yang-2020.pdf)
 
 #### 4. Usability/background of AI tools (Rohan)
+
+[Nielson Norman Group. AI: First New UI Paradigm in 60 Years](https://www.nngroup.com/articles/ai-paradigm/)
+
+Amershi, S., Weld, D., Vorvoreanu, M., Fourney, A., Nushi, B., Collisson, P., Suh, J., Iqbal, S., Bennett, P. N., Inkpen, K., Teevan, J., Kikin-Gil, R., & Horvitz, E. (2019). Guidelines for Human-AI Interaction. Paper presented at CHI 2019.
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/Guidelines%20for%20Human-AI%20Interaction%2C%20Amershi%20et%20al.%2C%202019.pdf)
 
 <hr/>
 
