@@ -66,7 +66,7 @@ Amershi, S., Weld, D., Vorvoreanu, M., Fourney, A., Nushi, B., Collisson, P., Su
 
 #### 3. Mental Workload and Situational Awareness for Pilots (Brent)
 
-#### 4. The UX of AI (Nina)
+#### 4. UX of AI + Leading with Principles (Nina)
 
 https://uxofai.com/
 
@@ -111,11 +111,9 @@ González, A. G., Barrios-Muriel, J., Romero-Sánchez, F., Salgado, D. R., & Alo
 
 ### 2/21
 
-#### 1. Usability Now and Design Thinking (Nina)
+#### 1. Naturalistic Decision Making (Kyra)
 
-Nielsen, J. (1993). Usability Now, Chapter 1. Usability engineering. Academic Press. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/HCI/NielsenJ%2CUsablityNow%2CChapter01-Executive%20Summary.pdf)
-
-Razzouk, R., & Shute, V. (2012). What Is Design Thinking and Why Is It Important? Review of Educational Research, 82(3), 330-348. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/RazzoukR%2CShuteV_WhatIsDesignThinking.pdf)
+Klien, G. (2008). Naturalistic decision making. <i>Human Factors The Journal of the Human Factors and Ergonomics Society 50</i>:456-60. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/NDMHF7-16-08.pdf)
 
 #### 2. Voting machine technology: butter fly ballot (Abbey)
 
@@ -160,11 +158,13 @@ Ivergård, T., & Hunt, B. (Eds.). (2009). Handbook of Control Room Design and Er
 
 #### 1. Design Thinking (Nina)
 
+Razzouk, R., & Shute, V. (2012). What Is Design Thinking and Why Is It Important? Review of Educational Research, 82(3), 330-348. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/RazzoukR%2CShuteV_WhatIsDesignThinking.pdf)
+    
 Bender-Salazar, R. (2023). Design thinking as an effective method for problem-setting and needfinding for entrepreneurial teams addressing wicked problems. Journal of Innovation and Entrepreneurship, 12(1). https://doi.org/10.1186/s13731-023-00291-2 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/Bender-SalazarR_DesignThinking.pdf)
 
 - Use cases for Design Thinking
 - Discussion about critiques on Design Thinking
-
+  
 #### 2. Smart collars (e-collars) for dogs (Sydney) 
 
 #### 3. Assistive technology and soccer (Alejandro)
@@ -208,10 +208,9 @@ Hollifield, B., Habibi, E., Oliver, D., & Nimmo, I. (2013). The High Performance
 
 Masoudi, N., Fadel, G. M., Pagano, C. C., & Elena, M. V. (2019). A review of affordances and affordance-based design to address usability. In Proceedings of the International Conference on Engineering Design, ICED19 (pp. 1). August 5-8, Delft, The Netherlands. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/a-review-of-affordances-and-affordance-based-design-to-address-usability.pdf)
 
-#### 2. Cutting edge of product design and development (Nina)
+#### 2. Product Design and Development (Nina)
 
-- Importance of leading with principles (design, product, how we work) in product development
-- Professional case study 
+- Professional case study (How we work, challenges, workflow)
 - Evolution of User Experience to Product Design: What's Next?
 
 #### 3. Contextual design (Kristine)
@@ -240,7 +239,11 @@ Here's how you would cite the article in APA format:
 
 Gideon, O., & Ulrich, T.(2023). Simulator Feature Framework: Requirements to support training, research, and education. In Human Factors Proceedings 2023 (pp. xx-xx). Washington, DC. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/process_control/SimulatorFeatureFramework.pdf)
 
+#### 4. Human Factors Engineering & Patient Safety (Kyra)
 
+Application of human factors to improve usability of clinical decision support for diagnostic decision-making: a scenario-based simulation study
+
+Carayon, P., Link to external site, this link will open in a new tab, Hoonakker, P., Hundt, A. S., Salwei, M., Wiegmann, D., Brown, R. L., Kleinschmidt, P., Novak, C., Pulia, M., Wang, Y., Wirkus, E., & Patterson, B. (2020). Application of human factors to improve usability of clinical decision support for diagnostic decision-making: A scenario-based simulation study. BMJ Quality & Safety, 29(4), 329. [https://doi.org/10.1136/bmjqs-2019-009857](https://doi.org/10.1136/bmjqs-2019-009857)
 
 <hr/>
 
