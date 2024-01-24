@@ -4,7 +4,7 @@
 
 University of Idaho<br>
 3 Credits<br>
-Spring 2023<br>
+Spring 2024<br>
 CRN 68894 (classroom)<br>
 CRN 68895 (online) <br>
 Jan 10, 2024  - May 10, 2024 	3:30 pm - 6:00 pm Pacific	Wednesdays<br>
