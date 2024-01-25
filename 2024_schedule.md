@@ -4,6 +4,8 @@
 
 #### 1. Science of napping as fatigue countermeasure (Kevin)
 
+[Presentation Slides](https://github.com/rogerlew/advanced-human-factors/blob/main/slides/2024_01_17/Napping_Pres_Riley.pdf)
+
 Driskell, J. E., and Mullen B. (2005). The efficacy of naps as fatigue countermeasure: A meta-analytic integration. Human Factors, 47 (2), 360-377. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/fatigue/Efficacy%20of%20naps.pdf)
 
 [Table from Driskell](https://github.com/rogerlew/advanced-human-factors/blob/main/slides/2024_01_17/Compiled_Fatigue_results.pdf)
@@ -50,6 +52,8 @@ Yang, Shanshan, (Researcher in computer science) and Evans, Chris (2019) Opportu
 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/WRAP-opportunities-challenges-AI-Chatbots-higher-education-Yang-2020.pdf)
 
 #### 4. Usability/background of AI tools (Rohan)
+
+[Presentation Slides](https://github.com/rogerlew/advanced-human-factors/raw/main/slides/2024_01_24/Interacting%20with%20AI.pptx)
 
 [Nielson Norman Group. AI: First New UI Paradigm in 60 Years](https://www.nngroup.com/articles/ai-paradigm/)
 
