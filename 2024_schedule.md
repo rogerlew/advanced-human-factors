@@ -70,6 +70,11 @@ Amershi, S., Weld, D., Vorvoreanu, M., Fourney, A., Nushi, B., Collisson, P., Su
 
 #### 2. GOMS (Ankita)
 
+Why GOMS? BE. John, 1995 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/HCI/JohnBE%2C1995.pdf)
+
+L Hochstein, GOMS and Key Stroke-Level Model, 2002. [PDF](https://cefns.nau.edu/~edo/Classes/CS477_WWW/Docs/TechArticles/GOMS%20and%20Keystroke-Level%20Model.pdf)
+
+
 #### 3. Mental Workload and Situational Awareness for Pilots (Brent)
 
 #### 4. UX of AI + Leading with Principles (Nina)
