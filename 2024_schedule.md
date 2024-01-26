@@ -142,7 +142,7 @@ https://doi.org/10.1145/3571884.3597144 https://dl.acm.org/doi/pdf/10.1145/35718
 
 #### 2. Anthropometry and ergonomics in aviation (Brent)
 
-#### 3. Emotional assessment of UX (Derek)
+#### 3. Assistive technology and soccer (Alejandro)
 
 #### 4. Wearable computers (Kristine)
 
@@ -171,7 +171,8 @@ Bender-Salazar, R. (2023). Design thinking as an effective method for problem-se
   
 #### 2. Smart collars (e-collars) for dogs (Sydney) 
 
-#### 3. Assistive technology and soccer (Alejandro)
+#### 3. Emotional assessment of UX (Derek)
+
 
 #### 4. Designing for assistive technology (ADA) compliance accessibility guidelines (Rhonda)
 
