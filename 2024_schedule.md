@@ -66,8 +66,8 @@ Amershi, S., Weld, D., Vorvoreanu, M., Fourney, A., Nushi, B., Collisson, P., Su
 
 #### 1. Design and use of augmentative and alternative communication devices (Sydney)
 
-#### 2. GOMS (Ankita)
-
+#### 2. GOMS (Ankita) [
+](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/HCI/JohnBE%2C1995.pdf)
 #### 3. Mental Workload and Situational Awareness for Pilots (Brent)
 
 #### 4. UX of AI + Leading with Principles (Nina)
