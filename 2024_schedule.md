@@ -37,8 +37,11 @@ Brooke, J. (1995). SUS: A quick and dirty usability scale [PDF](https://github.c
 
 #### 2. Trends in the usability of mobile devices vs. web-based interfaces (Derek)
 
+[Presentation Slides](https://github.com/rogerlew/advanced-human-factors/blob/main/slides/2024_01_24/Cryer_Usability%20for%20mobile.pdf)
+
 Weichbroth, P. (2020). Usability of Mobile Applications: A Systematic Literature Study. IEEE Access, 8, 55563 - 55577. https://doi.org/10.1109/ACCESS.2020.2981892
 https://ieeexplore.ieee.org/abstract/document/9042272]
+
 
 #### 3. Implications of using LLM (AI) for higher educational settings (Steven)
 
