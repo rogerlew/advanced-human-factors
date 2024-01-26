@@ -18,9 +18,7 @@ SHC 216
 
 ### Online
 
-Zoom: ```[https://uidaho.zoom.us//j/84258643730](https://uidaho.zoom.us/j/86590135941)```
-
-Passcode: ```704495```
+[Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTUzZDI5ZDYtMWZhZS00YjBhLWJhNjAtNzc3NzkxZThlM2I1%40thread.v2/0?context=%7b%22Tid%22%3a%227ebc6b63-5792-4a19-b20b-04b826048853%22%2c%22Oid%22%3a%222fb505e4-605d-4389-89da-26b2fcec1455%22%7d)
 
 ## Instructor
 
