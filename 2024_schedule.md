@@ -31,7 +31,6 @@ Estes, S. (2015). The Workload Curve: Subjective Mental Workload. Human Factors,
 
 ### 1/24
 
-#### 1. System usability scale (SUS) (Rhonda)
 
 Brooke, J. (1995). SUS: A quick and dirty usability scale [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/SUSCHAPT.pdf)
 
@@ -98,7 +97,6 @@ How Will Developments in AI Impact UXR? Researchers Weigh In. https://dscout.com
 
 #### 3. Negative transfer in aviation safety (simulation training) (Kristen)
 
-#### 4. Threat of cognitive decline through AI and automation (Rhonda)
 
 <hr/>
 
@@ -149,11 +147,6 @@ https://doi.org/10.1145/3571884.3597144 https://dl.acm.org/doi/pdf/10.1145/35718
 
 #### 4. Wearable computers (Kristine)
 
-#### 5. Handbook of Control Room Design and Ergonomics (Jason)
-
-Ivergård, T., & Hunt, B. (Eds.). (2009). Handbook of Control Room Design and Ergonomics: A Perspective for the Future (2nd ed.). CRC Press, Taylor & Francis Group. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/process_control/handbook_control_room_design_and_ergo.pdf)
-
-
 
 <hr/>
 
@@ -176,8 +169,11 @@ Bender-Salazar, R. (2023). Design thinking as an effective method for problem-se
 
 #### 3. Emotional assessment of UX (Derek)
 
+#### 4. Handbook of Control Room Design and Ergonomics (Jason)
 
-#### 4. Designing for assistive technology (ADA) compliance accessibility guidelines (Rhonda)
+Ivergård, T., & Hunt, B. (Eds.). (2009). Handbook of Control Room Design and Ergonomics: A Perspective for the Future (2nd ed.). CRC Press, Taylor & Francis Group. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/process_control/handbook_control_room_design_and_ergo.pdf)
+
+
 
 <hr/>
 
@@ -286,7 +282,6 @@ Kevin           3
 Abby            3
 Joy             3
 Alejandro       4
-Rhonda          3
 Derek           3
 Kristen         3
 Rohan           3
