@@ -77,6 +77,14 @@ L Hochstein, GOMS and Key Stroke-Level Model, 2002. [PDF](https://cefns.nau.edu/
 
 #### 3. Mental Workload and Situational Awareness for Pilots (Brent)
 
+Casner, S.M., & Gore, B.F. (2010). Measuring and evaluating workload: A primer.
+
+Charles, R. L., & Nixon, J. (2019). Measuring mental workload using physiological measures: A systematic review. Applied ergonomics, 74, 221-232.
+
+Mansikka, H., Virtanen, K., & Harris, D. (2019). Comparison of NASA-TLX scale, modified Cooper-Harper scale and mean inter-beat interval as measures of pilot mental workload during simulated flight tasks. Ergonomics, 62(2), 246–254. https://doi.org/10.1080/00140139.2018.1471159
+
+Wanyan, X., Zhuang, D., & Zhang, H. (2014). Improving pilot mental workload evaluation with combined measures. Bio-medical materials and engineering, 24(6), 2283-2290. 
+
 #### 4. UX of AI + Leading with Principles (Nina)
 
 https://uxofai.com/
@@ -203,7 +211,7 @@ Hollifield, B., Habibi, E., Oliver, D., & Nimmo, I. (2013). The High Performance
 
 #### 1. Glass cockpits in aviation (Kevin/Kristen)
 
-#### 2. Mental Workload and situational awareness of pilots (Brent)
+#### 2. Autonomous AI Flying (Brent)
 
 #### 3. Ergonomics in automotive design process (Ankita)
 
