@@ -77,13 +77,13 @@ L Hochstein, GOMS and Key Stroke-Level Model, 2002. [PDF](https://cefns.nau.edu/
 
 #### 3. Mental Workload and Situational Awareness for Pilots (Brent)
 
-Casner, S.M., & Gore, B.F. (2010). Measuring and evaluating workload: A primer.
+Casner, S.M., & Gore, B.F. (2010). Measuring and evaluating workload: A primer. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/aviation/Casner-Gore-2010-Workload_Primer_TM_Final.pdf)
 
-Charles, R. L., & Nixon, J. (2019). Measuring mental workload using physiological measures: A systematic review. Applied ergonomics, 74, 221-232.
+Charles, R. L., & Nixon, J. (2019). Measuring mental workload using physiological measures: A systematic review. Applied ergonomics, 74, 221-232. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/aviation/Charles%20Review%20workload%20physiological%20measures.pdf)
 
-Mansikka, H., Virtanen, K., & Harris, D. (2019). Comparison of NASA-TLX scale, modified Cooper-Harper scale and mean inter-beat interval as measures of pilot mental workload during simulated flight tasks. Ergonomics, 62(2), 246–254. https://doi.org/10.1080/00140139.2018.1471159
+Mansikka, H., Virtanen, K., & Harris, D. (2019). Comparison of NASA-TLX scale, modified Cooper-Harper scale and mean inter-beat interval as measures of pilot mental workload during simulated flight tasks. Ergonomics, 62(2), 246–254. https://doi.org/10.1080/00140139.2018.1471159 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/aviation/Mansikka%20Subjective%20Measures%20Workload%20Study.pdf)
 
-Wanyan, X., Zhuang, D., & Zhang, H. (2014). Improving pilot mental workload evaluation with combined measures. Bio-medical materials and engineering, 24(6), 2283-2290. 
+Wanyan, X., Zhuang, D., & Zhang, H. (2014). Improving pilot mental workload evaluation with combined measures. Bio-medical materials and engineering, 24(6), 2283-2290. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/aviation/Wanyan%20Workload%20Combined%20Measures.pdf)
 
 #### 4. UX of AI + Leading with Principles (Nina)
 
