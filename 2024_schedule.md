@@ -76,6 +76,8 @@ Beneteau, E. (2020). Who Are You Asking?: Qualitative Methods for Involving AAC 
 
 #### 2. GOMS (Ankita)
 
+[Presentation](https://youtu.be/RFdWKcP7A1s)
+
 Why GOMS? BE. John, 1995 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/HCI/JohnBE%2C1995.pdf)
 
 L Hochstein, GOMS and Key Stroke-Level Model, 2002. [PDF](https://cefns.nau.edu/~edo/Classes/CS477_WWW/Docs/TechArticles/GOMS%20and%20Keystroke-Level%20Model.pdf)
