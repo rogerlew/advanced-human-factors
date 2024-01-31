@@ -68,6 +68,8 @@ Amershi, S., Weld, D., Vorvoreanu, M., Fourney, A., Nushi, B., Collisson, P., Su
 
 #### 1. Design and use of augmentative and alternative communication devices (Sydney)
 
+[Slides](https://github.com/rogerlew/advanced-human-factors/raw/main/slides/2024_01_31/AAC%20Presentation.pptx)
+
 Curtis, H., Neate, T., & Gonzalez, C. V. (2022). State of the Art in AAC: A Systematic Review and Taxonomy. In ASSETS '22: Proceedings of the 24th International ACM SIGACCESS Conference on Computers and Accessibility (pp. Article 45). Athens, Greece: ACM. [https://dl.acm.org/doi/pdf/10.1145/3517428.3544810](https://dl.acm.org/doi/pdf/10.1145/3517428.3544810)
 
 Gibson, R. C., Dunlop, M. D., Bouamrane, M.-M., & Nayar, R. (2020). Designing Clinical AAC Tablet Applications with Adults who have Mild Intellectual Disabilities. In CHI 2020: Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (pp. Article 1). Honolulu, HI, USA: ACM. [https://doi.org/10.1145/3313831.3376159](https://doi.org/10.1145/3313831.3376159)
