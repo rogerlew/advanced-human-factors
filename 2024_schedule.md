@@ -173,7 +173,9 @@ https://doi.org/10.1145/3571884.3597144 https://dl.acm.org/doi/pdf/10.1145/35718
 
 #### 2. Anthropometry and ergonomics in aviation (Brent)
 
-#### 3. Assistive technology and soccer (Alejandro)
+#### 3. Usablity Now (Kyra)
+
+Nielsen, J. (1993) Usability Now. Chapter 1: Executive Summary (https://github.com/rogerlew/advanced-human-factors/blob/main/readings/HCI/NielsenJ%2CUsablityNow%2CChapter01-Executive%20Summary.pdf)
 
 #### 4. Wearable computers (Kristine)
 
