@@ -116,6 +116,10 @@ How Will Developments in AI Impact UXR? Researchers Weigh In. https://dscout.com
 - Space navigation
 - Spatial audio as a VR interface
 
+Boletsis, Costas, and Dimitra Chasanidou. “A Typology of Virtual Reality Locomotion Techniques.” Multimodal Technologies and Interaction 6, no. 9 (September 2022): 72. https://doi.org/10.3390/mti6090072. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/virtual_reality/mti-06-00072.pdf)
+
+Fialho, L., J. Oliveira, A. Filipe, and F. Luz. “Soundspace VR: Spatial Navigation Using Sound in Virtual Reality.” Virtual Reality 27, no. 1 (March 1, 2023): 397–405. https://doi.org/10.1007/s10055-021-00597-0. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/virtual_reality/s10055-021-00597-0.pdf)
+  
 #### 2. Space exploration human factors Spaceship design long duration flights (Kevin)
 
 Institute of Medicine. 2001. Safe Passage: Astronaut Care for Exploration
