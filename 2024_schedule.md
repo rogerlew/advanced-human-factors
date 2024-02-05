@@ -118,7 +118,13 @@ How Will Developments in AI Impact UXR? Researchers Weigh In. https://dscout.com
 
 #### 2. Space exploration human factors Spaceship design long duration flights (Kevin)
 
+Institute of Medicine. 2001. Safe Passage: Astronaut Care for Exploration
+Missions. Washington, DC: The National Academies Press. [https://doi.org/10.17226/10218](https://doi.org/10.17226/10218)
+
+
 #### 3. Negative transfer in aviation safety (simulation training) (Kristen)
+
+Myers III, P. L., Starr, A. W., & Mullins, K. (2018). Flight Simulator Fidelity, Training Transfer, and the Role of Instructors in Optimizing Learning. International Journal of Aviation, Aeronautics, and Aerospace, 5(1), Article 6. https://doi.org/10.15394/ijaaa.2018.1232 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/aviation/Simulator%20Fidelity%20Training%20Transfer%20and%20the%20Role%20of%20Instructors.pdf)
 
 #### 4. TBD (Mathew)
 
