@@ -103,6 +103,16 @@ https://uxofai.com/
 
 #### 5. AI for UX: Getting Started (Olga)
 
+
+Wulandari, A. A., Nurhaipah, T., & Ohorella, N. R. (2023). Perceived ease of use, social influencers, facilitating conditions, user experience on the influence of human-machine interaction on interaction efficiency, emotional impact of using Chat GPT. Jurnal Digital Media Communication, 2(2). Majalengka University; Gunadarma University, Indonesia. https://ejournal.gunadarma.ac.id/index.php/dimedcom/article/view/9898/3093
+
+Marita Skjuve, Asbjørn Følstad, and Petter Bae Brandtzaeg. 2023. The User
+Experience of ChatGPT: Findings from a Questionnaire Study of Early
+Users. In ACM conference on Conversational User Interfaces (CUI ’23), July
+19–21, 2023, Eindhoven, Netherlands. ACM, New York, NY, USA, 10 pages.
+https://doi.org/10.1145/3571884.3597144 https://dl.acm.org/doi/pdf/10.1145/3571884.3597144 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/Chatgptuserexperience.pdf)
+
+
 https://www.nngroup.com/articles/ai-ux-getting-started/
 
 How Will Developments in AI Impact UXR? Researchers Weigh In. https://dscout.com/people-nerds/developments-ai-impact-uxr
@@ -167,16 +177,7 @@ Klien, G. (2008). Naturalistic decision making. <i>Human Factors The Journal of 
 
 ### 2/28
 
-
-#### 1. ChatGPT (Olga)
-
-Wulandari, A. A., Nurhaipah, T., & Ohorella, N. R. (2023). Perceived ease of use, social influencers, facilitating conditions, user experience on the influence of human-machine interaction on interaction efficiency, emotional impact of using Chat GPT. Jurnal Digital Media Communication, 2(2). Majalengka University; Gunadarma University, Indonesia. https://ejournal.gunadarma.ac.id/index.php/dimedcom/article/view/9898/3093
-
-Marita Skjuve, Asbjørn Følstad, and Petter Bae Brandtzaeg. 2023. The User
-Experience of ChatGPT: Findings from a Questionnaire Study of Early
-Users. In ACM conference on Conversational User Interfaces (CUI ’23), July
-19–21, 2023, Eindhoven, Netherlands. ACM, New York, NY, USA, 10 pages.
-https://doi.org/10.1145/3571884.3597144 https://dl.acm.org/doi/pdf/10.1145/3571884.3597144 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/Chatgptuserexperience.pdf)
+#### 1. TBD (Matthew)
 
 #### 2. Anthropometry and ergonomics in aviation (Brent)
 
@@ -223,7 +224,6 @@ Ivergård, T., & Hunt, B. (Eds.). (2009). Handbook of Control Room Design and Er
 Kahneman, D. (2011). Expert Intuition: When can we trust it? In Thinking, Fast and Slow (pp. 234-244). Farrar, Straus and Giroux. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/cognition/Kahneman%20Ch22.pdf)
 
 #### 2.  Participatory design (Kristine)
-
 
 #### 3. Overview of Stryker Mako robotics human factors engineer experience (Emi)
 
@@ -311,30 +311,10 @@ Boutis, K., Pecaric, M., Seeto, B., & Pusic, M. (2010). Using signal detection t
 
 #### 2. Physicians' ability to adapt to new technologies (Arturo)
 
-#### 3. GOMS (Ankita)
+#### 3. TBD (Matthew)
 
 #### 4. Importance and relevance of Human Factors for patients in cancer recovery (Steven)
 
-# Speaker Counts from speaker_counts.py
-
-Kevin           3
-Abby            3
-Joy             3
-Alejandro       4
-Derek           3
-Kristen         3
-Rohan           3
-Sydney          3
-Ankita          3
-Brent           3
-Nina            4
-Olga            3
-Steven          2
-Roger           1
-Emi             3
-Jenna           3
-Kristine        3
-Arturo          4
 
 
 # Unscheduled Topics
