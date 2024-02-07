@@ -125,6 +125,9 @@ Fialho, L., J. Oliveira, A. Filipe, and F. Luz. “Soundspace VR: Spatial Naviga
 Institute of Medicine. 2001. Safe Passage: Astronaut Care for Exploration
 Missions. Washington, DC: The National Academies Press. [https://doi.org/10.17226/10218](https://doi.org/10.17226/10218)
 
+NASA. Human Factors. Dirty Dozen.
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/space/dirtydozen_handout_final_508.pdf)
+
 
 #### 3. Negative transfer in aviation safety (simulation training) (Kristen)
 
@@ -177,9 +180,7 @@ https://doi.org/10.1145/3571884.3597144 https://dl.acm.org/doi/pdf/10.1145/35718
 
 #### 2. Anthropometry and ergonomics in aviation (Brent)
 
-#### 3. Usablity Now (Kyra)
-
-Nielsen, J. (1993) Usability Now. Chapter 1: Executive Summary (https://github.com/rogerlew/advanced-human-factors/blob/main/readings/HCI/NielsenJ%2CUsablityNow%2CChapter01-Executive%20Summary.pdf)
+#### 3. Smart collars (e-collars) for dogs (Sydney) 
 
 #### 4. Wearable computers (Kristine)
 
@@ -201,7 +202,9 @@ Bender-Salazar, R. (2023). Design thinking as an effective method for problem-se
 - Use cases for Design Thinking
 - Discussion about critiques on Design Thinking
   
-#### 2. Smart collars (e-collars) for dogs (Sydney) 
+#### 2. Usablity Now (Kyra)
+
+Nielsen, J. (1993) Usability Now. Chapter 1: Executive Summary (https://github.com/rogerlew/advanced-human-factors/blob/main/readings/HCI/NielsenJ%2CUsablityNow%2CChapter01-Executive%20Summary.pdf)
 
 #### 3. Emotional assessment of UX (Derek)
 
