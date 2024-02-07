@@ -110,9 +110,24 @@ Online students are encouraged to join the course during the weekly zoom meeting
  - Practioner oriented thinking to address problems
  - Researcher oriented thinking to further examine product and potential solutions
 
-Evaluation against a standard. As part of this course you will have to learn about design guidelines and standards in different sub-fields of HF. The project will involve the evaluation the Human Factors of a complex system of your choosing. The goal of the project is to familiarize you with the current human factors design standards and to perform an evaluation against a standard. Write a cohesive document for an intended audience. Recommended 8-12 pages in APA. Please disclose assistance from artifical and human intelligence agents.
+Evaluation against a standard. As part of this course you will have to learn about design guidelines and standards in different sub-fields of HF. The project will involve the evaluation the Human Factors of a complex system of your choosing. The goal of the project is to familiarize you with the current human factors design standards and to perform an evaluation against a standard. Write a cohesive document for an intended audience. **Recommended 8-12 pages in APA.** Please disclose assistance from artifical and human intelligence agents.
 
-Proposed system and guideline due Wednesday February <strike>1</strike> 7, 2023
+### Available Standards (can also use standards not in this list)
+
+Department of Defense Design Criteria Standard Human Engineering 11 January 2012
+[MIL-STD-1472G](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/standards/MIL-STD-1472G.pdf)
+
+US Nuclear Regulatory Committee. Human-System Interface Design Review Guidelines 
+[NUREG-0700](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/standards/Nureg0700_rev3_ML20162A214.pdf)
+
+Us Department Of Transportation. Federal Aviation Administration. Human Factors Design Standard.
+[HF-STD-001B](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/standards/faa_2016-12_full_text.pdf)
+
+IEEE SA. IEEE Ontological Standard for Ethically Driven Robotics and Automation Systems.
+[IEEE Std 7007-2021](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/standards/ieee7007-2021.pdf)
+
+IEEE SA. IEEE Guide for Human Factors Applications of Computerized Operating Procedure Systems (COPS) at Nuclear Power Generating Stations and Other Nuclear Facilities.
+[IEEE Std 1786-2022](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/standards/1786-2022.pdf)
 
 Due Wednesday March 6, 2023 (Mid-term Week, week before spring break)
 
