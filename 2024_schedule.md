@@ -151,9 +151,17 @@ Myers III, P. L., Starr, A. W., & Mullins, K. (2018). Flight Simulator Fidelity,
 
 #### 1. Standards Introduction / Assignment 1 (Roger)
 
+Kovesdi, C., & Joe, J. (2017, May). A review of human-system interface design issues observed during analog-to-digital and digital-to-digital migrations in U.S. nuclear power plants. In Proceedings of the 10th International Embedded Topical Meeting on Nuclear Plant Instrumentation, Control & Human-Machine Interface Technologies NPIC & HMIT 2017.
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/standards/KovesdiC%2CJoeJ(2017)_A_review_of_hsi_design_issues.pdf)
+
 #### 2. Medical device standards (Joy)
 
 #### 3. FDA standards that guide and shape our usability process at Stryker (like specifically the document: FDA Guidance - Applying Human Factors and Usability Engineering to Medical Devices) (Emi)
+
+[Presentation Slides](https://github.com/rogerlew/advanced-human-factors/blob/main/slides/2024_02_14/Advanced%20HF%20FDA%20Guidance%20Presentation.pdf)
+
+U.S. Department of Health and Human Services, Food and Drug Administration, Center for Devices and Radiological Health, Office of Device Evaluation. (2016, February 3). Applying human factors and usability engineering to medical devices: Guidance for industry and Food and Drug Administration staff.
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/standards/Applying-Human-Factors-and-Usability-Engineering-to-Medical-Devices---Guidance-for-Industry-and-Food-and-Drug-Administration-Staff.pdf)
 
 #### 4. Hand Tool Design for Surgeons (Jenna)
 
