@@ -110,7 +110,13 @@ Online students are encouraged to join the course during the weekly zoom meeting
  - Practioner oriented thinking to address problems
  - Researcher oriented thinking to further examine product and potential solutions
 
-Evaluation against a standard. As part of this course you will have to learn about design guidelines and standards in different sub-fields of HF. The project will involve the evaluation the Human Factors of a complex system of your choosing. The goal of the project is to familiarize you with the current human factors design standards and to perform an evaluation against a standard. Write a cohesive document for an intended audience. **Recommended 8-12 pages in APA.** Please disclose assistance from artifical and human intelligence agents.
+Evaluation against a standard. As part of this course you will learn about design guidelines and standards in different sub-fields of Human Factors. 
+
+The project will involve the evaluation the Human Factors of a complex system of your choosing. The complex system could be a physical product or web application. The goal of the project is for you to familiarize yourself with a current human factors design standards and to perform an evaluation against a standard. 
+
+Write a cohesive document for an intended audience. **Recommended 8-12 pages in APA.** 
+
+Please disclose assistance from artifical and human intelligence agents.
 
 ### Available Standards (can also use standards not in this list)
 
