@@ -135,7 +135,7 @@ IEEE SA. IEEE Ontological Standard for Ethically Driven Robotics and Automation 
 IEEE SA. IEEE Guide for Human Factors Applications of Computerized Operating Procedure Systems (COPS) at Nuclear Power Generating Stations and Other Nuclear Facilities.
 [IEEE Std 1786-2022](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/standards/1786-2022.pdf)
 
-Due Wednesday March 6, 2023 (Mid-term Week, week before spring break)
+Due Friday March 8, 2023 (Mid-term Week, week before spring break)
 
 ## Main Project
 
