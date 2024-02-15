@@ -272,7 +272,7 @@ Masoudi, N., Fadel, G. M., Pagano, C. C., & Elena, M. V. (2019). A review of aff
 
 ### 4/17
 
-#### 1. Medication errors prevention (Joy)
+#### 1. Instructions for use for pediatric patients ages 10-12 (Joy)
 
 #### 2. Physician Attitudes toward AI and Technology (Arturo)
 
