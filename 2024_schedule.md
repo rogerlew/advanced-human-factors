@@ -177,9 +177,24 @@ Klien, G. (2008). Naturalistic decision making. <i>Human Factors The Journal of 
 
 #### 2. Voting machine technology: butter fly ballot (Abbey)
 
+Bederson, B. B., Lee, B., Sherman, R. M., Herrnson, P. S., & Niemi, R. G. (2003). Electronic Voting System Usability Issues. Usability of Large Scale Public Systems - CHI 2003: NEW HORIZONS, 5(1), 145-152. Ft. Lauderdale, Florida, USA, April 5-10, 2003.
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/Electronic%20Voting%20System%20Usability%20Issues.pdf)
+
+
 #### 3. Children using apps in the classroom (Derek)
 
+Musti-Rao, S., Lo, Y.-y., & Plati, E. (2015). Using an iPad® App to Improve Sight Word Reading Fluency for At-Risk First Graders. Remedial and Special Education, 36(3). https://doi-org.uidaho.idm.oclc.org/10.1177/0741932514541485
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/musti-rao-et-al-2014-using-an-ipad(r)-app-to-improve-sight-word-reading-fluency-for-at-risk-first-graders.pdf)
+
+Kiili, K., Ketamo, H., Koivisto, A., & Finn, E. (2014). Studying the User Experience of a Tablet Based Math Game. International Journal of Game-Based Learning, 4(1). http://dx.doi.org.uidaho.idm.oclc.org/10.4018/IJGBL.2014010104
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/Studying_the_User_Experience_o.PDF)
+
 #### 4. Knowledge transfer from VR simulations to real-life (Rohan)
+
+Gao, Nan, Geping Liu, and Ling Zhang. "Investigating the Effect of Immersive VR on Conceptual Knowledge and Procedural Knowledge Transfer." In 2022 Eleventh International Conference of Educational Innovation through Technology (EITT), 37–42, 2022. https://doi.org/10.1109/EITT57407.2022.00012. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/Investigating_the_Effect_of_Immersive_VR_on_Conceptual_Knowledge_and_Procedural_Knowledge_Transfer.pdf)
+
+Krajčovič, Martin, Gabriela Gabajová, Marián Matys, Beáta Furmannová, and Ľuboslav Dulina. "Virtual Reality as an Immersive Teaching Aid to Enhance the Connection between Education and Practice." Sustainability 14, no. 15 (January 2022): 9580. https://doi.org/10.3390/su14159580. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/sustainability-14-09580-v3.pdf)
+
 
 <hr/>
 
