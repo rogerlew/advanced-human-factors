@@ -213,7 +213,14 @@ Krajčovič, Martin, Gabriela Gabajová, Marián Matys, Beáta Furmannová, and 
 
 ### 3/6
 
+#### 1. TBD (Steven)
 
+#### 2. TBD (Arturo)
+
+#### 3. TBD (Olga) 
+
+
+<hr/>
 
 ### 3/13 Spring Recess
 

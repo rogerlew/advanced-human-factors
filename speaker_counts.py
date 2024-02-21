@@ -1,6 +1,6 @@
 from collections import Counter
 
-lines = open('2024_schedule.md').readlines()
+lines = open('2024_schedule.md', encoding='utf-8').readlines()
 
 lines = [L for L in lines if L.startswith("####") and L.strip().endswith(")")]
 
