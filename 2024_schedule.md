@@ -189,18 +189,16 @@ Musti-Rao, S., Lo, Y.-y., & Plati, E. (2015). Using an iPad® App to Improve Sig
 Kiili, K., Ketamo, H., Koivisto, A., & Finn, E. (2014). Studying the User Experience of a Tablet Based Math Game. International Journal of Game-Based Learning, 4(1). http://dx.doi.org.uidaho.idm.oclc.org/10.4018/IJGBL.2014010104
 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/Studying_the_User_Experience_o.PDF)
 
-#### 4. Knowledge transfer from VR simulations to real-life (Rohan)
+<hr/>
+
+### 2/28
+
+#### 1. Knowledge transfer from VR simulations to real-life (Rohan)
 
 Gao, Nan, Geping Liu, and Ling Zhang. "Investigating the Effect of Immersive VR on Conceptual Knowledge and Procedural Knowledge Transfer." In 2022 Eleventh International Conference of Educational Innovation through Technology (EITT), 37–42, 2022. https://doi.org/10.1109/EITT57407.2022.00012. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/Investigating_the_Effect_of_Immersive_VR_on_Conceptual_Knowledge_and_Procedural_Knowledge_Transfer.pdf)
 
 Krajčovič, Martin, Gabriela Gabajová, Marián Matys, Beáta Furmannová, and Ľuboslav Dulina. "Virtual Reality as an Immersive Teaching Aid to Enhance the Connection between Education and Practice." Sustainability 14, no. 15 (January 2022): 9580. https://doi.org/10.3390/su14159580. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/sustainability-14-09580-v3.pdf)
 
-
-<hr/>
-
-### 2/28
-
-#### 1. TBD (Matthew)
 
 #### 2. Anthropometry and ergonomics in aviation (Brent)
 
