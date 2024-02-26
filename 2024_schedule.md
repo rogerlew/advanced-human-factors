@@ -223,9 +223,20 @@ Moroney, W. F., & Hughes, R. E. (1983). Development of a Naval Aviation Anthropo
 Poirson, E., & Parkinson, M. (2014). Estimated anthropometry for male commercial pilots in Europe and an approach to its use in seat design. International Journal of Industrial Ergonomics, 44(5), 769–776. https://doi.org/10.1016/j.ergon.2014.05.003
 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/aviation/Estimated%20anthropometry%20for%20male%20commercial%20pilots.pdf)
 
-#### 3. Smart collars (e-collars) for dogs (Sydney) 
+#### 3. Animal Human Interaction (Sydney) 
+
+Mancini, C. Nannoni, E. (2023). Animal-Computer Interaction and Beyond: The Benefits of Animal-Centered Research and Design. Frontiers in Veterinary Science Animal Behavior and Welfare. DOI 10.3389/978-2-83251-351-4
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/Animal-Computer%20Interaction.pdf)
 
 #### 4. Wearable computers (Kristine)
+
+Giorgi, A., Ronca, V., Vozzi, A., Sciaraffa, N., di Florio, A., Tamborra, L., Simonetti, I., Aricò, P., Di Flumeri, G., Rossi, D., & Borghini, G. (2021). Wearable technologies for mental workload, stress, and emotional state assessment during working-like tasks: A comparison with laboratory technologies. Sensors, 21(7), 2332. https://doi.org/10.3390/s21072332
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/sensors-21-02332-v2.pdf)
+
+
+Motti, V. G., & Caine, K. (2014). Human factors considerations in the design of wearable devices. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 58, 1820.
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/Design_of_Wearable_Devices.pdf)
+
 
 
 <hr/>
