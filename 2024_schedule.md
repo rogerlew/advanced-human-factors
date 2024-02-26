@@ -364,8 +364,6 @@ Boutis, K., Pecaric, M., Seeto, B., & Pusic, M. (2010). Using signal detection t
 
 #### 2. Physicians' ability to adapt to new technologies (Arturo)
 
-#### 3. TBD (Matthew)
-
 #### 4. Importance and relevance of Human Factors for patients in cancer recovery (Steven)
 
 
