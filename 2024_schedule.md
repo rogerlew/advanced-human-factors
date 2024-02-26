@@ -202,6 +202,27 @@ Krajčovič, Martin, Gabriela Gabajová, Marián Matys, Beáta Furmannová, and 
 
 #### 2. Anthropometry and ergonomics in aviation (Brent)
 
+da Silva, G. V., Gordon, C. C., & Halpern, M. (2018). Comparison of anthropometry of Brazilian and US Military population for flight deck design. International Journal of Industrial Ergonomics, 64, 170–177. https://doi.org/10.1016/j.ergon.2018.01.016
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/aviation/Comparison%20Brazil%20and%20US%20anthro.pdf)
+
+Joslin, R. (2014). Anthropometry considerations in the design and evaluation of flight deck displays and controls: Literature review. International Journal of Aviation, Aeronautics, and Aerospace. https://doi.org/10.15394/ijaaa.2022.1718
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/aviation/anthro%20design%20and%20evaluation%20of%20flight%20controls.pdf)
+
+Joslin, R. E. (2014). Examination of anthropometric databases for aircraft design. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 58(1), 1–5. https://doi.org/10.1177/1541931214581001
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/aviation/Examination%20of%20airline%20anthropology%20datasets.pdf)
+
+Melis, D. J., Silva, J. M., Yeun, R., & Wild, G. (2020). The effect of airline passenger anthropometry on aircraft emergency evacuations. Safety Science, 128, 104749-. https://doi.org/10.1016/j.ssci.2020.104749
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/aviation/anthropometry%20airline%20passengers.pdf)
+
+Molenbroek, J. F. M., Albin, T. J., & Vink, P. (2017). Thirty years of anthropometric changes relevant to the width and depth of transportation seating spaces, present and future. Applied Ergonomics, 65, 130–138. https://doi.org/10.1016/j.apergo.2017.06.003
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/aviation/30%20year%20anthro%20analysis.pdf)
+
+Moroney, W. F., & Hughes, R. E. (1983). Development of a Naval Aviation Anthropometry Cockpit Compatibility Program. Proceedings of the Human Factors Society Annual Meeting, 27(7), 592–596. https://doi.org/10.1177/154193128302700716
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/aviation/Naval%20Aviation%20anthro.pdf)
+
+Poirson, E., & Parkinson, M. (2014). Estimated anthropometry for male commercial pilots in Europe and an approach to its use in seat design. International Journal of Industrial Ergonomics, 44(5), 769–776. https://doi.org/10.1016/j.ergon.2014.05.003
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/aviation/Estimated%20anthropometry%20for%20male%20commercial%20pilots.pdf)
+
 #### 3. Smart collars (e-collars) for dogs (Sydney) 
 
 #### 4. Wearable computers (Kristine)
