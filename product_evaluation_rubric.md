@@ -17,7 +17,10 @@ This was generated with tthe assitance of ChatGPT4
 https://chat.openai.com/share/e251c302-f2d4-4f8c-bab2-3fe1175366cb
 
 
-Grading assistant Prompt
+### Grading assistant Prompt
+
+I plan on experimentally using ChatGPT to assist with assessing your assignments to enhance my efficiency, objectivity, and potentially the quality of your feedback. This is the prompt I plan on using.
+
 ```markdown
 
 Hello, I need you to act as a grading assistant. Below is a rubric for a graduate level Psychology Advanced Human Factors Course. I need you to review the rubric. I will provide you an assignment to review. You will use your expertise of Human Factors Psychology to grade the assignment against the rubic. Respond with "Ready for assignment" if you understand.
