@@ -17,7 +17,7 @@ This was generated with tthe assitance of ChatGPT4
 https://chat.openai.com/share/e251c302-f2d4-4f8c-bab2-3fe1175366cb
 
 
-### Grading assistant Prompt
+### Grading assistant Prompt for GPT4
 
 I plan on experimentally using ChatGPT to assist with assessing your assignments to enhance my efficiency, objectivity, and potentially the quality of your feedback. This is the prompt I plan on using.
 
@@ -38,3 +38,12 @@ Hello, I need you to act as a grading assistant. Below is a rubric for a graduat
 | **Cohesion, APA Formatting, Spelling, and Grammar** | Document is exceptionally well-organized, written, and formatted strictly according to APA guidelines, with no spelling or grammar errors. | Document is well-organized and mostly adheres to APA formatting with minor spelling or grammar errors. | Document is organized and attempts to follow APA formatting with noticeable spelling or grammar errors. | Document lacks organization or consistent adherence to APA formatting, with many spelling or grammar errors. | Document is poorly organized and does not adhere to APA formatting, with pervasive spelling and grammar errors. |
 
 ```
+
+#### Notes 
+
+- Upload assignment as PDF. If the text is copied into the prompt it will likely truncate the assignment.
+- ChatGPT-3.5 might provide lower letter grades than ChatGPT-4.
+- The assessments from ChatGPT-4 will be used as supplemental information for grading.
+- The use of ChatGPT-4 as a grading assistant is experimental.
+- I will provide ChatGPT's feedback to you
+  
