@@ -42,7 +42,7 @@ Hello, I need you to act as a grading assistant. Below is a rubric for a graduat
 #### Notes 
 
 - Upload assignment as PDF. If the text is copied into the prompt it will likely truncate the assignment.
-- ChatGPT-3.5 might provide lower letter grades than ChatGPT-4.
+- ChatGPT-3.5 might provides lower letter grades than ChatGPT-4 and is not-consistent (would not recommend using 3.5).
 - The assessments from ChatGPT-4 will be used as supplemental information for grading.
 - The use of ChatGPT-4 as a grading assistant is experimental.
 - I will provide ChatGPT's feedback to you
