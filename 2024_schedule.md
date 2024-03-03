@@ -243,12 +243,26 @@ Motti, V. G., & Caine, K. (2014). Human factors considerations in the design of 
 
 ### 3/6
 
-#### 1. TBD (Steven)
+#### 1. Neurodivergent Design (Steven)
 
-#### 2. TBD (Arturo)
 
-#### 3. TBD (Olga) 
+#### 2. Autism Support Resources (Arturo)
 
+Fleury, V. P., & Towson, J. A. (2021). Early lessons learned in designing an adaptive shared reading intervention for preschoolers with autism. Exceptional Children, 88(1), 45-64. https://doi.org/10.1177/00144029211031865
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/autism/Fleury-Towson-Preschoolers_with_Autism.pdf)
+
+LEGOLAND New York Resort. (2023). Resort Sensory Guide: A resource for guests with cognitive disabilities including autism spectrum disorder (ASD). LEGOLAND.
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/autism/LLNY-sensory-guide-2023.pdf)
+
+Palumbo, J. "Jay". (2023, April 19). How LEGOLAND Resorts are making certain they are autistic inclusive. Forbes. https://www.forbes.com/sites/jenniferpalumbo/2023/04/19/how-legoland-resorts-are-making-certain-they-are-autistic-inclusive/?sh=5d003b5627ac
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/autism/How_LEGOLAND_Resorts_Are_Making_Certain_They_Are_Autistic_Inclusive.pdf)
+
+
+#### 3. Human-Centered Design Considered Harmful (Olga) 
+
+Norman, D. (2005). Human-Centered Design Considered Harmful  Interactions. 
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/ethics/Norman_HCD%20Considered%20Harmful.pdf)
+    
 
 <hr/>
 
