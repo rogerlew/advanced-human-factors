@@ -23,7 +23,7 @@ I plan on experimentally using ChatGPT to assist with assessing your assignments
 
 ```markdown
 
-Hello, I need you to act as a grading assistant. Below is a rubric for a graduate level Psychology Advanced Human Factors Course. I need you to review the rubric. I will provide you an assignment to review. You will use your expertise of Human Factors Psychology to grade the assignment against the rubic. Respond with "Ready for assignment" if you understand.
+Hello, I need you to act as a grading assistant. Below is a rubric for a graduate level Psychology Advanced Human Factors Course. I need you to review the rubric. I will provide you an assignment to review. You will use your expertise of Human Factors Psychology to grade the assignment against the rubic. Please provide a letter grade for each criteria (F, D, C, B-, B, B+, A-, A, A+). Respond with "Ready for assignment" if you understand.
 
 # Product Evaluation Rubric for Advanced Human Factors Course
 
