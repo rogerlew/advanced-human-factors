@@ -287,6 +287,10 @@ Nielsen, J. (1993) Usability Now. Chapter 1: Executive Summary (https://github.c
 
 #### 3. Emotional assessment of UX (Derek)
 
+Marques, L., Matsubara, P. G., Nakamura, W. T., Ferreira, B. M., Wiese, I. S., Gadelha, B. F., Zaina, L. M., Redmiles, D., & Conte, T. U. (2021). Understanding UX better: A new technique to go beyond emotion assessment. Sensors (Basel), 21(21), 7183. https://doi.org/10.3390/s21217183
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8586993/
+
+
 #### 4. Handbook of Control Room Design and Ergonomics (Jason)
 
 Ivergård, T., & Hunt, B. (Eds.). (2009). Handbook of Control Room Design and Ergonomics: A Perspective for the Future (2nd ed.). CRC Press, Taylor & Francis Group. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/process_control/handbook_control_room_design_and_ergo.pdf)
