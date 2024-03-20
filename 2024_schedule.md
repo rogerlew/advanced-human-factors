@@ -280,11 +280,8 @@ Bender-Salazar, R. (2023). Design thinking as an effective method for problem-se
 
 - Use cases for Design Thinking
 - Discussion about critiques on Design Thinking
+
   
-#### 2. Usablity Now (Kyra)
-
-Nielsen, J. (1993) Usability Now. Chapter 1: Executive Summary (https://github.com/rogerlew/advanced-human-factors/blob/main/readings/HCI/NielsenJ%2CUsablityNow%2CChapter01-Executive%20Summary.pdf)
-
 #### 3. Emotional assessment of UX (Derek)
 
 Marques, L., Matsubara, P. G., Nakamura, W. T., Ferreira, B. M., Wiese, I. S., Gadelha, B. F., Zaina, L. M., Redmiles, D., & Conte, T. U. (2021). Understanding UX better: A new technique to go beyond emotion assessment. Sensors (Basel), 21(21), 7183. https://doi.org/10.3390/s21217183
@@ -392,6 +389,10 @@ Carayon, P., Link to external site, this link will open in a new tab, Hoonakker,
 Boutis, K., Pecaric, M., Seeto, B., & Pusic, M. (2010). Using signal detection theory to model changes in serial learning of radiological image interpretation. Advances in Health Sciences Education, 15, 647-658. https://doi.org/10.1007/s10459-010-9225-8 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/SDT%20in%20radiographic%20images.pdf)
 
 #### 2. Physicians' ability to adapt to new technologies (Arturo)
+
+#### 3. Usablity Now (Kyra)
+
+Nielsen, J. (1993) Usability Now. Chapter 1: Executive Summary (https://github.com/rogerlew/advanced-human-factors/blob/main/readings/HCI/NielsenJ%2CUsablityNow%2CChapter01-Executive%20Summary.pdf)
 
 #### 4. Importance and relevance of Human Factors for patients in cancer recovery (Steven)
 
