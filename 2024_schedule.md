@@ -306,6 +306,15 @@ Kahneman, D. (2011). Expert Intuition: When can we trust it? In Thinking, Fast a
 
 #### 3. Overview of Stryker Mako robotics human factors engineer experience (Emi)
 
+Stryker - Mako Total Hip 4.0 
+[Video](https://www.stryker.com/content/dam/stryker/joint-replacement/systems/mako-system-overview/videos/JR_Mako_THA_MKOTHA-VA-26_Rev-1_29203.mp4)
+
+Stryker - Mako THA Application User Guide
+[PDF](https://az621074.vo.msecnd.net/syk-mobile-content-cdn/global-content-system/SYKGCSDOC-2-50976/clFCtaUlJzeRtszronQVzPBgqgne-g/214407_Mako%20THA%20Application%20User%20Guide.pdf)
+
+Catchpole, K., Bisantz, A., Hallbeck, M. S., Weigl, M., Randell, R., Kossack, M., & Anger, J. T. (2019). Human factors in robotic assisted surgery: Lessons from studies ‘in the Wild’. Applied Ergonomics, 78, 270-276.
+[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0003687018300450)
+
 #### 4. High Performance HMI Handbook (Jason)
 
 Hollifield, B., Habibi, E., Oliver, D., & Nimmo, I. (2013). The High Performance HMI Handbook: A Comprehensive Guide to Designing, Implementing and Maintaining Effective HMIs for Industrial Plant Operations. Plant Automation Services, Inc.[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/process_control/high_perf_hmi.pdf)
