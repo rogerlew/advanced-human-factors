@@ -303,6 +303,11 @@ Ivergård, T., & Hunt, B. (Eds.). (2009). Handbook of Control Room Design and Er
 Kahneman, D. (2011). Expert Intuition: When can we trust it? In Thinking, Fast and Slow (pp. 234-244). Farrar, Straus and Giroux. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/cognition/Kahneman%20Ch22.pdf)
 
 #### 2.  Participatory design (Kristine)
+Muller, M. J., Druin, A. Participatory Design: The Third Space in Human Computer Interaction. In The Human-Computer Interaction Handbook. 
+ [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/HCI/MullerDruin.2012.ParticipatoryDesign1.pdf)
+
+Farrell, V., Farrell, G., Mouzakis, K., Pilgrim, C., & Byrt, P. (2006). PICTIOL: A case study in participatory design. In DBLP Conference. https://doi.org/10.1145/1228175.1228209
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/HCI/pictiol-participatory-design-case-study-2006-farrell-mouzakis-pilgrim-byrt.pdf)
 
 #### 3. Overview of Stryker Mako robotics human factors engineer experience (Emi)
 
