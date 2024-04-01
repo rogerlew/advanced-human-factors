@@ -334,6 +334,13 @@ Hollifield, B., Habibi, E., Oliver, D., & Nimmo, I. (2013). The High Performance
 
 #### 3. Ergonomics in automotive design process (Ankita)
 
+
+Zamri Mohamed, Rosnah Mohd Yusuff (2007). Automotive Ergonomics: Passenger Car Interior Dimensions Parameters and Comfort http://umpir.ump.edu.my/id/eprint/2148/1/Auto_Ergonomic.pdf
+    
+Vivek D. Bhise. Ergonomics in the Automotive design Process
+
+[Recorded Presentation](https://youtu.be/a_zcoFumk4M)
+
 #### 4. Human factors considerations of robotic assisted surgery in general (Emi)
 <hr/>
 
