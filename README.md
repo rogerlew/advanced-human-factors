@@ -148,7 +148,7 @@ In the latter half the semester students will conduct a main project
 - Analyze and interpret trends
 - Identify and describe human factors related issues
 - Explore potential opportunities or problem areas (e.g. pedestrian fatalities at all time high) (human-, market-driven, or both)
-- Based on topical expertise
+- Based on topical expertise (do one or more of these)
   - Identify research gaps and develop a research curriculum
   - Envision and conceptualize potential innovation(s) in the topical domain
   - Forecast future trends and paradigm shifts
