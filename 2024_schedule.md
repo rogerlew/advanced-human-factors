@@ -332,6 +332,25 @@ Hollifield, B., Habibi, E., Oliver, D., & Nimmo, I. (2013). The High Performance
 
 #### 2. Autonomous AI Flying (Brent)
 
+
+Ho, N., Sadler, G. G., Hoffmann, L. C., Zemlicka, K., Lyons, J., Fergueson, W., ... & Wilkins, M. (2017). A longitudinal field study of auto-GCAS acceptance and trust: First-year results and implications. Journal of Cognitive Engineering and Decision Making, 11(3), 239-251.
+
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/aviation/ho-et-al-2017-a-longitudinal-field-study-of-auto-gcas-acceptance-and-trust-first-year-results-and-implications.pdf)
+
+Ragbir, Nadine K.; Baugh, Bradley S.; Rice, Stephen; and Winter, Scott R. (2018). How nationality, weather, wind, and distance affect consumer willingness to fly in autonomous airplanes. Journal of Aviation Technology and Engineering, 8(1). https://doi.org/10.7771/2159-6670.1180
+
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/aviation/How_Nationality_Weather_Wind_and_Distance_Affect_trust.pdf)
+
+Rice, S., Winter, S. R., Mehta, R., & Ragbir, N. K. (2019). What factors predict the type of person who is willing to fly in an autonomous commercial airplane?. Journal of Air Transport Management, 75, 131-138.
+
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/aviation/Factors_predict_autonomous_commerical_airplanes.pdf)
+
+Ziakkas, D., Pechlivanis, K., & Flores, A. (2023, July). Artificial intelligence (AI) implementation in the design of single pilot operations commercial airplanes. In 14th International Conference on Applied Human Factors and Ergonomics (pp. 20-24).
+
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/aviation/Artificial_Intelligence_AI_implementation_in_the_D.pdf)
+
+AI – is Skynet here already? Highlights from the RAeS Future Combat Air & Space Capabilities Summit. https://www.aerosociety.com/news/highlights-from-the-raes-future-combat-air-space-capabilities-summit/#:~:text=He%20notes%20that,accomplishing%20its%20objective.%E2%80%9D
+
 #### 3. Ergonomics in automotive design process (Ankita)
 
 
