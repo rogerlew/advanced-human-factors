@@ -353,6 +353,7 @@ AI – is Skynet here already? Highlights from the RAeS Future Combat Air & Spac
 
 #### 3. Ergonomics in automotive design process (Ankita)
 
+A vehicle ergonomic software (Ramsis) https://www.youtube.com/watch?v=dqpuDw42OVU
 
 Zamri Mohamed, Rosnah Mohd Yusuff (2007). Automotive Ergonomics: Passenger Car Interior Dimensions Parameters and Comfort http://umpir.ump.edu.my/id/eprint/2148/1/Auto_Ergonomic.pdf
     
