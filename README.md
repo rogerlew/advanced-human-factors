@@ -157,7 +157,7 @@ Intent is to allow students to students select a domain that furthers their care
 
 In all cases the project needs to be largely an individual effort in its core HF related areas. If a project is conducted with the assistance of others, the individuals’ contributions need to be clearly stated and identified. Please disclose assistance from artifical and human intelligence agents.
 
-Due Wednesday May 9, 2023 (Finals Week)
+Due Wednesday May 8, 2023 (Finals Week)
 
 ## Course Grades
 
