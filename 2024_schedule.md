@@ -394,13 +394,9 @@ Yarbrough, A. K., & Smith, T. B. (2007). Technology Acceptance among Physicians:
 
 Huang, S., Yang, J., Yan, L., Zhao, Q. (2021). Current Medical Imaging and Artificial Intelligence and its Future. Chapter 5 in Current and Future Application of Artificial intelligence, 59-81. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/healthcare/Current_and_Future_Application_of_Artificial_Intel..._----_(Current_Medical_Imaging_and_Artificial_Intelligence_and_its_Future_)%201.pdf)
 
+#### 3. Accessible design (Alejandro)
 
-#### 3. Simulator Feature Framework: Requirements to Support Training, Research and education (Jason)
 
-
-Here's how you would cite the article in APA format:
-
-Gideon, O., & Ulrich, T.(2023). Simulator Feature Framework: Requirements to support training, research, and education. In Human Factors Proceedings 2023 (pp. xx-xx). Washington, DC. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/process_control/SimulatorFeatureFramework.pdf)
 
 #### 4. Human Factors Engineering & Patient Safety (Kyra)
 
@@ -412,7 +408,7 @@ Carayon, P., Link to external site, this link will open in a new tab, Hoonakker,
 
 ### 4/24
 
-#### 1. Accessible design (Alejandro)
+#### 1. Simulator Feature Framework: Requirements to Support Training, Research and education (Jason)
 
 #### 2. Safety and panic buttons for public safety (digital whistle, public safety infrastructure) (Sydney)
 
@@ -437,7 +433,7 @@ Nielsen, J. (1993) Usability Now. Chapter 1: Executive Summary (https://github.c
 
 #### 4. Importance and relevance of Human Factors for patients in cancer recovery (Steven)
 
-
+Gideon, O., & Ulrich, T.(2023). Simulator Feature Framework: Requirements to support training, research, and education. In Human Factors Proceedings 2023 (pp. xx-xx). Washington, DC. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/process_control/SimulatorFeatureFramework.pdf)
 
 # Unscheduled Topics
 
