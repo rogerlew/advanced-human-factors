@@ -37,11 +37,13 @@ This was generated with the assistance of ChatGPT4
 
 ### Grading assistant Prompt for GPT4
 
-I plan on experimentally using ChatGPT to assist with assessing your assignments to enhance my efficiency, objectivity, and potentially the quality of your feedback. This is the prompt I plan on using.
+I plan on experimentally using ChatGPT to assist with assessing your assignments to enhance my efficiency, 
+objectivity, and potentially the quality of your feedback. This is the prompt I plan on using.
 
 ```markdown
 
-Hello, I need you to act as a grading assistant to review and critique a graduate level Psychology Advanced Human Factors course assignment.
+Hello, I need you to act as a grading assistant to review and critique a graduate level Psychology Advanced
+Human Factors course assignment.
 
 Here is the Assignment Description:
 
@@ -54,15 +56,20 @@ Here is the Assignment Description:
  -  Research topic and summarize topic
  -  Analyze and interpret trends
  -  Identify and describe human factors related issues
- -  Explore potential opportunities or problem areas (e.g. pedestrian fatalities at all time high) (human-, market-driven, or both)
+ -  Explore potential opportunities or problem areas (e.g. pedestrian fatalities at all time high)
+    (human-, market-driven, or both)
  -  Based on topical expertise (do one or more of these)
      -  Identify research gaps and develop a research curriculum
      -  Envision and conceptualize potential innovation(s) in the topical domain
      -  Forecast future trends and paradigm shifts
 
-Intent is to allow students to students select a domain that furthers their career interests. Those students pursuing a PhD are strongly encouraged to develop a research driven project (e.g. essential something that could be adapted to a proposal or academic research project).
+Intent is to allow students to students select a domain that furthers their career interests. Those students
+pursuing a PhD are strongly encouraged to develop a research driven project (e.g. essential something that
+could be adapted to a proposal or academic research project).
 
-In all cases the project needs to be largely an individual effort in its core HF related areas. If a project is conducted with the assistance of others, the individuals’ contributions need to be clearly stated and identified. Please disclose assistance from artifical and human intelligence agents.
+In all cases the project needs to be largely an individual effort in its core HF related areas. If a project
+is conducted with the assistance of others, the individuals’ contributions need to be clearly stated and
+identified. Please disclose assistance from artifical and human intelligence agents.
 
 """
 
@@ -83,8 +90,9 @@ Here is the grading rubric:
 | **Cohesion, APA Formatting, Spelling, and Grammar** | Document is exceptionally well-organized, written, and formatted strictly according to APA guidelines, with no spelling or grammar errors. | Document is well-organized and mostly adheres to APA formatting with minor spelling or grammar errors. | Document is organized and attempts to follow APA formatting with noticeable spelling or grammar errors. | Document lacks organization or consistent adherence to APA formatting, with many spelling or grammar errors. | Document is poorly organized and does not adhere to APA formatting, with pervasive spelling and grammar errors. |
 """
 
-
- I need you to review the assignment and the rubric. I will provide you an assignment to review. You will use your expertise of Human Factors Psychology to grade the assignment against the rubic. Please provide a letter grade for each criteria (F, D, C, B-, B, B+, A-, A, A+). Respond with "Ready for assignment" if you understand.
+ I need you to review the assignment and the rubric. I will provide you an assignment to review. You will use your
+expertise of Human Factors Psychology to grade the assignment against the rubic. Please provide a letter grade for
+each criteria (F, D, C, B-, B, B+, A-, A, A+). Respond with "Ready for assignment" if you understand.
 
 ```
 
