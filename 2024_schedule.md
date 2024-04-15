@@ -427,6 +427,8 @@ Boutis, K., Pecaric, M., Seeto, B., & Pusic, M. (2010). Using signal detection t
 
 #### 2. Physicians' ability to adapt to new technologies (Arturo)
 
+[Powerpoint](https://vandalsuidaho-my.sharepoint.com/personal/pere4613_vandals_uidaho_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fpere4613%5Fvandals%5Fuidaho%5Fedu%2FDocuments%2FAttachments%2FPSYC%20562%2Dphysiciansadaptingtomedtech%2Dperez%5Fv1%2E0%5FCompressed%2Emp4&ct=1713197777310&or=Outlook%2DBody&cid=567C5A7D%2D52EA%2D4B85%2D9098%2DAE986C92D840&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+
 #### 3. Usablity Now (Kyra)
 
 Nielsen, J. (1993) Usability Now. Chapter 1: Executive Summary (https://github.com/rogerlew/advanced-human-factors/blob/main/readings/HCI/NielsenJ%2CUsablityNow%2CChapter01-Executive%20Summary.pdf)
