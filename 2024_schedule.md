@@ -394,6 +394,10 @@ Yarbrough, A. K., & Smith, T. B. (2007). Technology Acceptance among Physicians:
 
 Huang, S., Yang, J., Yan, L., Zhao, Q. (2021). Current Medical Imaging and Artificial Intelligence and its Future. Chapter 5 in Current and Future Application of Artificial intelligence, 59-81. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/healthcare/Current_and_Future_Application_of_Artificial_Intel..._----_(Current_Medical_Imaging_and_Artificial_Intelligence_and_its_Future_)%201.pdf)
 
+[Presentation](https://vandalsuidaho-my.sharepoint.com/:v:/g/personal/pere4613_vandals_uidaho_edu/EQ6_VtcUiR1DrC7vr-uqcjMBynYkMQIa1UxSLnDqS-PKaw)
+
+[PowerPoint](https://vandalsuidaho-my.sharepoint.com/:p:/g/personal/pere4613_vandals_uidaho_edu/EebQ900L-3JJs-RFPI7F0igBGTJGl8g_vkoeIwwVVy3P-g)
+
 #### 3. Accessible design (Alejandro)
 
 
