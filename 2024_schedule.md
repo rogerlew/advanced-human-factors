@@ -418,7 +418,6 @@ Carayon, P., Link to external site, this link will open in a new tab, Hoonakker,
 
 #### 3. Courtroom Design (Abbey)
 
-#### 4. Operation Risk Management /Crew Resource Management (ORM/CRM) (Kristen)
 
 
 <hr/>
