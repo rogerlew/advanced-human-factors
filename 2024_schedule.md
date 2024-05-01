@@ -479,6 +479,8 @@ https://www.bmwblog.com/2024/01/28/new-bmw-head-up-display-5-series-2027-report/
 
 Boutis, K., Pecaric, M., Seeto, B., & Pusic, M. (2010). Using signal detection theory to model changes in serial learning of radiological image interpretation. Advances in Health Sciences Education, 15, 647-658. https://doi.org/10.1007/s10459-010-9225-8 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/SDT%20in%20radiographic%20images.pdf)
 
+[SDT Visualizer](https://code.google.com/archive/p/sdt-metrics/downloads)
+
 #### 2. Physicians' ability to adapt to new technologies (Arturo)
 
 [Presentation](https://vandalsuidaho-my.sharepoint.com/personal/pere4613_vandals_uidaho_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fpere4613%5Fvandals%5Fuidaho%5Fedu%2FDocuments%2FAttachments%2FPSYC%20562%2Dphysiciansadaptingtomedtech%2Dperez%5Fv1%2E0%5FCompressed%2Emp4&ct=1713197777310&or=Outlook%2DBody&cid=567C5A7D%2D52EA%2D4B85%2D9098%2DAE986C92D840&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
