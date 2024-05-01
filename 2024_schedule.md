@@ -80,6 +80,7 @@ Beneteau, E. (2020). Who Are You Asking?: Qualitative Methods for Involving AAC 
 
 [Presentation](https://youtu.be/RFdWKcP7A1s)
 
+
 Why GOMS? BE. John, 1995 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/HCI/JohnBE%2C1995.pdf)
 
 L Hochstein, GOMS and Key Stroke-Level Model, 2002. [PDF](https://cefns.nau.edu/~edo/Classes/CS477_WWW/Docs/TechArticles/GOMS%20and%20Keystroke-Level%20Model.pdf)
@@ -97,11 +98,16 @@ Wanyan, X., Zhuang, D., & Zhang, H. (2014). Improving pilot mental workload eval
 
 #### 4. UX of AI + Leading with Principles (Nina)
 
+[Presentation Slides](https://github.com/rogerlew/advanced-human-factors/raw/main/slides/2024_02_01/UXforAI.pdf)
+
 https://uxofai.com/
 
 - Generative AI for Customer Experience (Chat-based Interactions)
 
+
+
 #### 5. AI for UX: Getting Started (Olga)
+
 
 
 Wulandari, A. A., Nurhaipah, T., & Ohorella, N. R. (2023). Perceived ease of use, social influencers, facilitating conditions, user experience on the influence of human-machine interaction on interaction efficiency, emotional impact of using Chat GPT. Jurnal Digital Media Communication, 2(2). Majalengka University; Gunadarma University, Indonesia. https://ejournal.gunadarma.ac.id/index.php/dimedcom/article/view/9898/3093
@@ -132,12 +138,16 @@ Fialho, L., J. Oliveira, A. Filipe, and F. Luz. “Soundspace VR: Spatial Naviga
   
 #### 2. Space exploration human factors Spaceship design long duration flights (Kevin)
 
+[Presentation](https://github.com/rogerlew/advanced-human-factors/blob/main/slides/2024_02_07/Space_HF_Riley.pptx)
+
 Institute of Medicine. 2001. Safe Passage: Astronaut Care for Exploration
 Missions. Washington, DC: The National Academies Press. [https://doi.org/10.17226/10218](https://doi.org/10.17226/10218)
 
 NASA. Human Factors. Dirty Dozen.
 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/space/dirtydozen_handout_final_508.pdf)
 
+Institute of Medicine (U.S.). Committee on Creating a Vision for Space Medicine During Travel Beyond Earth Orbit. (2001). Safe Passage: Astronaut Care for Exploration Missions. Washington, DC: National Academies Press. https://doi.org/10.17226/10218
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/slides/2024_02_07/Safe_Passage_report2001.pdf)
 
 #### 3. Negative transfer in aviation safety (simulation training) (Kristen)
 
@@ -165,7 +175,12 @@ U.S. Department of Health and Human Services, Food and Drug Administration, Cent
 
 #### 4. Hand Tool Design for Surgeons (Jenna)
 
+[Presentation Slides](https://github.com/rogerlew/advanced-human-factors/blob/main/slides/2024_02_21/Ergo_assessment_of_hand_tool_design_in_laparoscopic_surgery.pdf)
+
 González, A. G., Barrios-Muriel, J., Romero-Sánchez, F., Salgado, D. R., & Alonso, F. J. (2020). Ergonomic assessment of a new hand tool design for laparoscopic surgery based on surgeons’ muscular activity. Applied Ergonomics, 88, 103161. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/Ergo%20assessment%20of%20hand%20tool%20design%20in%20laparoscopic%20surgery.pdf)
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/slides/2024_02_21/Ergonomic assessment of a new hand tool design.pptx)
+
+
 
 <hr/>
 
@@ -300,11 +315,14 @@ Ivergård, T., & Hunt, B. (Eds.). (2009). Handbook of Control Room Design and Er
 
 #### 1. Expert Intuition (Olga)
 
+[Presentation](https://github.com/rogerlew/advanced-human-factors/blob/main/slides/2024_03_27/Olga.pptx)
+
 Kahneman, D. (2011). Expert Intuition: When can we trust it? In Thinking, Fast and Slow (pp. 234-244). Farrar, Straus and Giroux. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/cognition/Kahneman%20Ch22.pdf)
 
 #### 2.  Participatory design (Kristine)
+
 Muller, M. J., Druin, A. Participatory Design: The Third Space in Human Computer Interaction. In The Human-Computer Interaction Handbook. 
- [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/HCI/MullerDruin.2012.ParticipatoryDesign1.pdf)
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/HCI/MullerDruin.2012.ParticipatoryDesign1.pdf)
 
 Farrell, V., Farrell, G., Mouzakis, K., Pilgrim, C., & Byrt, P. (2006). PICTIOL: A case study in participatory design. In DBLP Conference. https://doi.org/10.1145/1228175.1228209
 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/HCI/pictiol-participatory-design-case-study-2006-farrell-mouzakis-pilgrim-byrt.pdf)
@@ -369,9 +387,13 @@ Vivek D. Bhise. Ergonomics in the Automotive design Process
 
 #### 1. Affordances and affordance-based design to address usability (Jenna)
 
+[Presentation](https://vandalsuidaho-my.sharepoint.com/:p:/g/personal/klei6034_vandals_uidaho_edu/Ec0DnJhn8hBJhKF8JIeLPu8BV5gqICnDqzcj8cNU7iEZuw?e=kKw87a&CID=8f4dda77-ba02-4b8a-55dc-2df50fd7b4ab)
+
 Masoudi, N., Fadel, G. M., Pagano, C. C., & Elena, M. V. (2019). A review of affordances and affordance-based design to address usability. In Proceedings of the International Conference on Engineering Design, ICED19 (pp. 1). August 5-8, Delft, The Netherlands. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/a-review-of-affordances-and-affordance-based-design-to-address-usability.pdf)
 
 #### 2. Product Design and Development (Nina)
+
+[Presentation](https://github.com/rogerlew/advanced-human-factors/blob/main/slides/2024_04_10/MasteringProductDesign-Rumbines.pptx)
 
 - Professional case study (How we work, challenges, workflow)
 - Evolution of User Experience to Product Design: What's Next?
@@ -379,6 +401,11 @@ Masoudi, N., Fadel, G. M., Pagano, C. C., & Elena, M. V. (2019). A review of aff
 #### 3. Contextual design (Kristine)
 
 #### 4. Trust in automation (Alejandro)
+
+Hewitt, C., Politis, I., Amanatidis, T., & Sarkar, A. (2019). Assessing Public Perception of Self-Driving Cars: The Autonomous Vehicle Acceptance Model. Proceedings of the 24th International Conference on Intelligent User Interfaces, 1-10. https://doi.org/10.1145/3301275.3302268
+
+[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/surface_transportation/Hewitt_etal_2019.pdf)
+
 
 <hr/>
 
@@ -404,6 +431,8 @@ Huang, S., Yang, J., Yan, L., Zhao, Q. (2021). Current Medical Imaging and Artif
 
 #### 4. Human Factors Engineering & Patient Safety (Kyra)
 
+[Presentation Slides](https://github.com/rogerlew/advanced-human-factors/blob/main/slides/2024_04_17/CDSPresentation.pdf)
+
 Application of human factors to improve usability of clinical decision support for diagnostic decision-making: a scenario-based simulation study
 
 Carayon, P., Link to external site, this link will open in a new tab, Hoonakker, P., Hundt, A. S., Salwei, M., Wiegmann, D., Brown, R. L., Kleinschmidt, P., Novak, C., Pulia, M., Wang, Y., Wirkus, E., & Patterson, B. (2020). Application of human factors to improve usability of clinical decision support for diagnostic decision-making: A scenario-based simulation study. BMJ Quality & Safety, 29(4), 329. [https://doi.org/10.1136/bmjqs-2019-009857](https://doi.org/10.1136/bmjqs-2019-009857)
@@ -414,10 +443,28 @@ Carayon, P., Link to external site, this link will open in a new tab, Hoonakker,
 
 #### 1. Simulator Feature Framework: Requirements to Support Training, Research and education (Jason)
 
-#### 2. Safety and panic buttons for public safety (digital whistle, public safety infrastructure) (Sydney)
 
-#### 3. Courtroom Design (Abbey)
+Gideon, O., & Ulrich, T.(2023). Simulator Feature Framework: Requirements to support training, research, and education. In Human Factors Proceedings 2023 (pp. xx-xx). Washington, DC. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/process_control/SimulatorFeatureFramework.pdf)
 
+[Presentation Slides](https://github.com/rogerlew/advanced-human-factors/blob/main/slides/2024_04_24/Simulator_Feature_Framework_Pres_Psyc_562_SJR.pptx)
+
+
+#### 2. 3D Augmented Reality Head Up Display in Vehicles and panic buttons for public safety (digital whistle, public safety infrastructure) (Sydney)
+
+Russell, S. M., Radlbeck, J., Atwood, J., Schaudt, W. A., McLaughlin, S. B., & Institute, V. 	T. T. (2023, January 1). Head-up displays and distraction potential. Home Page. 	https://doi.org/10.21949/1530265  
+
+https://cyvision.com/
+
+https://cyvision.com/technology/ 
+
+https://www.mbscottsdale.com/blog/how-to-use-mercedes-benz-head-up-display/
+
+https://www.bmwblog.com/2024/01/28/new-bmw-head-up-display-5-series-2027-report/  
+
+[Presentation Slides](https://github.com/rogerlew/advanced-human-factors/blob/main/slides/2024_04_24/3D_AR_HUD_in_Vehicles.pptx)
+
+
+#### 3. Legalities in Human Factors (Abbey)
 
 
 <hr/>
@@ -426,11 +473,15 @@ Carayon, P., Link to external site, this link will open in a new tab, Hoonakker,
 
 #### 1. Signal detection theory in radiographic images (Jenna)
 
+[Presentation](https://vandalsuidaho-my.sharepoint.com/:p:/g/personal/klei6034_vandals_uidaho_edu/ESet0FBeW0hIjNlT3UjeFSoBK9GPiEiEMtgabV8NotS_Zw?e=bLqgP8)
+
+[Presentation Slides](SDTinRadiology.pdf)
+
 Boutis, K., Pecaric, M., Seeto, B., & Pusic, M. (2010). Using signal detection theory to model changes in serial learning of radiological image interpretation. Advances in Health Sciences Education, 15, 647-658. https://doi.org/10.1007/s10459-010-9225-8 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/SDT%20in%20radiographic%20images.pdf)
 
 #### 2. Physicians' ability to adapt to new technologies (Arturo)
 
-[Powerpoint](https://vandalsuidaho-my.sharepoint.com/personal/pere4613_vandals_uidaho_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fpere4613%5Fvandals%5Fuidaho%5Fedu%2FDocuments%2FAttachments%2FPSYC%20562%2Dphysiciansadaptingtomedtech%2Dperez%5Fv1%2E0%5FCompressed%2Emp4&ct=1713197777310&or=Outlook%2DBody&cid=567C5A7D%2D52EA%2D4B85%2D9098%2DAE986C92D840&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+[Presentation](https://vandalsuidaho-my.sharepoint.com/personal/pere4613_vandals_uidaho_edu/_layouts/15/stream.aspx?id=%2Fpersonal%2Fpere4613%5Fvandals%5Fuidaho%5Fedu%2FDocuments%2FAttachments%2FPSYC%20562%2Dphysiciansadaptingtomedtech%2Dperez%5Fv1%2E0%5FCompressed%2Emp4&ct=1713197777310&or=Outlook%2DBody&cid=567C5A7D%2D52EA%2D4B85%2D9098%2DAE986C92D840&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
 
 #### 3. Usablity Now (Kyra)
 
@@ -439,21 +490,3 @@ Nielsen, J. (1993) Usability Now. Chapter 1: Executive Summary (https://github.c
 #### 4. Importance and relevance of Human Factors for patients in cancer recovery (Steven)
 
 Ernst, M., Beutel, M.E. & Brähler, E. Cancer as a risk factor for distress and its interactions with sociodemographic variables in the context of the first wave of the COVID-19 pandemic in Germany. Sci Rep 12, 2021 (2022). https://doi.org/10.1038/s41598-022-06016-x
-
-# Unscheduled Topics
-
-## Alejandro
-
-Color blindness in gaming / entertainment
-
-
-
-## Rohan
-
-Text input methods in XR interfaces
-
-Spatial audio as a VR interface
-
-
-Human factors considerations of robotic assisted surgery in general
-
