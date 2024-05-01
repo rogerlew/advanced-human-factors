@@ -487,7 +487,7 @@ Boutis, K., Pecaric, M., Seeto, B., & Pusic, M. (2010). Using signal detection t
 
 #### 3. Usablity Now (Kyra)
 
-Nielsen, J. (1993) Usability Now. Chapter 1: Executive Summary (https://github.com/rogerlew/advanced-human-factors/blob/main/readings/HCI/NielsenJ%2CUsablityNow%2CChapter01-Executive%20Summary.pdf)
+Nielsen, J. (1993) Usability Now. Chapter 1: Executive Summary [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/HCI/NielsenJ%2CUsablityNow%2CChapter01-Executive%20Summary.pdf)
 
 #### 4. Importance and relevance of Human Factors for patients in cancer recovery (Steven)
 
