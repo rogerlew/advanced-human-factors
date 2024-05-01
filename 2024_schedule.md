@@ -438,7 +438,7 @@ Nielsen, J. (1993) Usability Now. Chapter 1: Executive Summary (https://github.c
 
 #### 4. Importance and relevance of Human Factors for patients in cancer recovery (Steven)
 
-Gideon, O., & Ulrich, T.(2023). Simulator Feature Framework: Requirements to support training, research, and education. In Human Factors Proceedings 2023 (pp. xx-xx). Washington, DC. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/process_control/SimulatorFeatureFramework.pdf)
+Ernst, M., Beutel, M.E. & Brähler, E. Cancer as a risk factor for distress and its interactions with sociodemographic variables in the context of the first wave of the COVID-19 pandemic in Germany. Sci Rep 12, 2021 (2022). https://doi.org/10.1038/s41598-022-06016-x
 
 # Unscheduled Topics
 
