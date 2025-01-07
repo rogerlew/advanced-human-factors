@@ -6,7 +6,7 @@ University of Idaho<br>
 Spring 2025<br>
 CRN 68894 (classroom)<br>
 CRN 68895 (online) <br>
-Jan 8, 2024 - May 9, 2025 3:30 pm - 6:00 pm Pacific Wednesdays<br>
+Jan 8, 2025 - May 9, 2025 3:30 pm - 6:00 pm Pacific Wednesdays<br>
 No class March 12, 2025 (Spring Recess)
 
 
