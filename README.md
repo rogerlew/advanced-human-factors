@@ -37,6 +37,7 @@ https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/schedule.md
 ## Evaluation / Product Review Project
 
 Proposal Due Wednesday February 5, 2023
+
 Paper Due March 5, 2023 (Mid-term Week, week before spring break)
 
 ## Main Project
