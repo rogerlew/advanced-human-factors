@@ -30,7 +30,7 @@ Office Hours: by appointment
 
 ## Schedule of Presenters and Topics
 
-https://github.com/rogerlew/advanced-human-factors/blob/main/2025_schedule.md
+https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/schedule.md
 
 ## Class Recordings
 
