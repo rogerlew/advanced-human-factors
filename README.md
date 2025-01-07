@@ -6,8 +6,8 @@ University of Idaho<br>
 Spring 2025<br>
 CRN 68894 (classroom)<br>
 CRN 68895 (online) <br>
-Jan 8, 2024 - May 9, 2024 3:30 pm - 6:00 pm Pacific Wednesdays<br>
-No class March 12, 2024 (Spring Recess)
+Jan 8, 2024 - May 9, 2025 3:30 pm - 6:00 pm Pacific Wednesdays<br>
+No class March 12, 2025 (Spring Recess)
 
 
 ## Locations
@@ -36,13 +36,13 @@ https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/schedule.md
 
 ## Evaluation / Product Review Project
 
-Proposal Due Wednesday February 5, 2023
+Proposal Due Wednesday February 5, 2025
 
-Paper Due March 5, 2023 (Mid-term Week, week before spring break)
+Paper Due March 5, 2025 (Mid-term Week, week before spring break)
 
 ## Main Project
 
-Due May 7, 2023 (Finals Week)
+Due May 7, 2025 (Finals Week)
 
 # Everything else: see Canvas
     
