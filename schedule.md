@@ -4,60 +4,71 @@
 
 <hr/>
 
-### 1/15 Naps, Maps, Heuristics, and Fatigue
+### 1/15
 
-#### 1. Science of napping as fatigue countermeasure (Kevin)
-
-[Presentation Slides](https://github.com/rogerlew/advanced-human-factors/blob/main/slides/2024_01_17/Napping_Pres_Riley.pdf)
-
-Driskell, J. E., and Mullen B. (2005). The efficacy of naps as fatigue countermeasure: A meta-analytic integration. Human Factors, 47 (2), 360-377. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/fatigue/Efficacy%20of%20naps.pdf)
-
-[Table from Driskell](https://github.com/rogerlew/advanced-human-factors/blob/main/slides/2024_01_17/Compiled_Fatigue_results.pdf)
-
-Flight Safety Foundation. (2018). Controlled rest on the flight deck: A resource for operators. 71st annual International Air Safety Summit (IASS) [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/slides/2024_01_17/Controlled-Rest.pdf)
-
-#### 2. Navigation, maps, and wayfinding (Abbey)
-
-Porathe, T., & Prison, J. (2008). Works in Design of Human-Map System Interaction. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI 2008) (pp. 2859-2864). ACM. doi:978-1-60558-012-8/08/04 [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/Design%20of%20Human-Map%20System%20Interactions.pdf)
-
-Porathe, T. (2007). User-Centered Map Design. In Proceedings of the UPA 2007 Conference, June 11-15. Austin, Texas, USA. [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/User-Centered%20Map%20Design.pdf)
-
-#### 3. Heuristics for medical devices (Joy)
-
-Zhang, J., Johnson, T. R., Patel, V. L., Paige, D. L., & Kubose, T. (2003). Using usability heuristics to evaluate patient safety of medical devices. Journal of Biomedical Informatics, 36(1-2), 23-30. 
-[PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/healthcare/Zhang_Using_usability_heuristics.pdf)
-
-#### 4. Performance and cognitive workload and fatigue (Alejandro)
-
-Estes, S. (2015). The Workload Curve: Subjective Mental Workload. Human Factors, 57(7), 1174-1187. [https://doi-org.uidaho.idm.oclc.org/10.1177/0018720815592752](https://doi-org.uidaho.idm.oclc.org/10.1177/0018720815592752) [PDF](https://github.com/rogerlew/advanced-human-factors/blob/main/readings/workload/estes-2015-the-workload-curve-subjective-mental-workload.pdf)
+- Miguel
+- Tanner
+- Steph
 
 <hr/>
 
 ### 1/22
 
+- Gene
+- Mary
+- Miriam
+- Bethany
+
 <hr/>
 
 ### 1/29
+
+- Miguel
+- Luz
+- Elsy
 
 <hr/>
 
 ### 2/5
 
+- Steph
+- Bethany
+- Gene
+
 <hr/>
 
 ### 2/12
+
+- Luz
+- Miguel
+- Elsy
+- Miriam
 
 <hr/>
 
 ### 2/19
 
+- Gene
+- Mary
+- Wade
+- Tanner
+
 <hr/>
 
 ### 2/26
 
+- Miguel
+- Luz
+- Bethany
+- Elsy
+
 <hr/>
 
 ### 3/5
+
+- Wade
+- Miriam
+- Mary
 
 <hr/>
 
@@ -67,30 +78,60 @@ Estes, S. (2015). The Workload Curve: Subjective Mental Workload. Human Factors,
 
 ### 3/19
 
+- Luz
+- Miguel
+- Gene
+
 <hr/>
 
 ### 3/26
+
+- Elsy
+- Wade
+- Mary
 
 <hr/>
 
 ### 4/2
 
+- Gene
+- Steph
+- Tanner
+
 <hr/>
 
 ### 4/9
+
+- Miriam
+- Wade
+- Bethany
 
 <hr/>
 
 ### 4/16
 
+- Steph
+- Mary
+- Tanner
+
 <hr/>
 
 ### 4/23
 
+- Bethany
+- Wade
+- Luz
+- Elsy
+
 <hr/>
 
-### 4/30 - Dead week
+### 4/30
+
+- Miriam
+- Steph
+- Tanner
 
 <hr/>
 
 ### 5/7 - Finals week (No class)
+
