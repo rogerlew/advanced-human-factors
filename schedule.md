@@ -51,7 +51,7 @@
 ### 2/19
 
 - Gene
-- Mary
+- Mary: Patient Safety concerns with AI 
 - Workload & Driving Manual vs Autonomous (Wade)
 - Tanner
 
@@ -71,7 +71,7 @@
 - Drowsy Drivers (Wade)
 - Miriam
 - Franzi: visual perception and its influence on advertising 
-- Mary
+- Mary: Anthropometry and Hand Tool Design in medical devices (surgeons?)
 
 <hr/>
 
@@ -91,7 +91,7 @@
 
 - Elsy
 - Pedestrians & Illegal Crossings (Wade)
-- Mary
+- Mary: Human factors considerations of robotic assisted surgery
 
 <hr/>
 
@@ -114,7 +114,7 @@
 ### 4/16
 
 - Steph
-- Mary
+- Mary - Home medical devices concerns in Patient Safety
 - Tanner
 - Franzi: psychology of pricing and economic decision-making
 
