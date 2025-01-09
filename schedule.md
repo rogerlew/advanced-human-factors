@@ -8,7 +8,7 @@
 
 - Driver Expectancy (Wade)
 - Franzi: role of human factors in customer decision-making
-- Tanner: Human-Centered Product/Interface Design
+- Tanner: Human-Centered Design / Design Thinking
 - Mary: FDA standards for usability / HF in Medical Devices
 
 <hr/>
@@ -53,7 +53,7 @@
 - Gene
 - Mary: Patient Safety concerns with AI 
 - Workload & Driving Manual vs Autonomous (Wade)
-- Tanner: Heuristics and FDA Standards for Medical Devices 
+- Tanner: HF in Nuclear Power Control Room Design
 
 
 <hr/>
