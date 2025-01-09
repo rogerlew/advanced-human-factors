@@ -7,7 +7,7 @@
 ### 1/15
 
 - Driver Expectancy (Wade)
-- Franzi
+- Franzi: role of human factors in customer decision-making
 - Tanner
 - Mary
 
