@@ -6,8 +6,8 @@
 
 ### 1/15
 
-- Franzi
 - Wade
+- Franzi
 - Tanner
 - Mary
 
