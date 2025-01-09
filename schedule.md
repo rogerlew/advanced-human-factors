@@ -35,7 +35,7 @@
 - Steph
 - Bethany
 - Gene
-- Franzi
+- Franzi: behavioral economics and human factors in marketing strategies
 
 <hr/>
 
