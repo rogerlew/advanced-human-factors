@@ -52,7 +52,7 @@
 
 - Gene
 - Mary
-- Wade
+- Workload & Driving Manual vs Autonomous (Wade)
 - Tanner
 
 <hr/>
@@ -68,7 +68,7 @@
 
 ### 3/5
 
-- Wade
+- Drowsy Drivers (Wade)
 - Miriam
 - Franzi
 - Mary
@@ -90,7 +90,7 @@
 ### 3/26
 
 - Elsy
-- Wade
+- Pedestrians & Illegal Crossings (Wade)
 - Mary
 
 <hr/>
@@ -123,7 +123,7 @@
 ### 4/23
 
 - Bethany
-- Wade
+- Social Media & Brain Rot/Slop (Wade)
 - Luz
 - Elsy
 
