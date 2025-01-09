@@ -70,7 +70,7 @@
 
 - Drowsy Drivers (Wade)
 - Miriam
-- Franzi
+- Franzi: visual perception and its influence on advertising 
 - Mary
 
 <hr/>
@@ -116,7 +116,7 @@
 - Steph
 - Mary
 - Tanner
-- Franzi
+- Franzi: psychology of pricing and economic decision-making
 
 <hr/>
 
@@ -134,6 +134,7 @@
 - Miriam
 - Steph
 - Tanner
+- Franzi: cognitive load and its impact on consumer choices 
 
 <hr/>
 
