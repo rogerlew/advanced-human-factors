@@ -6,16 +6,17 @@
 
 ### 1/15
 
-- Miguel
+- Franzi
+- Wade
 - Tanner
-- Steph
+- Mary
 
 <hr/>
 
 ### 1/22
 
 - Gene
-- Mary
+- Steph
 - Miriam
 - Bethany
 
@@ -34,6 +35,7 @@
 - Steph
 - Bethany
 - Gene
+- Franzi
 
 <hr/>
 
@@ -68,6 +70,7 @@
 
 - Wade
 - Miriam
+- Franzi
 - Mary
 
 <hr/>
@@ -103,7 +106,7 @@
 ### 4/9
 
 - Miriam
-- Wade
+- Miguel
 - Bethany
 
 <hr/>
@@ -113,6 +116,7 @@
 - Steph
 - Mary
 - Tanner
+- Franzi
 
 <hr/>
 
