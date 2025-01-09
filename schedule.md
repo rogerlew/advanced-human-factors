@@ -8,7 +8,7 @@
 
 - Driver Expectancy (Wade)
 - Franzi: role of human factors in customer decision-making
-- Tanner
+- Tanner: Human-Centered Product/Interface Design
 - Mary: FDA standards for usability / HF in Medical Devices
 
 <hr/>
@@ -53,7 +53,8 @@
 - Gene
 - Mary: Patient Safety concerns with AI 
 - Workload & Driving Manual vs Autonomous (Wade)
-- Tanner
+- Tanner: Heuristics and FDA Standards for Medical Devices 
+
 
 <hr/>
 
@@ -99,7 +100,8 @@
 
 - Gene
 - Steph
-- Tanner
+- Tanner: 3D Augmented Reality Head-Up Display in Vehicles
+
 
 <hr/>
 
@@ -115,7 +117,7 @@
 
 - Steph
 - Mary - Home medical devices concerns in Patient Safety
-- Tanner
+- Tanner: Exoskeleton Ergonomics
 - Franzi: psychology of pricing and economic decision-making
 
 <hr/>
@@ -133,7 +135,7 @@
 
 - Miriam
 - Steph
-- Tanner
+- Tanner: Workplace Ergonomics in Manufacturing Facilities 
 - Franzi: cognitive load and its impact on consumer choices 
 
 <hr/>
