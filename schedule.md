@@ -6,7 +6,7 @@
 
 ### 1/15
 
-- Wade
+- Driver Expectancy (Wade)
 - Franzi
 - Tanner
 - Mary
