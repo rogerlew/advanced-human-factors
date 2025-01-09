@@ -9,7 +9,7 @@
 - Driver Expectancy (Wade)
 - Franzi: role of human factors in customer decision-making
 - Tanner
-- Mary
+- Mary: FDA standards for usability / HF in Medical Devices
 
 <hr/>
 
