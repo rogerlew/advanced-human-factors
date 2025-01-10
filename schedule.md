@@ -18,7 +18,7 @@
 - Gene
 - Steph
 - Miriam
-- Bethany
+- Bethany: Human Factors in Lean Management 
 
 <hr/>
 
@@ -33,7 +33,7 @@
 ### 2/5
 
 - Steph
-- Bethany
+- Bethany: Blame / Psychological Safety
 - Gene
 - Franzi: behavioral economics and human factors in marketing strategies
 
@@ -62,7 +62,7 @@
 
 - Miguel
 - Luz
-- Bethany
+- Bethany: Design for Maintainability
 - Elsy
 
 <hr/>
@@ -109,7 +109,7 @@
 
 - Miriam
 - Miguel
-- Bethany
+- Bethany: Impact of cognitive biases in decision making 
 
 <hr/>
 
@@ -124,7 +124,7 @@
 
 ### 4/23
 
-- Bethany
+- Bethany: NASA Human Systems Integration Handbook 
 - Social Media & Brain Rot/Slop (Wade)
 - Luz
 - Elsy
