@@ -25,7 +25,7 @@
 ### 1/29
 
 - Miguel
-- Luz
+- Luz: Human Factors in Cybersecurity
 - Elsy
 
 <hr/>
@@ -41,7 +41,7 @@
 
 ### 2/12
 
-- Luz
+- Luz: Human Factors and the Use of Haptics
 - Miguel
 - Elsy
 - Miriam: Linguistic considerations in interface design
@@ -61,7 +61,7 @@
 ### 2/26
 
 - Miguel
-- Luz
+- Luz: Designing for High-Stress Environments
 - Bethany: Design for Maintainability
 - Elsy
 
@@ -82,7 +82,7 @@
 
 ### 3/19
 
-- Luz
+- Luz: Human Factors and Health Wearables
 - Miguel
 - Gene
 
@@ -125,8 +125,8 @@
 ### 4/23
 
 - Bethany: NASA Human Systems Integration Handbook 
-- Social Media & Brain Rot/Slop (Wade)
-- Luz
+- Wade: Social Media & Brain Rot/Slop
+- Luz: Evaluating the Human Factor in Information Security
 - Elsy
 
 <hr/>
