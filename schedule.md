@@ -16,7 +16,7 @@
 ### 1/22
 
 - Gene
-- Steph
+- Steph: Human Centered Design Methods/LUMA Workplace
 - Miriam: Web Accessibility Standards (WCAG 2)
 - Bethany: Human Factors in Lean Management 
 
@@ -32,7 +32,7 @@
 
 ### 2/5
 
-- Steph
+- Steph: Workplace design considerations for pregnant workers
 - Bethany: Blame / Psychological Safety
 - Gene
 - Franzi: behavioral economics and human factors in marketing strategies
@@ -91,7 +91,7 @@
 ### 3/26
 
 - Elsy
-- Pedestrians & Illegal Crossings (Wade)
+- Wade: Pedestrians & Illegal Crossings
 - Mary: Human factors considerations of robotic assisted surgery
 
 <hr/>
@@ -99,7 +99,7 @@
 ### 4/2
 
 - Gene
-- Steph
+- Steph: Guidelines for human/AI interaction
 - Tanner: 3D Augmented Reality Head-Up Display in Vehicles
 
 
@@ -115,8 +115,8 @@
 
 ### 4/16
 
-- Steph
-- Mary - Home medical devices concerns in Patient Safety
+- Steph: Human-map considerations
+- Mary: Home medical devices concerns in Patient Safety
 - Tanner: Exoskeleton Ergonomics
 - Franzi: psychology of pricing and economic decision-making
 
@@ -134,7 +134,7 @@
 ### 4/30
 
 - Miriam: Best practices for voice user interfaces
-- Steph
+- Steph: MIL Standard of design (related to statuses in user interfaces)
 - Tanner: Workplace Ergonomics in Manufacturing Facilities 
 - Franzi: cognitive load and its impact on consumer choices 
 
