@@ -17,7 +17,7 @@
 
 - Gene
 - Steph
-- Miriam
+- Miriam: Web Accessibility Standards (WCAG 2)
 - Bethany: Human Factors in Lean Management 
 
 <hr/>
@@ -44,7 +44,7 @@
 - Luz
 - Miguel
 - Elsy
-- Miriam
+- Miriam: Linguistic considerations in interface design
 
 <hr/>
 
@@ -70,7 +70,7 @@
 ### 3/5
 
 - Drowsy Drivers (Wade)
-- Miriam
+- Miriam: Differences in usability between older adults and younger adults
 - Franzi: visual perception and its influence on advertising 
 - Mary: Anthropometry and Hand Tool Design in medical devices (surgeons?)
 
@@ -107,7 +107,7 @@
 
 ### 4/9
 
-- Miriam
+- Miriam: Adaptive triggers and other haptic feedback on gaming controllers
 - Miguel
 - Bethany: Impact of cognitive biases in decision making 
 
@@ -133,7 +133,7 @@
 
 ### 4/30
 
-- Miriam
+- Miriam: Best practices for voice user interfaces
 - Steph
 - Tanner: Workplace Ergonomics in Manufacturing Facilities 
 - Franzi: cognitive load and its impact on consumer choices 
