@@ -25,7 +25,7 @@
 ### 1/29
 
 - Miguel
-- Luz
+- Luz: Human factors in cybersecurity
 - Elsy
 
 <hr/>
