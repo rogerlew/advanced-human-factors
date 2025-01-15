@@ -23,6 +23,7 @@
 
 ### 1/29
 
+- Tanner: Human-Centered Design / Design Thinking
 - Miguel: Contextual design
 - Luz: Human Factors in Cybersecurity
 - Elsy: Are there any nationally or globally recognized and agreed upon codes or standards in place for human factors?
