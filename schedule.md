@@ -25,7 +25,7 @@
 
 - Miguel: Contextual design
 - Luz: Human Factors in Cybersecurity
-- Elsy
+- Elsy: Are there any nationally or globally recognized and agreed upon codes or standards in place for human factors?
 
 <hr/>
 
@@ -42,7 +42,7 @@
 
 - Luz: Human Factors and the Use of Haptics
 - Miguel: Participatory design 
-- Elsy
+- Elsy: User friendly designs for safe accessibility and equipment maintenance
 - Miriam: Linguistic considerations in interface design
 
 <hr/>
@@ -62,7 +62,7 @@
 - Miguel: Designing for people with cognitive disabilities (LEGOLAND)
 - Luz: Designing for High-Stress Environments
 - Bethany: Design for Maintainability
-- Elsy
+- Elsy: If and how work-life balance relates to human factors
 
 <hr/>
 
@@ -89,7 +89,7 @@
 
 ### 3/26
 
-- Elsy
+- Elsy: Human factors for infants
 - Wade: Pedestrians & Illegal Crossings
 - Mary: Human factors considerations of robotic assisted surgery
 
@@ -126,7 +126,7 @@
 - Bethany: NASA Human Systems Integration Handbook 
 - Wade: Social Media & Brain Rot/Slop
 - Luz: Evaluating the Human Factor in Information Security
-- Elsy
+- Elsy: Human factors and women
 
 <hr/>
 
