@@ -8,7 +8,6 @@
 
 - Driver Expectancy (Wade)
 - Franzi: role of human factors in customer decision-making
-- Mary: FDA standards for usability / HF in Medical Devices
 
 <hr/>
 
@@ -18,6 +17,7 @@
 - Steph: Human Centered Design Methods/LUMA Workplace
 - Miriam: Web Accessibility Standards (WCAG 2)
 - Bethany: Human Factors in Lean Management 
+- Mary: FDA standards for usability / HF in Medical Devices
 
 <hr/>
 
