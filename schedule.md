@@ -8,7 +8,6 @@
 
 - Driver Expectancy (Wade)
 - Franzi: role of human factors in customer decision-making
-- Tanner: Human-Centered Design / Design Thinking
 - Mary: FDA standards for usability / HF in Medical Devices
 
 <hr/>
@@ -24,7 +23,7 @@
 
 ### 1/29
 
-- Miguel
+- Miguel: Contextual design
 - Luz: Human Factors in Cybersecurity
 - Elsy
 
@@ -42,7 +41,7 @@
 ### 2/12
 
 - Luz: Human Factors and the Use of Haptics
-- Miguel
+- Miguel: Participatory design 
 - Elsy
 - Miriam: Linguistic considerations in interface design
 
@@ -60,7 +59,7 @@
 
 ### 2/26
 
-- Miguel
+- Miguel: Designing for people with cognitive disabilities (LEGOLAND)
 - Luz: Designing for High-Stress Environments
 - Bethany: Design for Maintainability
 - Elsy
@@ -83,7 +82,7 @@
 ### 3/19
 
 - Luz: Human Factors and Health Wearables
-- Miguel
+- Miguel: Design and use of augmentative and alternative communication devices
 - Gene
 
 <hr/>
@@ -108,7 +107,7 @@
 ### 4/9
 
 - Miriam: Adaptive triggers and other haptic feedback on gaming controllers
-- Miguel
+- Miguel: Animal-Computer Interaction
 - Bethany: Impact of cognitive biases in decision making 
 
 <hr/>
