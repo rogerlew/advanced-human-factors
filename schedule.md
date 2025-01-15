@@ -14,7 +14,7 @@
 
 ### 1/22
 
-- Gene
+- Gene: Lifting standards/material handling  best practices & practical thresholds
 - Steph: Human Centered Design Methods/LUMA Workplace
 - Miriam: Web Accessibility Standards (WCAG 2)
 - Bethany: Human Factors in Lean Management 
@@ -33,7 +33,7 @@
 
 - Steph: Workplace design considerations for pregnant workers
 - Bethany: Blame / Psychological Safety
-- Gene
+- Gene: Handle design for heavy objects
 - Franzi: behavioral economics and human factors in marketing strategies
 
 <hr/>
@@ -49,7 +49,7 @@
 
 ### 2/19
 
-- Gene
+- Gene: Picking the correct knob and rpg (tuning vs selection tasks, detent vs no detent, knob size and weight vs detent strength)
 - Mary: Patient Safety concerns with AI 
 - Workload & Driving Manual vs Autonomous (Wade)
 - Tanner: HF in Nuclear Power Control Room Design
@@ -83,7 +83,7 @@
 
 - Luz: Human Factors and Health Wearables
 - Miguel: Design and use of augmentative and alternative communication devices
-- Gene
+- Gene: Complexity management, designing for beginner vs expert
 
 <hr/>
 
@@ -97,7 +97,7 @@
 
 ### 4/2
 
-- Gene
+- Gene: Human factors & aesthetics (is aesthetics human factors?)
 - Steph: Guidelines for human/AI interaction
 - Tanner: 3D Augmented Reality Head-Up Display in Vehicles
 
