@@ -13,9 +13,9 @@
 
 ### 1/22
 
+- Miriam: Web Accessibility Standards (WCAG 2) (available the first hour of class)
 - Gene: Lifting standards/material handling  best practices & practical thresholds
 - Steph: Human Centered Design Methods/LUMA Workplace
-- Miriam: Web Accessibility Standards (WCAG 2)
 - Bethany: Human Factors in Lean Management 
 - Mary: FDA standards for usability / HF in Medical Devices
 
