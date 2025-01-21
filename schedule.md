@@ -15,7 +15,7 @@
 
 - Miriam: Web Accessibility Standards (WCAG 2) (available the first hour of class)
 - Gene: Lifting standards/material handling  best practices & practical thresholds
-- Steph: Human Centered Design Methods/LUMA Workplace
+- Steph: Human Centered Design Methods/LUMA Workplace - [slides here](https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/slides/2025_01_22/LumaWorkplace_slides.pdf)
 - Bethany: Human Factors in Lean Management 
 - Mary: FDA standards for usability / HF in Medical Devices
 
