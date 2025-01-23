@@ -35,7 +35,7 @@
 - Steph: Workplace design considerations for pregnant workers
 - Bethany: Blame / Psychological Safety
 - Gene: Handle design for heavy objects
-- Franzi: behavioral economics and human factors in marketing strategies
+- Franzi: Cognitive Load and Multitasking
 
 <hr/>
 
@@ -136,7 +136,7 @@
 - Miriam: Best practices for voice user interfaces
 - Steph: MIL Standard of design (related to statuses in user interfaces)
 - Tanner: Workplace Ergonomics in Manufacturing Facilities 
-- Franzi: cognitive load and its impact on consumer choices 
+- Franzi: behavioral economics and human factors in marketing strategies 
 
 <hr/>
 
