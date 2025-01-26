@@ -23,7 +23,7 @@
 
 ### 1/29
 
-- Tanner: Human-Centered Design / Design Thinking
+- Tanner: Overview of Human Factors in Nuclear Power
 - Miguel: Contextual design
 - Luz: Human Factors in Cybersecurity
 - Elsy: Are there any nationally or globally recognized and agreed upon codes or standards in place for human factors?
@@ -53,7 +53,7 @@
 - Gene: Picking the correct knob and rpg (tuning vs selection tasks, detent vs no detent, knob size and weight vs detent strength)
 - Mary: Patient Safety concerns with AI 
 - Workload & Driving Manual vs Autonomous (Wade)
-- Tanner: HF in Nuclear Power Control Room Design
+- Tanner: HF of AI in Nuclear Power
 
 
 <hr/>
