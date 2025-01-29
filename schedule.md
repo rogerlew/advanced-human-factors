@@ -71,7 +71,7 @@
 
 - Drowsy Drivers (Wade)
 - Miriam: Differences in usability between older adults and younger adults
-- Franzi: visual perception and its influence on advertising 
+- Franzi: The Challenger Disaster 
 - Mary: Anthropometry and Hand Tool Design in medical devices (surgeons?)
 
 <hr/>
