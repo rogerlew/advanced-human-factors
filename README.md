@@ -39,6 +39,8 @@ Proposal Due Wednesday February 5, 2025
 
 Paper Due March 5, 2025 (Mid-term Week, week before spring break)
 
+[Grading Rubric](https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/product_evaluation_rubric.md)
+
 ## Main Project
 
 Due May 7, 2025 (Finals Week)
