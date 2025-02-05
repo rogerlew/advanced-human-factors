@@ -32,7 +32,7 @@
 
 ### 2/5
 
-- Steph: Workplace design considerations for pregnant workers
+- Steph: Workplace design considerations for pregnant workers - [slides here]([https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/slides/2025_01_22/LumaWorkplace_slides.pdf](https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/slides/2025_02_05/PSYC562_PregnantWorkplace.pdf)
 - Bethany: Blame / Psychological Safety
 - Gene: Handle design for heavy objects
 - Franzi: Cognitive Load and Multitasking
