@@ -16,7 +16,7 @@
 - Miriam: Web Accessibility Standards (WCAG 2) (available the first hour of class)
 - Gene: Lifting standards/material handling  best practices & practical thresholds
 - Steph: Human Centered Design Methods/LUMA Workplace - [slides here](https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/slides/2025_01_22/LumaWorkplace_slides.pdf)
-- Bethany: Human Factors in Lean Management 
+- Bethany: Human Factors in Lean Management - [slides](https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/slides/2025_01_22/Role%20of%20HF%20in%20Lean%20Management.pptx)
 - Mary: FDA standards for usability / HF in Medical Devices
 
 <hr/>
@@ -33,7 +33,8 @@
 ### 2/5
 
 - Steph: Workplace design considerations for pregnant workers - [slides here](https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/slides/2025_02_05/PSYC562_PregnantWorkplace.pdf)
-- Bethany: Blame / Psychological Safety
+- Bethany: Blame / Psychological Safety - [slides](https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/slides/2025_02_05/Blame%2C%20Psychological%20Safety%2C%20and%20HOP%20Principles%20.pptx)
+  Added slide at end of human performance culpability decision tree, the most original source I've found (Reason, 1997)
 - Gene: Handle design for heavy objects
 - Franzi: Cognitive Load and Multitasking
 
