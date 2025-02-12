@@ -42,7 +42,6 @@
 
 ### 2/12
 
-- Luz: Human Factors and the Use of Haptics
 - Miguel: Participatory design 
 - Elsy: User friendly designs for safe accessibility and equipment maintenance
 - Miriam: Linguistic considerations in interface design
@@ -62,7 +61,7 @@
 ### 2/26
 
 - Miguel: Designing for people with cognitive disabilities (LEGOLAND)
-- Luz: Designing for High-Stress Environments
+- Luz: Human Factors and the Use of Haptics
 - Bethany: Design for Maintainability
 - Elsy: If and how work-life balance relates to human factors
 
@@ -83,7 +82,7 @@
 
 ### 3/19
 
-- Luz: Human Factors and Health Wearables
+- Luz: Designing for High-Stress Environments
 - Miguel: Design and use of augmentative and alternative communication devices
 - Gene: Complexity management, designing for beginner vs expert
 
@@ -94,7 +93,8 @@
 - Elsy: Human factors for infants
 - Wade: Pedestrians & Illegal Crossings
 - Mary: Human factors considerations of robotic assisted surgery
-
+- Luz: Human Factors and Health Wearables
+  
 <hr/>
 
 ### 4/2
