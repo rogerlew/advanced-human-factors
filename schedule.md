@@ -6,7 +6,7 @@
 
 ### 1/15
 
-- Driver Expectancy (Wade)
+- Wade: Driver Expectancy
 - Franzi: role of human factors in customer decision-making
 
 <hr/>
@@ -52,7 +52,7 @@
 
 - Gene: Picking the correct knob and rpg (tuning vs selection tasks, detent vs no detent, knob size and weight vs detent strength)
 - Mary: Patient Safety concerns with AI 
-- Workload & Driving Manual vs Autonomous (Wade)
+- Wade: Workload & Driving Manual vs Autonomous
 - Tanner: HF of AI in Nuclear Power
 
 
@@ -69,7 +69,7 @@
 
 ### 3/5
 
-- Drowsy Drivers (Wade)
+- Wade: Drowsy Drivers
 - Miriam: Differences in usability between older adults and younger adults
 - Franzi: The Challenger Disaster 
 - Mary: Anthropometry and Hand Tool Design in medical devices (surgeons?)
