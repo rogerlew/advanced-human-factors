@@ -45,6 +45,7 @@
 - Miguel: Participatory design 
 - Elsy: User friendly designs for safe accessibility and equipment maintenance
 - Miriam: Linguistic considerations in interface design
+[Chinese app design: weird, but it works. Here's why](https://www.youtube.com/watch?v=WSMFnJnY7EA&t=1s)
 
 <hr/>
 
