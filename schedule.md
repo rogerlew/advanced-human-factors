@@ -43,7 +43,7 @@
 ### 2/12
 
 - Miguel: Participatory design 
-- Elsy: User friendly designs for safe accessibility and equipment maintenance
+- Elsy: User friendly designs for safe accessibility and equipment maintenance [Slides Link](https://vandalsuidaho-my.sharepoint.com/:p:/g/personal/hern1883_vandals_uidaho_edu/ERsZQNEax7xNiPQKRIurtj8Bov3a2eIOMSIUl0XYzXJkRA?e=zdMife)
 - Miriam: Linguistic considerations in interface design
 [Chinese app design: weird, but it works. Here's why](https://www.youtube.com/watch?v=WSMFnJnY7EA&t=1s)
 
