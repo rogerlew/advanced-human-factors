@@ -102,7 +102,7 @@
 
 - Gene: Human factors & aesthetics (is aesthetics human factors?)
 - Steph: Guidelines for human/AI interaction
-- Tanner: 3D Augmented Reality Head-Up Display in Vehicles
+- Tanner: Exoskeleton Ergonomics 
 
 
 <hr/>
@@ -119,7 +119,7 @@
 
 - Steph: Human-map considerations
 - Mary: Home medical devices concerns in Patient Safety
-- Tanner: Exoskeleton Ergonomics
+- Tanner: 3D Augmented Reality Head-Up Display in Vehicles
 - Franzi: psychology of pricing and economic decision-making
 
 <hr/>
