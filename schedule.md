@@ -63,7 +63,7 @@
 
 - Miguel: Designing for people with cognitive disabilities (LEGOLAND)
 - Luz: Human Factors and the Use of Haptics
-- Bethany: Design for Maintainability
+- Bethany: Design for Maintainability [slides](https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/slides/2025_02_26/Design%20for%20Maintainability%20-%20Case%20Study%20ENG12IA010.pdf)
 - Elsy: If and how work-life balance relates to human factors
 
 <hr/>
