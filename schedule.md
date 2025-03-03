@@ -73,7 +73,7 @@
 - Wade: Drowsy Drivers
 - Miriam: Differences in usability between older adults and younger adults
 - Franzi: The Challenger Disaster 
-- Mary: Anthropometry and Hand Tool Design in medical devices (surgeons?)
+- Mary: IFUs for medical devices
 
 <hr/>
 
@@ -86,6 +86,7 @@
 - Luz: Designing for High-Stress Environments
 - Miguel: Design and use of augmentative and alternative communication devices
 - Gene: Complexity management, designing for beginner vs expert
+- Mary: Macroergonomics applied to Patient safety 
 
 <hr/>
 
@@ -93,7 +94,6 @@
 
 - Elsy: Human factors for infants
 - Wade: Pedestrians & Illegal Crossings
-- Mary: Human factors considerations of robotic assisted surgery
 - Luz: Human Factors and Health Wearables
   
 <hr/>
