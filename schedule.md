@@ -101,7 +101,7 @@
 ### 4/2
 
 - Gene: Human factors & aesthetics (is aesthetics human factors?)
-- Steph: Guidelines for human/AI interaction
+- Steph: MIL Standard of design (related to graphical user interfaces) - [slides](https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/slides/2025_04_02/PSYC562_MIL-STD-1472G_User_Interfaces_.pdf)
 - Tanner: Exoskeleton Ergonomics 
 
 
@@ -136,7 +136,7 @@
 ### 4/30
 
 - Miriam: Best practices for voice user interfaces
-- Steph: MIL Standard of design (related to statuses in user interfaces)
+- Steph: Guidelines for human/AI interaction
 - Tanner: Workplace Ergonomics in Manufacturing Facilities 
 - Franzi: behavioral economics and human factors in marketing strategies 
 
