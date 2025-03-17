@@ -14,7 +14,7 @@ No class March 12, 2025 (Spring Recess)
 
 ### Classroom
 
-SHC 216
+Art and Architecture North (AAN) 115
 
 ### Online
 
