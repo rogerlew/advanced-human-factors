@@ -86,7 +86,6 @@
 - Luz: Designing for High-Stress Environments
 - Miguel: Design and use of augmentative and alternative communication devices
 - Gene: Complexity management, designing for beginner vs expert
-- Mary: Macroergonomics applied to Patient safety 
 
 <hr/>
 
@@ -95,6 +94,7 @@
 - Elsy: Human factors for infants
 - Wade: Pedestrians & Illegal Crossings
 - Luz: Human Factors and Health Wearables
+- Mary: Macroergonomics applied to Patient safety 
   
 <hr/>
 
