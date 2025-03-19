@@ -127,7 +127,7 @@
 ### 4/23
 
 - Bethany: NASA Human Systems Integration Handbook 
-- Wade: Social Media & Brain Rot/Slop
+- Wade: Roundabouts and Perception
 - Luz: Evaluating the Human Factor in Information Security
 - Elsy: Human factors and women
 
