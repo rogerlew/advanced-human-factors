@@ -110,7 +110,7 @@
 ### 4/9
 
 - Miriam: Adaptive triggers and other haptic feedback on gaming controllers
-- Miguel: Animal-Computer Interaction
+- Miguel: Games UXR
 - Bethany: Impact of cognitive biases in decision making 
 
 <hr/>
