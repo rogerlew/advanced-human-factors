@@ -112,6 +112,7 @@
 - Miriam: Adaptive triggers and other haptic feedback on gaming controllers
 - Miguel: Games UXR
 - Bethany: Impact of cognitive biases in decision making 
+- Franzi: Four-Day Workweek
 
 <hr/>
 
@@ -120,7 +121,6 @@
 - Steph: Guidelines for human/AI interaction [slides](https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/slides/2025_04_16/PSYC562_Guidelines_Human_AI_Interaction.pdf)
 - Mary: Home medical devices concerns in Patient Safety
 - Tanner: 3D Augmented Reality Head-Up Display in Vehicles
-- Franzi: Four-Day Workweek
 
 <hr/>
 
