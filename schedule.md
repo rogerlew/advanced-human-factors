@@ -111,7 +111,7 @@
 
 - Miriam: Adaptive triggers and other haptic feedback on gaming controllers
 - Miguel: Games UXR
-- Bethany: Impact of cognitive biases in decision making 
+- Bethany: Principles of Error Management 
 - Franzi: Four-Day Workweek
 
 <hr/>
