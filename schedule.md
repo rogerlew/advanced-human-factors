@@ -120,7 +120,7 @@
 
 - Steph: Guidelines for human/AI interaction [slides](https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/slides/2025_04_16/PSYC562_Guidelines_Human_AI_Interaction.pdf)
 - Mary: Home medical devices concerns in Patient Safety
-- Tanner: 3D Augmented Reality Head-Up Display in Vehicles
+- Tanner: Workplace Ergonomics and Robotics in Manufacturing Facilities
 
 <hr/>
 
@@ -137,7 +137,7 @@
 
 - Steph: Human-map considerations
 - Miriam: Best practices for voice user interfaces
-- Tanner: Workplace Ergonomics in Manufacturing Facilities 
+- Tanner: 3D Augmented Reality Head-Up Display in Vehicles
 - Franzi: behavioral economics and human factors in marketing strategies 
 
 <hr/>
