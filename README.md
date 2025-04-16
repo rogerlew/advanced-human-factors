@@ -44,7 +44,7 @@ Paper Due March 5, 2025 (Mid-term Week, week before spring break)
 ## Main Project
 
 [Main Project Description, rubric, and examples](https://github.com/rogerlew/advanced-human-factors/tree/Spring2025/main_project)
-Due May 7, 2025 (Finals Week)
+Due May 9, 2025 (Finals Week)
 
 
 # Everything else: see Canvas
