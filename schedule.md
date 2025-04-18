@@ -129,7 +129,7 @@
 - Bethany: NASA Human Systems Integration Handbook 
 - Wade: Roundabouts and Perception
 - Luz: Evaluating the Human Factor in Information Security
-- Elsy: Human factors and women
+- Elsy: Human factors and women [Slides Link](https://vandalsuidaho-my.sharepoint.com/:p:/r/personal/hern1883_vandals_uidaho_edu/Documents/Human%20Factors%20and%20Women.pptx?d=wa38426623e344ca484d43bd54a7426a7&csf=1&web=1&e=RUfOOx)
 
 <hr/>
 
