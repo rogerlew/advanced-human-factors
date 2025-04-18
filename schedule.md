@@ -91,7 +91,7 @@
 
 ### 3/26
 
-- Elsy: Human factors for infants
+- Elsy: Human factors for infants [Slides Link](https://vandalsuidaho-my.sharepoint.com/:p:/r/personal/hern1883_vandals_uidaho_edu/Documents/Human%20Factors%20for%20Children%20and%20Schools.pptx?d=w0477dd85c3fa4eb3b33ad2ec4470a2b1&csf=1&web=1&e=Z4iykO)
 - Wade: Pedestrians & Illegal Crossings
 - Luz: Human Factors and Health Wearables
 - Mary: Macroergonomics applied to Patient safety 
