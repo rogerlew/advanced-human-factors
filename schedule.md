@@ -135,7 +135,7 @@
 
 ### 4/30
 
-- Steph: Human-map considerations
+- Steph: Human-map considerations [slides](https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/slides/2025_04_30/PSYC562_UserMapDesign.pdf)
 - Miriam: Best practices for voice user interfaces
 - Tanner: 3D Augmented Reality Head-Up Display in Vehicles
 - Franzi: behavioral economics and human factors in marketing strategies 
