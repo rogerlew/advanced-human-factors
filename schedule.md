@@ -111,7 +111,7 @@
 
 - Miriam: Adaptive triggers and other haptic feedback on gaming controllers
 - Miguel: Games UXR
-- Bethany: Principles of Error Management 
+- Bethany: Principles of Error Management - [slides](https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/slides/2025_04_09/Principles%20of%20Error%20Management.pdf)
 - Franzi: Four-Day Workweek
 
 <hr/>
@@ -126,7 +126,7 @@
 
 ### 4/23
 
-- Bethany: NASA Human Systems Integration Handbook 
+- Bethany: NASA Human Systems Integration Handbook -[slides]( https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/slides/2025_04_16/HSI%20Plan%20Guidance%20NASA.pdf)
 - Wade: Roundabouts and Perception
 - Luz: Evaluating the Human Factor in Information Security
 - Elsy: Human factors and women [Slides Link](https://vandalsuidaho-my.sharepoint.com/:p:/r/personal/hern1883_vandals_uidaho_edu/Documents/Human%20Factors%20and%20Women.pptx?d=wa38426623e344ca484d43bd54a7426a7&csf=1&web=1&e=RUfOOx)
