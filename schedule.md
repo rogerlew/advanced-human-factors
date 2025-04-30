@@ -137,7 +137,7 @@
 
 - Steph: Human-map considerations [slides](https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/slides/2025_04_30/PSYC562_UserMapDesign.pdf)
 - Miriam: Best practices for voice user interfaces
-- Tanner: 3D Augmented Reality Head-Up Display in Vehicles
+- Tanner: Human Error, Performance, and Resilience
 - Franzi: Using AI for Medical Advice
  
 
