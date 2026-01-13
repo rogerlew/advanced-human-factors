@@ -132,6 +132,36 @@ Remote students:
 - Recordings kept short-term only
 - No sharing/publishing recordings
 
+## Generating Syllabus Exports
+
+Use **pandoc** to generate HTML (for Canvas) and PDF (for university records):
+
+```bash
+# HTML for Canvas - open in browser and copy/paste
+pandoc README.md -o README.html --standalone
+
+# PDF for university records
+pandoc README.md -o Lew,Roger_SP26_PSYC526_Syllabus.pdf.pdf
+```
+
+## Pre-Semester Tasks
+
+### Send Syllabus to Department
+
+Email the syllabus PDF to Chris Menter:
+- **To:** cmmenter@uidaho.edu
+- **Subject:** PSYC 562 Spring 20XX Syllabus
+- **Attachment:** README.pdf
+
+### Send First Meeting Announcement
+
+Before the first class, post announcement to Canvas:
+1. Open `announcement-templates/first-meeting.htm` in browser
+2. Copy content
+3. Paste into Canvas announcement
+4. Verify dates, times, and Teams link are correct for current semester
+5. Post announcement
+
 ## AI Policy
 
 Current policy: AI tools allowed with proper documentation and citation.
