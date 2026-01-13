@@ -1,147 +1,62 @@
 # Schedule
 
-### 1/8 Logistics
+### 1/14 Logistics
 
-<hr/>
-
-### 1/15
-
-- Wade: Driver Expectancy
-- Franzi: role of human factors in customer decision-making
-
-<hr/>
-
-### 1/22
-
-- Miriam: Web Accessibility Standards (WCAG 2) (available the first hour of class)
-- Gene: Lifting standards/material handling  best practices & practical thresholds
-- Steph: Human Centered Design Methods/LUMA Workplace - [slides here](https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/slides/2025_01_22/LumaWorkplace_slides.pdf)
-- Bethany: Human Factors in Lean Management - [slides](https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/slides/2025_01_22/Role%20of%20HF%20in%20Lean%20Management.pptx)
-- Mary: FDA standards for usability / HF in Medical Devices
-
-<hr/>
-
-### 1/29
-
-- Tanner: Overview of Human Factors in Nuclear Power
-- Miguel: Contextual design
-- Luz: Human Factors in Cybersecurity
-- Elsy: Are there any nationally or globally recognized and agreed upon codes or standards in place for human factors?
-
-<hr/>
-
-### 2/5
-
-- Steph: Workplace design considerations for pregnant workers - [slides here](https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/slides/2025_02_05/PSYC562_PregnantWorkplace.pdf)
-- Bethany: Blame / Psychological Safety - [slides](https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/slides/2025_02_05/Blame%2C%20Psychological%20Safety%2C%20and%20HOP%20Principles%20.pptx)
-  Added slide at end of human performance culpability decision tree, the most original source I've found (Reason, 1997)
-- Gene: Handle design for heavy objects
-- Franzi: Cognitive Load and Multitasking
-
-<hr/>
-
-### 2/12
-
-- Miguel: Participatory design 
-- Elsy: User friendly designs for safe accessibility and equipment maintenance [Slides Link](https://vandalsuidaho-my.sharepoint.com/:p:/g/personal/hern1883_vandals_uidaho_edu/ERsZQNEax7xNiPQKRIurtj8Bov3a2eIOMSIUl0XYzXJkRA?e=zdMife)
-- Miriam: Linguistic considerations in interface design
-[Chinese app design: weird, but it works. Here's why](https://www.youtube.com/watch?v=WSMFnJnY7EA&t=1s)
-
-<hr/>
-
-### 2/19
-
-- Gene: Picking the correct knob and rpg (tuning vs selection tasks, detent vs no detent, knob size and weight vs detent strength)
-- Mary: Patient Safety concerns with AI 
-- Wade: Workload & Driving Manual vs Autonomous
-- Tanner: HF of AI in Nuclear Power
-
-
-<hr/>
-
-### 2/26
-
-- Miguel: Designing for people with cognitive disabilities (LEGOLAND)
-- Luz: Human Factors and the Use of Haptics
-- Bethany: Design for Maintainability [slides](https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/slides/2025_02_26/Design%20for%20Maintainability%20-%20Case%20Study%20ENG12IA010.pdf)
-- Elsy: If and how work-life balance relates to human factors
-
-<hr/>
-
-### 3/5
-
-- Wade: Drowsy Drivers
-- Miriam: Differences in usability between older adults and younger adults
-- Franzi: The Challenger Disaster 
-- Mary: IFUs for medical devices
-
-<hr/>
-
-### 3/12 - Spring Recess (No class)
-
-<hr/>
-
-### 3/19
-
-- Luz: Designing for High-Stress Environments
-- Miguel: Design and use of augmentative and alternative communication devices
-- Gene: Complexity management, designing for beginner vs expert
-
-<hr/>
-
-### 3/26
-
-- Elsy: Human factors for infants [Slides Link](https://vandalsuidaho-my.sharepoint.com/:p:/r/personal/hern1883_vandals_uidaho_edu/Documents/Human%20Factors%20for%20Children%20and%20Schools.pptx?d=w0477dd85c3fa4eb3b33ad2ec4470a2b1&csf=1&web=1&e=Z4iykO)
-- Wade: Pedestrians & Illegal Crossings
-- Luz: Human Factors and Health Wearables
-- Mary: Macroergonomics applied to Patient safety 
-  
-<hr/>
-
-### 4/2
-
-- Gene: Human factors & aesthetics (is aesthetics human factors?)
-- Steph: MIL Standard of design (related to graphical user interfaces) - [slides](https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/slides/2025_04_02/PSYC562_MIL-STD-1472G_User_Interfaces_.pdf)
-- Tanner: Exoskeleton Ergonomics 
-
-
-<hr/>
-
-### 4/9
-
-- Miriam: Adaptive triggers and other haptic feedback on gaming controllers
-- Miguel: Games UXR
-- Bethany: Principles of Error Management - [slides](https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/slides/2025_04_09/Principles%20of%20Error%20Management.pdf)
-- Franzi: Four-Day Workweek
-
-<hr/>
-
-### 4/16
-
-- Steph: Guidelines for human/AI interaction [slides](https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/slides/2025_04_16/PSYC562_Guidelines_Human_AI_Interaction.pdf)
-- Mary: Home medical devices concerns in Patient Safety
-- Tanner: Workplace Ergonomics and Robotics in Manufacturing Facilities
-
-<hr/>
-
-### 4/23
-
-- Bethany: NASA Human Systems Integration Handbook -[slides]( https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/slides/2025_04_16/HSI%20Plan%20Guidance%20NASA.pdf)
-- Wade: Roundabouts and Perception
-- Luz: Evaluating the Human Factor in Information Security
-- Elsy: Human factors and women [Slides Link](https://vandalsuidaho-my.sharepoint.com/:p:/r/personal/hern1883_vandals_uidaho_edu/Documents/Human%20Factors%20and%20Women.pptx?d=wa38426623e344ca484d43bd54a7426a7&csf=1&web=1&e=RUfOOx)
-
-<hr/>
-
-### 4/30
-
-- Steph: Human-map considerations [slides](https://github.com/rogerlew/advanced-human-factors/blob/Spring2025/slides/2025_04_30/PSYC562_UserMapDesign.pdf)
-- Miriam: Best practices for voice user interfaces
-- Tanner: Human Error, Performance, and Resilience
-- Franzi: Using AI for Medical Advice
- 
-
-<hr/>
-
-### 5/7 - Finals week (No class)
-
+| Date | Speaker | Topic |
+|------|---------|-------|
+| 1/21 | Nic F | |
+|  | Ruizhe | |
+|  | Nicholas | |
+|  | Jake | |
+| 1/28 | Derek | |
+|  | Jenna | |
+|  | Jeremy | |
+|  | Sam | |
+| 2/4 | Benjamin | |
+|  | Nicholas | |
+|  | Angel | |
+|  | Katie | |
+| 2/11 | Ruizhe | |
+|  | Diti | |
+|  | Louisa | |
+|  | Jeremy | |
+| 2/18 | Katie | |
+|  | Nicholas | |
+|  | Hannah | |
+|  | Derek | |
+| 2/25 | Jodi | |
+|  | Jeremy | |
+|  | Sam | |
+|  | Yves | |
+| 3/4 | Angel | |
+|  | Katie | |
+|  | Matthew | |
+|  | Benjamin | |
+| 3/11 | Jenna | |
+|  | Louisa | |
+|  | Nic F | |
+|  | Yves | |
+| **3/18** | **Spring Recess** | **No class** |
+| 3/25 | Diti | |
+|  | Hannah | |
+|  | Benjamin | |
+|  | Sam | |
+| 4/1 | Matthew | |
+|  | Sarah | |
+|  | Derek | |
+| 4/8 | Ruizhe | |
+|  | Angel | |
+|  | Jodi | |
+| 4/15 | Louisa | |
+|  | Jenna | |
+|  | Jake | |
+| 4/22 | Sarah | |
+|  | Jodi | |
+|  | Diti | |
+| 4/29 | Yves | |
+|  | Hannah | |
+|  | Matthew | |
+| 5/6 | Jake | |
+|  | Nic F | |
+|  | Sarah | |
+| **5/13** | **Finals Week** | **No class** |
