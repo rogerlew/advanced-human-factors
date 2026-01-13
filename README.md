@@ -1,4 +1,4 @@
-# Psyc 562: Advanced Human Factors
+# SP26 PSYC 562: Advanced Human Factors Syllabus
 
 ### Announcements
 
