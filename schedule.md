@@ -34,7 +34,7 @@
 |  | Benjamin | |
 | 3/11 | Jenna | |
 |  | Louisa | |
-|  | Nic F | Forensic Application of Human Factors |
+|  | Nic F | Expectancy and product misuse |
 |  | Yves | |
 | **3/18** | **Spring Recess** | **No class** |
 | 3/25 | Diti | |
@@ -57,6 +57,6 @@
 |  | Hannah | Inclusive Design for Safety |
 |  | Matthew | |
 | 5/6 | Jake | |
-|  | Nic F | |
+|  | Nic F | Forensic Application of Human Factors |
 |  | Sarah |Effectiveness of Early Warning Systems used in healthcare settings |
 | **5/13** | **Finals Week** | **No class** |
