@@ -5,9 +5,9 @@
 | Date | Speaker | Topic |
 |------|---------|-------|
 | 1/21 | Nic F | |
-|  | Ruizhe | |
-|  | Nicholas | |
-|  | Jake | |
+|  | Ruizhe |Algorithms in decision making in medical area |
+|  | Nicholas |Signal Detection Theory |
+|  | Yves | |
 | 1/28 | Derek | |
 |  | Jenna | |
 |  | Jeremy | |
@@ -17,17 +17,17 @@
 |  | Angel | |
 |  | Katie | |
 | 2/11 | Ruizhe | |
-|  | Diti | |
+|  | Diti |Mental Overload and Fatigue |
 |  | Louisa | |
 |  | Jeremy | |
 | 2/18 | Katie | |
 |  | Nicholas | |
-|  | Hannah | |
+|  | Hannah | Situational Awareness & Human Error |
 |  | Derek | |
 | 2/25 | Jodi | |
 |  | Jeremy | |
 |  | Sam | |
-|  | Yves | |
+|  | Jake | |
 | 3/4 | Angel | |
 |  | Katie | |
 |  | Matthew | |
@@ -38,7 +38,7 @@
 |  | Yves | |
 | **3/18** | **Spring Recess** | **No class** |
 | 3/25 | Diti | |
-|  | Hannah | |
+|  | Hannah | Safe by Design & Early Integration |
 |  | Benjamin | |
 |  | Sam | |
 | 4/1 | Matthew | |
@@ -54,7 +54,7 @@
 |  | Jodi | |
 |  | Diti | |
 | 4/29 | Yves | |
-|  | Hannah | |
+|  | Hannah | Inclusive Design for Safety |
 |  | Matthew | |
 | 5/6 | Jake | |
 |  | Nic F | |
