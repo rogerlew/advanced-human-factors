@@ -4,7 +4,7 @@
 
 | Date | Speaker | Topic |
 |------|---------|-------|
-| 1/21 | Nic F | |
+| 1/21 | Nic F | Warnings and Instructions related to Hazard Awareness |
 |  | Ruizhe |Algorithms in decision making in medical area |
 |  | Nicholas |Signal Detection Theory |
 |  | Yves | |
@@ -13,15 +13,15 @@
 |  | Jeremy | |
 |  | Sam | |
 | 2/4 | Benjamin | |
-|  | Nicholas | |
+|  | Nicholas |SEEV Model |
 |  | Angel | |
 |  | Katie | |
 | 2/11 | Ruizhe | |
 |  | Diti |Mental Overload and Fatigue |
-|  | Louisa | |
+|  | Louisa | Human-centered design |
 |  | Jeremy | |
 | 2/18 | Katie | |
-|  | Nicholas | |
+|  | Nicholas | Map Designs |
 |  | Hannah | Situational Awareness & Human Error |
 |  | Derek | |
 | 2/25 | Jodi | |
@@ -34,7 +34,7 @@
 |  | Benjamin | |
 | 3/11 | Jenna | |
 |  | Louisa | |
-|  | Nic F | |
+|  | Nic F | Forensic Application of Human Factors |
 |  | Yves | |
 | **3/18** | **Spring Recess** | **No class** |
 | 3/25 | Diti | |
@@ -42,7 +42,7 @@
 |  | Benjamin | |
 |  | Sam | |
 | 4/1 | Matthew | |
-|  | Sarah | |
+|  | Sarah |Improving UI of simulation technology used in medical training |
 |  | Derek | |
 | 4/8 | Ruizhe | |
 |  | Angel | |
@@ -50,7 +50,7 @@
 | 4/15 | Louisa | |
 |  | Jenna | |
 |  | Jake | |
-| 4/22 | Sarah | |
+| 4/22 | Sarah |Neural correlates of proprioception|
 |  | Jodi | |
 |  | Diti | |
 | 4/29 | Yves | |
@@ -58,5 +58,5 @@
 |  | Matthew | |
 | 5/6 | Jake | |
 |  | Nic F | |
-|  | Sarah | |
+|  | Sarah |Effectiveness of Early Warning Systems used in healthcare settings |
 | **5/13** | **Finals Week** | **No class** |
