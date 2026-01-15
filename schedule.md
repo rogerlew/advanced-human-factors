@@ -11,7 +11,7 @@
 | 1/28 | Derek | |
 |  | Jenna | |
 |  | Jeremy | |
-|  | Sam | |
+|  | Louisa | |
 | 2/4 | Benjamin | |
 |  | Nicholas |SEEV Model |
 |  | Angel | Operator Vigilance and Fatigue in Long-Duration Missions |
@@ -33,9 +33,9 @@
 |  | Matthew | |
 |  | Benjamin | |
 | 3/11 | Jenna | |
-|  | Louisa | |
 |  | Nic F | Expectancy and product misuse |
 |  | Yves | |
+|  | Sam | |
 | **3/18** | **Spring Recess** | **No class** |
 | 3/25 | Diti |  Mental Overload and Fatigue - Safety Risk and Performance |
 |  | Hannah | Safe by Design & Early Integration |
@@ -47,11 +47,11 @@
 | 4/8 | Ruizhe |  |
 |  | Angel | Human Factors in Sensor Data Fusion |
 |  | Jodi | |
-| 4/15 | Louisa | |
+| 4/15 | Jodi | |
 |  | Jenna | |
 |  | Jake | |
 | 4/22 | Sarah |Neural correlates of proprioception|
-|  | Jodi | |
+|  | Louisa | |
 |  | Diti | |
 | 4/29 | Yves | |
 |  | Hannah | Inclusive Design for Safety |
