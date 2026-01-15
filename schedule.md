@@ -16,7 +16,7 @@
 |  | Nicholas |SEEV Model |
 |  | Angel | Operator Vigilance and Fatigue in Long-Duration Missions |
 |  | Katie | |
-| 2/11 | Ruizhe | |
+| 2/11 | Ruizhe | Attribution of automated vehicle accidents |
 |  | Diti |  Mental Overload and Fatigue  |
 |  | Louisa | Human-centered design |
 |  | Jeremy | |
@@ -44,7 +44,7 @@
 | 4/1 | Matthew | |
 |  | Sarah |Improving UI of simulation technology used in medical training |
 |  | Derek | |
-| 4/8 | Ruizhe | |
+| 4/8 | Ruizhe |  |
 |  | Angel | Human Factors in Sensor Data Fusion |
 |  | Jodi | |
 | 4/15 | Louisa | |
