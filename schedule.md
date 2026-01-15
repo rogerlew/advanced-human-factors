@@ -14,7 +14,7 @@
 |  | Sam | |
 | 2/4 | Benjamin | |
 |  | Nicholas |SEEV Model |
-|  | Angel | |
+|  | Angel | Operator Vigilance and Fatigue in Long-Duration Missions |
 |  | Katie | |
 | 2/11 | Ruizhe | |
 |  | Diti |Mental Overload and Fatigue |
@@ -28,7 +28,7 @@
 |  | Jeremy | |
 |  | Sam | |
 |  | Jake | |
-| 3/4 | Angel | |
+| 3/4 | Angel | Human-Machine Teaming in Data Analysis |
 |  | Katie | |
 |  | Matthew | |
 |  | Benjamin | |
@@ -45,7 +45,7 @@
 |  | Sarah |Improving UI of simulation technology used in medical training |
 |  | Derek | |
 | 4/8 | Ruizhe | |
-|  | Angel | |
+|  | Angel | Human Factors in Sensor Data Fusion |
 |  | Jodi | |
 | 4/15 | Louisa | |
 |  | Jenna | |
