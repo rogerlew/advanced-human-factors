@@ -17,7 +17,7 @@
 |  | Angel | Operator Vigilance and Fatigue in Long-Duration Missions |
 |  | Katie | |
 | 2/11 | Ruizhe | |
-|  | Diti |Mental Overload and Fatigue |
+|  | Diti |  Mental Overload and Fatigue  |
 |  | Louisa | Human-centered design |
 |  | Jeremy | |
 | 2/18 | Katie | |
@@ -37,7 +37,7 @@
 |  | Nic F | Expectancy and product misuse |
 |  | Yves | |
 | **3/18** | **Spring Recess** | **No class** |
-| 3/25 | Diti | |
+| 3/25 | Diti |  Mental Overload and Fatigue - Safety Risk and Performance |
 |  | Hannah | Safe by Design & Early Integration |
 |  | Benjamin | |
 |  | Sam | |
