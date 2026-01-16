@@ -26,7 +26,7 @@
 |  | Derek | |
 | 2/25 | Jodi | |
 |  | Jeremy | |
-|  | Sam | |
+|  | Sam | Human Factors and Motion Sickness |
 |  | Jake | |
 | 3/4 | Angel | Human-Machine Teaming in Data Analysis |
 |  | Katie | |
@@ -35,12 +35,12 @@
 | 3/11 | Jenna | |
 |  | Nic F | Expectancy and product misuse |
 |  | Yves | |
-|  | Sam | |
+|  | Sam | Algorithm trust with GPS navigation |
 | **3/18** | **Spring Recess** | **No class** |
 | 3/25 | Diti |  Mental Overload and Fatigue - Safety Risk and Performance |
 |  | Hannah | Safe by Design & Early Integration |
 |  | Benjamin | |
-|  | Sam | |
+|  | Sam | Human Factors in Formula One Racing |
 | 4/1 | Matthew | |
 |  | Sarah |Improving UI of simulation technology used in medical training |
 |  | Derek | |
