@@ -7,7 +7,7 @@
 | 1/21 | Nic F | Warnings and Instructions related to Hazard Awareness |
 |  | Ruizhe |Algorithms in decision making in medical area |
 |  | Nicholas |Signal Detection Theory |
-|  | Yves | |
+|  | Yves | Trust perception in algorithmic advice |
 | 1/28 | Derek | |
 |  | Jenna | |
 |  | Jeremy | |
@@ -34,7 +34,7 @@
 |  | Benjamin | |
 | 3/11 | Jenna | |
 |  | Nic F | Expectancy and product misuse |
-|  | Yves | |
+|  | Yves | Human error in autonomous vehicles |
 |  | Sam | Algorithm trust with GPS navigation |
 | **3/18** | **Spring Recess** | **No class** |
 | 3/25 | Diti |  Mental Overload and Fatigue - Safety Risk and Performance |
@@ -53,7 +53,7 @@
 | 4/22 | Sarah |Neural correlates of proprioception|
 |  | Louisa | |
 |  | Diti | |
-| 4/29 | Yves | |
+| 4/29 | Yves | Human factor considerations in medical devices |
 |  | Hannah | Inclusive Design for Safety |
 |  | Matthew | |
 | 5/6 | Jake | |
