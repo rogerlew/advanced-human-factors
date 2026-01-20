@@ -27,7 +27,7 @@
 | 2/25 | Jodi | |
 |  | Jeremy | General AI User Experience & Challenges in AI Chatbots in Higher Education |
 |  | Sam | Human Factors and Motion Sickness |
-|  | Jake | |
+|  | Jake | Building wireframes in Figma and testing prototypes |
 | 3/4 | Angel | Human-Machine Teaming in Data Analysis |
 |  | Katie | |
 |  | Matthew | |
@@ -49,14 +49,14 @@
 |  | Jodi | |
 | 4/15 | Jodi | |
 |  | Jenna | |
-|  | Jake | |
+|  | Jake | Human Factors applied to National Park safety/signage |
 | 4/22 | Sarah |Neural correlates of proprioception|
 |  | Louisa | |
 |  | Diti | |
 | 4/29 | Yves | Human factor considerations in medical devices |
 |  | Hannah | Inclusive Design for Safety |
 |  | Matthew | |
-| 5/6 | Jake | |
+| 5/6 | Jake | Ergonomics impact on behavior, motivation, and focus in a workspace |
 |  | Nic F | Forensic Application of Human Factors |
 |  | Sarah |Effectiveness of Early Warning Systems used in healthcare settings |
 | **5/13** | **Finals Week** | **No class** |
