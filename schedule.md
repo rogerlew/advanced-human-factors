@@ -10,7 +10,7 @@
 |  | Yves | Trust perception in algorithmic advice |
 | 1/28 | Derek | |
 |  | Jenna | |
-|  | Jeremy | |
+|  | Jeremy | Usability Testing & Naturalistic Decision Making |
 |  | Louisa | |
 | 2/4 | Benjamin | |
 |  | Nicholas |SEEV Model |
@@ -19,13 +19,13 @@
 | 2/11 | Ruizhe | Attribution of automated vehicle accidents |
 |  | Diti |  Mental Overload and Fatigue  |
 |  | Louisa | Human-centered design |
-|  | Jeremy | |
+|  | Jeremy | Product Design & Heuristic Evaluation |
 | 2/18 | Katie | |
 |  | Nicholas | Map Designs |
 |  | Hannah | Situational Awareness & Human Error |
 |  | Derek | |
 | 2/25 | Jodi | |
-|  | Jeremy | |
+|  | Jeremy | General AI User Experience & Challenges in AI Chatbots in Higher Education |
 |  | Sam | Human Factors and Motion Sickness |
 |  | Jake | |
 | 3/4 | Angel | Human-Machine Teaming in Data Analysis |
