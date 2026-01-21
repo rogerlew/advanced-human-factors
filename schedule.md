@@ -12,7 +12,7 @@
 |  | Jenna | |
 |  | Jeremy | Usability Testing & Naturalistic Decision Making |
 |  | Louisa | |
-| 2/4 | Benjamin | |
+| 2/4 | Benjamin | Attention and working memory in high workload environments |
 |  | Nicholas |SEEV Model |
 |  | Angel | Operator Vigilance and Fatigue in Long-Duration Missions |
 |  | Katie | |
@@ -31,7 +31,7 @@
 | 3/4 | Angel | Human-Machine Teaming in Data Analysis |
 |  | Katie | |
 |  | Matthew | |
-|  | Benjamin | |
+|  | Benjamin | Applied human factors in aviation |
 | 3/11 | Jenna | |
 |  | Nic F | Expectancy and product misuse |
 |  | Yves | Human error in autonomous vehicles |
@@ -39,7 +39,7 @@
 | **3/18** | **Spring Recess** | **No class** |
 | 3/25 | Diti |  Mental Overload and Fatigue - Safety Risk and Performance |
 |  | Hannah | Safe by Design & Early Integration |
-|  | Benjamin | |
+|  | Benjamin | Optimizing human performance in medical device technologies |
 |  | Sam | Human Factors in Formula One Racing |
 | 4/1 | Matthew | |
 |  | Sarah |Improving UI of simulation technology used in medical training |
