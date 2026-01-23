@@ -15,12 +15,12 @@
 | 2/4 | Benjamin | Attention and working memory in high workload environments |
 |  | Nicholas |SEEV Model |
 |  | Angel | Operator Vigilance and Fatigue in Long-Duration Missions |
-|  | Katie | |
+|  | Katie | Human factors of wearable fitness trackers |
 | 2/11 | Ruizhe | Attribution of automated vehicle accidents |
 |  | Diti |  Mental Overload and Fatigue  |
 |  | Louisa | Human-centered design |
 |  | Jeremy | Product Design & Heuristic Evaluation |
-| 2/18 | Katie | |
+| 2/18 | Katie | Human factors of drug delivery devices |
 |  | Nicholas | Map Designs |
 |  | Hannah | Situational Awareness & Human Error |
 |  | Derek | The Normalization of Deviance in HF |
@@ -29,7 +29,7 @@
 |  | Sam | Human Factors and Motion Sickness |
 |  | Jake | Building wireframes in Figma and testing prototypes |
 | 3/4 | Angel | Human-Machine Teaming in Data Analysis |
-|  | Katie | |
+|  | Katie | Social media algorithms |
 |  | Matthew | |
 |  | Benjamin | Applied human factors in aviation |
 | 3/11 | Jenna | |
