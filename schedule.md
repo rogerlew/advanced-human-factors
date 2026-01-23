@@ -8,7 +8,7 @@
 |  | Ruizhe |Algorithms in decision making in medical area |
 |  | Nicholas |Signal Detection Theory |
 |  | Yves | Trust perception in algorithmic advice |
-| 1/28 | Derek | |
+| 1/28 | Derek | Cognitive overload and the paradox of automation |
 |  | Jenna | |
 |  | Jeremy | Usability Testing & Naturalistic Decision Making |
 |  | Louisa | |
@@ -23,7 +23,7 @@
 | 2/18 | Katie | |
 |  | Nicholas | Map Designs |
 |  | Hannah | Situational Awareness & Human Error |
-|  | Derek | |
+|  | Derek | The Normalization of Deviance in HF |
 | 2/25 | Jodi | |
 |  | Jeremy | General AI User Experience & Challenges in AI Chatbots in Higher Education |
 |  | Sam | Human Factors and Motion Sickness |
@@ -43,7 +43,7 @@
 |  | Sam | Human Factors in Formula One Racing |
 | 4/1 | Matthew | |
 |  | Sarah |Improving UI of simulation technology used in medical training |
-|  | Derek | |
+|  | Derek | Dark Patterns and the Ethics of Deceptive Design in HF |
 | 4/8 | Ruizhe |  |
 |  | Angel | Human Factors in Sensor Data Fusion |
 |  | Jodi | |
