@@ -24,8 +24,7 @@
 |  | Nicholas | Map Designs |
 |  | Hannah | Situational Awareness & Human Error |
 |  | Derek | The Normalization of Deviance in HF |
-| 2/25 | Jodi | |
-|  | Jeremy | General AI User Experience & Challenges in AI Chatbots in Higher Education |
+| 2/25 | Jeremy | General AI User Experience & Challenges in AI Chatbots in Higher Education |
 |  | Sam | Human Factors and Motion Sickness |
 |  | Jake | Building wireframes in Figma and testing prototypes |
 | 3/4 | Angel | Human-Machine Teaming in Data Analysis |
@@ -46,9 +45,7 @@
 |  | Derek | Dark Patterns and the Ethics of Deceptive Design in HF |
 | 4/8 | Ruizhe |  |
 |  | Angel | Human Factors in Sensor Data Fusion |
-|  | Jodi | |
-| 4/15 | Jodi | |
-|  | Jenna | |
+| 4/15 | Jenna | |
 |  | Jake | Human Factors applied to National Park safety/signage |
 | 4/22 | Sarah |Neural correlates of proprioception|
 |  | Louisa | |
