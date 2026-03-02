@@ -25,7 +25,6 @@
 |  | Hannah | Situational Awareness & Human Error |
 |  | Derek | The Normalization of Deviance in HF |
 | 2/25 | Jeremy | General AI User Experience & Challenges in AI Chatbots in Higher Education |
-|  | Sam | Human Factors and Motion Sickness |
 |  | Jake | Building wireframes in Figma and testing prototypes |
 | 3/4 | Angel | Human-Machine Teaming in Data Analysis |
 |  | Katie | Social media algorithms |
@@ -34,12 +33,10 @@
 | 3/11 | Jenna | |
 |  | Nic F | Expectancy and product misuse |
 |  | Yves | Human error in autonomous vehicles |
-|  | Sam | Algorithm trust with GPS navigation |
 | **3/18** | **Spring Recess** | **No class** |
 | 3/25 | Diti |  Mental Overload and Fatigue - Safety Risk and Performance |
 |  | Hannah | Safe by Design & Early Integration |
 |  | Benjamin | Optimizing human performance in medical device technologies |
-|  | Sam | Human Factors in Formula One Racing |
 | 4/1 | Matthew | |
 |  | Sarah |Improving UI of simulation technology used in medical training |
 |  | Derek | Dark Patterns and the Ethics of Deceptive Design in HF |
