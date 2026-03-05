@@ -28,7 +28,6 @@
 |  | Jake | Building wireframes in Figma and testing prototypes |
 | 3/4 | Angel | Human-Machine Teaming in Data Analysis |
 |  | Katie | Social media algorithms |
-|  | Matthew | |
 |  | Benjamin | Applied human factors in aviation |
 | 3/11 | Jenna | |
 |  | Nic F | Expectancy and product misuse |
@@ -37,8 +36,7 @@
 | 3/25 | Diti |  Mental Overload and Fatigue - Safety Risk and Performance |
 |  | Hannah | Safe by Design & Early Integration |
 |  | Benjamin | Optimizing human performance in medical device technologies |
-| 4/1 | Matthew | |
-|  | Sarah |Improving UI of simulation technology used in medical training |
+| 4/1 | Sarah |Improving UI of simulation technology used in medical training |
 |  | Derek | Dark Patterns and the Ethics of Deceptive Design in HF |
 | 4/8 | Ruizhe |  |
 |  | Angel | Human Factors in Sensor Data Fusion |
@@ -49,7 +47,6 @@
 |  | Diti | |
 | 4/29 | Yves | Human factor considerations in medical devices |
 |  | Hannah | Inclusive Design for Safety |
-|  | Matthew | |
 | 5/6 | Jake | Ergonomics impact on behavior, motivation, and focus in a workspace |
 |  | Nic F | Forensic Application of Human Factors |
 |  | Sarah |Effectiveness of Early Warning Systems used in healthcare settings |
