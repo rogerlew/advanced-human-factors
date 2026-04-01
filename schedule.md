@@ -38,7 +38,7 @@
 |  | Benjamin | Optimizing human performance in medical device technologies |
 | 4/1 | Sarah |Improving UI of simulation technology used in medical training |
 |  | Derek | Dark Patterns and the Ethics of Deceptive Design in HF |
-| 4/8 | Ruizhe |  |
+| 4/8 | Ruizhe | Spatial Navigation |
 |  | Angel | Human Factors in Sensor Data Fusion |
 | 4/15 | Jenna | |
 |  | Jake | Human Factors applied to National Park safety/signage |
