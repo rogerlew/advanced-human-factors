@@ -42,8 +42,8 @@
 |  | Angel | Human Factors in Sensor Data Fusion |
 | 4/15 | Jenna | |
 |  | Jake | Human Factors applied to National Park safety/signage |
-| 4/22 | Sarah |Neural correlates of proprioception|
 |  | Louisa | |
+| 4/22 | Sarah |Neural correlates of proprioception|
 |  | Diti | |
 | 4/29 | Yves | Human factor considerations in medical devices |
 |  | Hannah | Inclusive Design for Safety |
