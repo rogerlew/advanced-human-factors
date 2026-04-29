@@ -46,7 +46,7 @@
 | 4/22 | Sarah |Postural instructions and proprioception|
 |  | Hannah | Inclusive Design for Safety |
 | 4/29 | Yves | Human factor considerations in medical devices |
-|  | Diti | |
+|  | Diti | Human Factors in Night Opertions: Vision, Perception, & Errors |
 | 5/6 | Jake | Ergonomics impact on behavior, motivation, and focus in a workspace |
 |  | Nic F | Forensic Application of Human Factors |
 |  | Sarah |Effectiveness of Early Warning Systems used in healthcare settings |
